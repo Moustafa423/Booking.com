@@ -1,0 +1,22 @@
+.Btn {
+  width: 100%;
+  border: 1px solid #0071c2;
+  color: #0071c2;
+  background-color: white;
+  font-size: 15px;
+}
+
+.Btn:hover {
+  background-color: #bddef88c !important;
+}
+.text {
+  margin-left: 7px;
+}
+
+.text2 {
+  color: gray;
+  font-size: 12px;
+}
+.Size {
+  font-size: 12px;
+}

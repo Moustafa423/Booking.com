@@ -1,0 +1,8 @@
+.Reservation {
+  background-color: #ebf3ff;
+  border: 1px solid #ebf3ff;
+  border-radius: 3px;
+}
+li {
+  list-style: none;
+}

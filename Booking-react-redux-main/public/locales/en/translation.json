@@ -1,0 +1,941 @@
+{
+  "ApartmentComponents": {
+    "All-Availability": {
+      "Bed room": "Bed room",
+      "bunk bed": "bunk bed",
+      "twin bed": "twin bed",
+      "full bed": "full bed",
+      "queen bed": "queen bed",
+      "king bed": "king bed",
+      "sofa bed": "sofa bed",
+      "futon bed": "futon bed",
+      "Livng room": "Livng room",
+      "Availability": "Availability",
+      "Apartment name": "Apartment name:",
+      "Country": "Country:",
+      "City": "City:",
+      "Check in": "Check in:",
+      "Check out": "Check out:",
+      "Days": "Days:",
+      "Total price": "Total price:",
+      "Reserve": "Reserve",
+      "Sorry this date is already booked": "Sorry this date is already booked",
+      "Check In": "Check In",
+      "Check Out": "Check Out",
+      "Check Availability": " Check Availability",
+      "Sleeps": "Sleeps",
+      "Accommodation Type": "Accommodation Type",
+      "Price": "Price",
+      "per day": "per day",
+      "When would you like to stay at":"When would you like to stay at"
+    },
+    "ApartmentImg": {
+      "Apartment": "Apartment",
+      "New to Booking.com": "New to Booking.com",
+      "Extra health & safety measures": "Extra health & safety measures",
+      "This property has taken extra health and hygiene measures to ensure that your safety is their priority": "This property has taken extra health and hygiene measures to ensure that your safety is their priority",
+      "See health & safety details": "See health & safety details"
+    },
+    "BodyCom": {
+      "DescCom": {
+        "Missing some information?": "Missing some information?",
+        "Yes": "Yes",
+        "No": "No"
+      },
+      "reservation": {
+        "Garden view": "Garden view",
+        "Balcony": "Balcony",
+        "Terrace": "Terrace",
+        "Mountain view": "Mountain view",
+        "Perfect for a 1-night stay": "Perfect for a 1-night stay!",
+        "Located in": "Located in",
+        "location score of": "location score of",
+        "Apartment with": "Apartment with:",
+        "Reserve": "Reserve"
+      }
+    },
+    "Facilities": {
+      "Facilities of": "Facilities of",
+      "General": "General",
+      "Entertainment": "Entertainment",
+      "Outdoor & View": "Outdoor & View",
+      "Cooking & Cleaening": "Cooking & Cleaening",
+      "Missing some information?": "Missing some information?",
+      "Yes": "Yes",
+      "No": "No"
+    },
+    "Faqs": {
+      "FAQs": "FAQs",
+      "How do I get to know which facilities / services each Apartment offers?": "How do I get to know which facilities / services each Apartment offers?",
+      "Please, have a look at": "Please, have a look at",
+      "Facilities": "Facilities",
+      "In this section you will also find the Hotel facilities / services": "In this section you will also find the Hotel facilities / services",
+      "Do you charge any fees for your services?": "Do you charge any fees for your services?",
+      "No, Booking.com doesn’t charge any fees for its services. Our service is completely free of charge and we will not add to your accommodation any additional fee for our service": "No, Booking.com doesn’t charge any fees for its services. Our service is completely free of charge and we will not add to your accommodation any additional fee for our service.",
+      "Are fees and taxes included in prices?": "Are fees and taxes included in prices?",
+      "This is different for each country and also any type of accommodation.": "This is different for each country and also any type of accommodation.",
+      "How do I know that my reservation is confirmed?": "How do I know that my reservation is confirmed?",
+      "After completing and sending us your order form, you will get an automatic receipt e-mail containing your order number. Within 30 minutes, you will receive Accommodation confirmation. The Accommodation confirmation serves you as a voucher so please do not forget to print it out and take it with you as it contains all the vital details (address of your hotel, contact phone numbers and other instructions). In case that you requested in your order form any special requests – ie. extra bed, non smoking room, parking etc, please always double check with the hotel directly that they noted your request and are able to arrange it for you": "After completing and sending us your order form, you will get an automatic receipt e-mail containing your order number. Within 30 minutes, you will receive Accommodation confirmation. The Accommodation confirmation serves you as a voucher so please do not forget to print it out and take it with you as it contains all the vital details (address of your hotel, contact phone numbers and other instructions). In case that you requested in your order form any special requests – ie. extra bed, non smoking room, parking etc, please always double check with the hotel directly that they noted your request and are able to arrange it for you.",
+      "Can I book your services by telephone, e-mail or fax?": "Can I book your services by telephone, e-mail or fax?",
+      "Unfortunately not If you wish to make a booking, please fill in the order form on our website": "Unfortunately not If you wish to make a booking, please fill in the order form on our website.",
+      "I made a reservation but did not receive any confirmation. What should I do?": "I made a reservation but did not receive any confirmation. What should I do?",
+      "Before finalizing your reservation please double check your e-mail address because a mistake in the e-mail address is the most common reason why our clients do not receive their confirmations. In some cases, our e-mails can also end up in the “spam folder” so please check it as well. In any case, please try to contact us by e-mail as we will be very happy to assist you and solve the problem as soon as possible": "Before finalizing your reservation please double check your e-mail address because a mistake in the e-mail address is the most common reason why our clients do not receive their confirmations. In some cases, our e-mails can also end up in the “spam folder” so please check it as well. In any case, please try to contact us by e-mail as we will be very happy to assist you and solve the problem as soon as possible."
+    },
+    "GuestReviews": {
+      "Guest reviews": "Guest reviews",
+      "Reviews": " Reviews",
+      "Read all reviews": "Read all reviews",
+       
+      "ReviewCanavas": {
+        "Leave Review": "Leave Review",
+        "Thank you for your review": "Thank you for your review",
+        "Please leave a review and say what your opinion about this apartment": "Please leave a review and say what your opinion about this apartment",
+        "Type your review here": "Type your review here:",
+        "Rate by star": "Rate by star",
+        "Send your review": "Send your review"
+      }
+    },
+    "HouseRules": {
+      "House rules": "House rules",
+      "takes special requests - add in the next step!": "takes special requests - add in the next step!",
+      "Check in": "Check in :",
+      "Check out": "Check out :",
+      "Cancellation/ prepayment": "Cancellation/ prepayment :",
+      "You can cancel your reservation and get your money back in": "You can cancel your reservation and get your money back in",
+      "days": "days",
+      "No age restriction": "No age restriction :",
+      "There is no age requirement for check-in": "There is no age requirement for check-in",
+      "Pets": "Pets :",
+      "Pets are allowed": "Pets are allowed",
+      "Pets are not allowed": "Pets are not allowed",
+      "Payments by Booking.com": "Payments by Booking.com :",
+      "Booking.com takes your payment on behalf of the property for this stay, but make sure you have cash for any extras once you get there": "Booking.com takes your payment on behalf of the property for this stay, but make sure you have cash for any extras once you get there."
+    },
+    "MostPopularfacilitites": {
+      "Air conditioning": "Air conditioning",
+      "Heating": "Heating",
+      "Free Wifi 5G": "Free Wifi 5G",
+      "Electric vehicle charging station": "Electric vehicle charging station",
+      "Most popular facilities": "Most popular facilities",
+      "We'll send you an email confirming your reservation": "We'll send you an email confirming your reservation",
+      "No credit card needed to book": "No credit card needed to book.",
+      "Lock in a great price for your upcoming stay": "Lock in a great price for your upcoming stay",
+      "Prices may go up, so secure your reservation today": "Prices may go up, so secure your reservation today"
+    },
+    "QuestionsAnd Answers": {
+      "Got a question?": "Got a question?",
+      "Property questions and answers": "Property questions and answers",
+      "Looking for more info? Send a question to the property to find out more.": "Looking for more info? Send a question to the property to find out more.",
+      "Ask a question": "Ask a question",
+      "Didn't find the answer you were looking for? Ask a question about the property": "Didn't find the answer you were looking for? Ask a question about the property",
+      "Type your question here": "Type your question here:",
+      "characters left": "characters left",
+      "Submit your question": "Submit your question",
+      "Your question will be published on Booking.com after it has been approved and answered.": "Your question will be published on Booking.com after it has been approved and answered.",
+      "Click here to read post guidelines.": "Click here to read post guidelines.",
+      "Read all questions": "Read all questions",
+      "Question & Answers": "Question & Answers",
+      "Your question has been successfully posted": "Your question has been successfully posted",
+      "No answers yet": "No answers yet",
+      "Read More": "Read More"
+
+
+    },
+    "WhyChose": {
+      "5 reasons to choose": "5 reasons to choose",
+      "Prices you can't beat!": "Prices you can't beat!",
+      "Booking is safe": "Booking is safe",
+      "Manage your bookings online": "Manage your bookings online",
+      "The staff speak English": "The staff speak English",
+      "Great location and facilities for couples": "Great location and facilities for couples"
+    }
+  },
+  "articles": {
+    "BestCoffee": {
+      "Best Coffee Cities in the US": "Best Coffee Cities in the US",
+      "Eat & Drink": "Eat & Drink",
+      "Whether you like a basic brew or larger-than-life latte, here are five of the best US cities for coffee-lovers to visit for the ultimate caffeine fix.": "Whether you like a basic brew or larger-than-life latte, here are five of the best US cities for coffee-lovers to visit for the ultimate caffeine fix.",
+      "Portland, OR": "Portland, OR",
+      "Try out independent roasters in Portland, Oregon": "Try out independent roasters in Portland, Oregon",
+      "Portland is a city synonymous with coffee. Known for their independent roasteries, cozy cafés, and experimental espressos, the relaxed river city is packed with local coffee charm. After waking up in the laid-back downtown Society Hotel, check out local roasteries like Portland Roasting Company for their variety and local charm, Heart Coffee for their famous fruity flavors (and amazing mochas), or Stumptown Coffee Roasters for unique seasonal coffees like the piña colada cold brew.": "Portland is a city synonymous with coffee. Known for their independent roasteries, cozy cafés, and experimental espressos, the relaxed river city is packed with local coffee charm. After waking up in the laid-back downtown Society Hotel, check out local roasteries like Portland Roasting Company for their variety and local charm, Heart Coffee for their famous fruity flavors (and amazing mochas), or Stumptown Coffee Roasters for unique seasonal coffees like the piña colada cold brew.",
+      "Seattle, WA": "Seattle, WA",
+      "Visit the coffee epicenter of the US in Seattle": "Visit the coffee epicenter of the US in Seattle",
+      "As the birthplace of Starbucks, the rainy city of Seattle is a major US hub for all things coffee. Visit the first ever Starbucks at 1st and Pike before heading just nine blocks away to the 15,000-square-foot Starbucks Roastery – a self-proclaimed Willy Wonka’s Chocolate Factory for coffee-lovers. For a more local experience, visit coffeehouses like Café Allegro which claims to be “Seattle’s oldest espresso bar.” Switch over to decaf before heading to sleep at the Mayflower Park Hotel built in 1927 and located downtown.": "As the birthplace of Starbucks, the rainy city of Seattle is a major US hub for all things coffee. Visit the first ever Starbucks at 1st and Pike before heading just nine blocks away to the 15,000-square-foot Starbucks Roastery – a self-proclaimed Willy Wonka’s Chocolate Factory for coffee-lovers. For a more local experience, visit coffeehouses like Café Allegro which claims to be “Seattle’s oldest espresso bar.” Switch over to decaf before heading to sleep at the Mayflower Park Hotel built in 1927 and located downtown.",
+      "San Francisco, CA": "San Francisco, CA",
+      "Innovation is the key to coffee in San Francisco": "Innovation is the key to coffee in San Francisco",
+      "San Francisco's coffee scene has been around since the California Gold Rush brought names like Folger Coffee Company to the forefront (do check out the historic, Renaissance revival Folgers Coffee Company Building if you venture into the city's Financial District). They have a strong love for their old-school coffee, but you’ll see innovation mixing the old and new coffee techniques in the Bay Area. Places like Contraband Coffee Bar, Wrecking Ball Roasting Company, or the popular Blue Bottle Coffee are great spots to see what California coffee has to offer. Spend the night at Chancellor Hotel on Union Square which offers a menu of 12 specialty pillows to choose from – so you’ll definitely sleep comfortably even after all that caffeine.": "San Francisco's coffee scene has been around since the California Gold Rush brought names like Folger Coffee Company to the forefront (do check out the historic, Renaissance revival Folgers Coffee Company Building if you venture into the city's Financial District). They have a strong love for their old-school coffee, but you’ll see innovation mixing the old and new coffee techniques in the Bay Area. Places like Contraband Coffee Bar, Wrecking Ball Roasting Company, or the popular Blue Bottle Coffee are great spots to see what California coffee has to offer. Spend the night at Chancellor Hotel on Union Square which offers a menu of 12 specialty pillows to choose from – so you’ll definitely sleep comfortably even after all that caffeine.",
+      "Brooklyn, NY": "Brooklyn, NY",
+      "Keep up with the hustle and bustle with a coffee in Brooklyn, NY": "Keep up with the hustle and bustle with a coffee in Brooklyn, NY",
+      " New York City probably would be sleeping by now if not for their love of coffee. For the best coffee experiences this city has to offer, head over to some of the more hipster spots in Brooklyn. Williamsburg is the ideal place for an espresso at places like Hungry Ghost, Brooklyn Roasting Company, or Devoción where you can get the perfect new-age Brooklyn mix of sophisticated hangout and urban ambiance. Stay overnight in Williamsburg at the Pod Brooklyn, which has a nearby campus featuring rooms, amenities and outdoor space.": " New York City probably would be sleeping by now if not for their love of coffee. For the best coffee experiences this city has to offer, head over to some of the more hipster spots in Brooklyn. Williamsburg is the ideal place for an espresso at places like Hungry Ghost, Brooklyn Roasting Company, or Devoción where you can get the perfect new-age Brooklyn mix of sophisticated hangout and urban ambiance. Stay overnight in Williamsburg at the Pod Brooklyn, which has a nearby campus featuring rooms, amenities and outdoor space.",
+      "Minneapolis, MN": "Minneapolis, MN",
+      "Enjoy the best kept secret in the coffee community – Minneapolis": "Enjoy the best kept secret in the coffee community – Minneapolis",
+      "Minneapolis is the place to go for a rustic and relaxed coffee scene. The state of Minnesota has long been at the forefront of the national speciality coffee scene thanks to progressive roasting styles and locally grown, high-quality select beans. Coffee spots like Spyhouse, Dogwood, Duluth Coffee Company and UP focus on quality and ethics in their roasting – and make a pretty mean cup of joe. Stay downtown at the Millennium Minneapolis, which is connected to the skyway so you won't even have to step outside before your morning brew.": "Minneapolis is the place to go for a rustic and relaxed coffee scene. The state of Minnesota has long been at the forefront of the national speciality coffee scene thanks to progressive roasting styles and locally grown, high-quality select beans. Coffee spots like Spyhouse, Dogwood, Duluth Coffee Company and UP focus on quality and ethics in their roasting – and make a pretty mean cup of joe. Stay downtown at the Millennium Minneapolis, which is connected to the skyway so you won't even have to step outside before your morning brew."
+    },
+    "LasVegas": {
+      "Las Vegas Beyond the Casinos": "Las Vegas Beyond the Casinos",
+      "Destinations": "Destinations",
+      "In Las Vegas, gambling isn’t the only way to hit the jackpot. Nowadays the city promises an array of alternative entertainment, from world-className concerts and blockbuster shows, to adrenaline-pumping roller coasters and Michelin-starred cuisine. For a sure-bet on a good time, we’ve gathered Sin City’s top attractions beyond the blackjack tables and slot machines.": "In Las Vegas, gambling isn’t the only way to hit the jackpot. Nowadays the city promises an array of alternative entertainment, from world-className concerts and blockbuster shows, to adrenaline-pumping roller coasters and Michelin-starred cuisine. For a sure-bet on a good time, we’ve gathered Sin City’s top attractions beyond the blackjack tables and slot machines.",
+      "Explore the Strip & Fremont Street": "Explore the Strip & Fremont Street",
+      "One of the world’s most recognizable streets": "One of the world’s most recognizable streets",
+      "Las Vegas Boulevard—more commonly known as the Strip—is one of the world’s most recognizable streets. Walking down this 4-mile stretch, you’ll pass the city’s best shopping and most famous sights, from the neon Welcome to Las Vegas sign to the Bellagio’s fountain show. Then there’s Fremont Street, which is sort of like the Strip’s quirky older brother. It was the first paved road in downtown Las Vegas, and to this day promises neon signs flashing above and musicians performing on the sidewalks below. Want to stay close to (but out of earshot from) the action? Check out the Desert Rose Resort, whose spacious condo suites come with fully equipped kitchens, all without the commotion of a connected casino.": "Las Vegas Boulevard—more commonly known as the Strip—is one of the world’s most recognizable streets. Walking down this 4-mile stretch, you’ll pass the city’s best shopping and most famous sights, from the neon Welcome to Las Vegas sign to the Bellagio’s fountain show. Then there’s Fremont Street, which is sort of like the Strip’s quirky older brother. It was the first paved road in downtown Las Vegas, and to this day promises neon signs flashing above and musicians performing on the sidewalks below. Want to stay close to (but out of earshot from) the action? Check out the Desert Rose Resort, whose spacious condo suites come with fully equipped kitchens, all without the commotion of a connected casino.",
+      "Vintage lights & Vegas history": "Vintage lights & Vegas history",
+      "The Neon Museum is a technicolor graveyard": "The Neon Museum is a technicolor graveyard",
+      "If Fremont Street doesn’t satisfy your classic-Vegas itch, head to the Neon Museum. Its collection is as immense as it is impressive, with two outdoor “boneyards” and a visitor’s center housed in the former La Concha Motel lobby. The artifacts are like a walk through history, tracking the trends of design and technology from the 1930s to present-day Las Vegas. For a glimpse into the city’s grimmer past, The Mob Museum is only five minutes away. After a day of history, settle back into modern-day luxury at the Marriott’s Grand Chateau, one of the highest-rated hotels in Vegas.": "If Fremont Street doesn’t satisfy your classic-Vegas itch, head to the Neon Museum. Its collection is as immense as it is impressive, with two outdoor “boneyards” and a visitor’s center housed in the former La Concha Motel lobby. The artifacts are like a walk through history, tracking the trends of design and technology from the 1930s to present-day Las Vegas. For a glimpse into the city’s grimmer past, The Mob Museum is only five minutes away. After a day of history, settle back into modern-day luxury at the Marriott’s Grand Chateau, one of the highest-rated hotels in Vegas.",
+      "A taste of Europe in the desert": "A taste of Europe in the desert",
+      "Float down Venetian canals in the middle of the desert": "Float down Venetian canals in the middle of the desert",
+      "You don’t need to take a transatlantic flight to experience Europe. The Paris Hotel not only offers fine French cuisine in an authentic brasserie ambiance, but even has a half-scale replica of the Eiffel Tower, which stands forty-six stories tall and offers incredible views down the Strip. Or you could take a step back in time to Ancient Rome at Casesar’s Palace, where the Colosseum hosts in the world’s most exciting performers – though no gladiators. For a modern-day Italian experience, you can go on a gondola ride down the canals that run along restaurant terraces and shopping arcades modeled after Venice. The Palazzo at The Venetian® has a 9.1 rating, promising both comfort and fun.": "You don’t need to take a transatlantic flight to experience Europe. The Paris Hotel not only offers fine French cuisine in an authentic brasserie ambiance, but even has a half-scale replica of the Eiffel Tower, which stands forty-six stories tall and offers incredible views down the Strip. Or you could take a step back in time to Ancient Rome at Casesar’s Palace, where the Colosseum hosts in the world’s most exciting performers – though no gladiators. For a modern-day Italian experience, you can go on a gondola ride down the canals that run along restaurant terraces and shopping arcades modeled after Venice. The Palazzo at The Venetian® has a 9.1 rating, promising both comfort and fun.",
+      "Mile-high thrills": "Mile-high thrills",
+      "An amusement park not for the faint of heart": "An amusement park not for the faint of heart",
+      "The Stratosphere Tower is a key fixture in the Vegas skyline and claims to be the country’s “tallest freestanding observation tower” at a staggering 1,150 feet. The top level doesn’t just offer incredible city views, but is also home to the highest thrill rides in the country. Even the boldest daredevils break a sweat free-falling at 40 mph doing a Sky Jump or getting spun at 3 Gs over the edge of the 900-foot-high balcony. Once everyone’s pulse has settled, the M Resort Spa & Casino is the perfect place to unwind for the night.": "The Stratosphere Tower is a key fixture in the Vegas skyline and claims to be the country’s “tallest freestanding observation tower” at a staggering 1,150 feet. The top level doesn’t just offer incredible city views, but is also home to the highest thrill rides in the country. Even the boldest daredevils break a sweat free-falling at 40 mph doing a Sky Jump or getting spun at 3 Gs over the edge of the 900-foot-high balcony. Once everyone’s pulse has settled, the M Resort Spa & Casino is the perfect place to unwind for the night.",
+      "Catch a world-className performance": "Catch a world-className performance",
+      "Every Cirque du Soleil show promises jaw-dropping acts": "Every Cirque du Soleil show promises jaw-dropping acts",
+      "Every evening hosts incredible shows that give Broadway a run for its money, making Las Vegas one of the world’s entertainment capitals. On top of visiting acts from international stars, there are dozens of shows that run 365 days a year, from various Cirque du Soleil performances to the Blue Man Group and Jabbawockeez dance crew. Situated halfway between the Strip and McCarran International Airport, the Home2 Suites by Hilton Las Vegas City Center also offers a free shuttle service for travelers arriving by plane.": "Every evening hosts incredible shows that give Broadway a run for its money, making Las Vegas one of the world’s entertainment capitals. On top of visiting acts from international stars, there are dozens of shows that run 365 days a year, from various Cirque du Soleil performances to the Blue Man Group and Jabbawockeez dance crew. Situated halfway between the Strip and McCarran International Airport, the Home2 Suites by Hilton Las Vegas City Center also offers a free shuttle service for travelers arriving by plane.",
+      "Airborne adventures": "Airborne adventures",
+      "What’s better than a bird’s-eye view of the Grand Canyon?": "What’s better than a bird’s-eye view of the Grand Canyon?",
+      "The Grand Canyon is too close—not to mention breathtaking—to pass up. There’s no better way to fully appreciate this natural wonder than by helicopter. Numerous companies offer packages that will take you from Vegas to Boulder City, before hopping a chopper and soaring over and through the Grand Canyon. If time is tight for a day trip, you can still get airborne at Vegas Indoor Skydiving, where vertical wind tunnels let visitors experience the phenomena of flight. Treat yourself to a stay at Bally's Las Vegas Hotel & Casino, one of the city’s most highly rated hotels.": "The Grand Canyon is too close—not to mention breathtaking—to pass up. There’s no better way to fully appreciate this natural wonder than by helicopter. Numerous companies offer packages that will take you from Vegas to Boulder City, before hopping a chopper and soaring over and through the Grand Canyon. If time is tight for a day trip, you can still get airborne at Vegas Indoor Skydiving, where vertical wind tunnels let visitors experience the phenomena of flight. Treat yourself to a stay at Bally's Las Vegas Hotel & Casino, one of the city’s most highly rated hotels."
+    },
+    "Yoga": {
+      "5 soulful yoga retreat destinations": "5 soulful yoga retreat destinations",
+      "Destinations": "Destinations",
+      "Over the past year, many people have sought refuge in the peaceful practice of yoga. Now that travel is on the rise again, we discovered that one in four travelers will be prioritizing relaxation on their next trip. If you’re also looking to unite mind, body, and wanderlust, check out our selection of the world’s most rejuvenating yoga retreats.": "Over the past year, many people have sought refuge in the peaceful practice of yoga. Now that travel is on the rise again, we discovered that one in four travelers will be prioritizing relaxation on their next trip. If you’re also looking to unite mind, body, and wanderlust, check out our selection of the world’s most rejuvenating yoga retreats.",
+      "COMO Shambhala Estate, Bali, Indonesia": "COMO Shambhala Estate, Bali, Indonesia",
+      "Infinity pool and outdoor showers in lush green surroundings at COMO Shambhala Estate": "Infinity pool and outdoor showers in lush green surroundings at COMO Shambhala Estate",
+      "Nestled in a lush tropical enclave, Shambhala Estate is the ideal place to relax in Bali. At this luxury yoga retreat, stone steps paved along meandering waterways lead to private residences, and infinity pools overlook the dense jungle canopy. A stay here is guaranteed to cleanse your body of the stresses of daily life – even without a round of yoga. But if mindfulness is on your mind, Shambhala Estate has a full menu of holistic health offerings, ranging from meditation, Pilates, yoga, hydrotherapy, and more. Want a more personal experience? The estate’s internationally accredited teachers will happily craft an individualized wellness plan for you.": "Nestled in a lush tropical enclave, Shambhala Estate is the ideal place to relax in Bali. At this luxury yoga retreat, stone steps paved along meandering waterways lead to private residences, and infinity pools overlook the dense jungle canopy. A stay here is guaranteed to cleanse your body of the stresses of daily life – even without a round of yoga. But if mindfulness is on your mind, Shambhala Estate has a full menu of holistic health offerings, ranging from meditation, Pilates, yoga, hydrotherapy, and more. Want a more personal experience? The estate’s internationally accredited teachers will happily craft an individualized wellness plan for you.",
+      "Paradis Plage Surf Yoga & Spa, Taghazout, Morocco": "Paradis Plage Surf Yoga & Spa, Taghazout, Morocco",
+      "Yoga className on the beach at Paradis Plage Surf Yoga & Spa": "Yoga className on the beach at Paradis Plage Surf Yoga & Spa",
+      "Situated in the rustic fishing village of Taghazout, Paradis Plage Surf Yoga & Spa is a 300-acre oasis of calm and fun. From focusing on your breathwork at seaside yoga workshops to losing said breath in an intense surf lesson, there’s no shortage of enjoyment here. After a sun-kissed yoga session, tuck into healthy organic food at the resort’s restaurant and savor a selection of fresh food and juices to refuel after practice. End your day with a massage or treat yourself to a cocktail while gazing out at the sun as it sinks into the Atlantic.": "Situated in the rustic fishing village of Taghazout, Paradis Plage Surf Yoga & Spa is a 300-acre oasis of calm and fun. From focusing on your breathwork at seaside yoga workshops to losing said breath in an intense surf lesson, there’s no shortage of enjoyment here. After a sun-kissed yoga session, tuck into healthy organic food at the resort’s restaurant and savor a selection of fresh food and juices to refuel after practice. End your day with a massage or treat yourself to a cocktail while gazing out at the sun as it sinks into the Atlantic.",
+      "Tri, Koggala Lake, Sri Lanka": "Tri, Koggala Lake, Sri Lanka",
+      "Disappear into the natural surroundings at Tri": "Disappear into the natural surroundings at Tri",
+      "Tri sits on the shores of the tranquil Lake Koggala, enclosed on all sides by sweet-scented cinnamon plantations. The resorts blend into its natural surroundings, thanks to its walls which are made out of wood from the local plantations. Only the occasional peek of a thatched roof or glimmer from the infinity pools give away its location. The resort is the brainchild of Rob Drummond, who’s big on sustainability. Nature seeps into every space here, with geckos scuttling about and kingfishers perched by earth-tone pools. It’ll be tempting to simply kick back and enjoy the natural beauty,with a green juice in hand, but there’s also an array of wellness services to try. Rob's wife, Lara, conducts yoga sessions in a treetop sala (hall) hidden among the bamboo groves, and her client lists includes Gerard Butler and Sienna Miller. Thanks to Tri’s proximity to the coast, you can soak away any lingering stresses in the roaring Indian Ocean.": "Tri sits on the shores of the tranquil Lake Koggala, enclosed on all sides by sweet-scented cinnamon plantations. The resorts blend into its natural surroundings, thanks to its walls which are made out of wood from the local plantations. Only the occasional peek of a thatched roof or glimmer from the infinity pools give away its location. The resort is the brainchild of Rob Drummond, who’s big on sustainability. Nature seeps into every space here, with geckos scuttling about and kingfishers perched by earth-tone pools. It’ll be tempting to simply kick back and enjoy the natural beauty,with a green juice in hand, but there’s also an array of wellness services to try. Rob's wife, Lara, conducts yoga sessions in a treetop sala (hall) hidden among the bamboo groves, and her client lists includes Gerard Butler and Sienna Miller. Thanks to Tri’s proximity to the coast, you can soak away any lingering stresses in the roaring Indian Ocean.",
+      "Zenses Wellness and Yoga Resort, Tulum, Mexico": "Zenses Wellness and Yoga Resort, Tulum, Mexico",
+      "Zenses Wellness and Yoga Resort in Tulum is a sanctuary for those who love sun, sand, and soulful reflection. It's a bohemian-chic yogi abode designed to cater to every taste while bringing you closer to nature. Situated 1.5 miles inland from Paraíso Beach, this adults-only wellness retreat has poolside hammocks, refreshing outdoor showers, hidden reading nooks, and, of course, yoga. The best part? All sessions and equipment are free, but you’re welcome to tip the instructor. Once you’re done putting yourself in posture-aligning poses, it’s time to unfold into Savasana next to the pool.": "Zenses Wellness and Yoga Resort in Tulum is a sanctuary for those who love sun, sand, and soulful reflection. It's a bohemian-chic yogi abode designed to cater to every taste while bringing you closer to nature. Situated 1.5 miles inland from Paraíso Beach, this adults-only wellness retreat has poolside hammocks, refreshing outdoor showers, hidden reading nooks, and, of course, yoga. The best part? All sessions and equipment are free, but you’re welcome to tip the instructor. Once you’re done putting yourself in posture-aligning poses, it’s time to unfold into Savasana next to the pool.",
+      "Six Senses, Douro Valley, Portugal": "Six Senses, Douro Valley, Portugal",
+      "Retreat to the mountains at this oasis of peace amid northern Portugal’s vineyards and sunbaked canyons. Vaulted ceilings reach down to meet your mountain pose at this 19th-century mansion-turned-hotel by the edge of the Douro River. The surrounding landscape is spectacular all year, with rolling hills awash with the rugged farmland colors and ancient manor homes. The resort’s three-day Discover Yoga program aims to improve your mind-body balance, suitable for novices and advanced yogis alike. If you prefer to practice solo, focus on your breath while sitting in a bird’s nest swing or dive into a refreshing moment of poolside meditation. Top it all off with a dining experience at the on-site restaurant, accompanied by a glass of local wine.": "Retreat to the mountains at this oasis of peace amid northern Portugal’s vineyards and sunbaked canyons. Vaulted ceilings reach down to meet your mountain pose at this 19th-century mansion-turned-hotel by the edge of the Douro River. The surrounding landscape is spectacular all year, with rolling hills awash with the rugged farmland colors and ancient manor homes. The resort’s three-day Discover Yoga program aims to improve your mind-body balance, suitable for novices and advanced yogis alike. If you prefer to practice solo, focus on your breath while sitting in a bird’s nest swing or dive into a refreshing moment of poolside meditation. Top it all off with a dining experience at the on-site restaurant, accompanied by a glass of local wine."
+    }
+  },
+  "Destination": {
+    "Destination Inspiration: San Juan, Puerto Rico": "Destination Inspiration: San Juan, Puerto Rico",
+    "Worlds collide in San Juan, Puerto Rico’s vibrant capital, a simmering melting pot of indigenous, European, American, and Afro-Caribbean cultures with endless attractions to delight all types of travelers. In Old San Juan, time stands still. Candy-colored colonial houses line the cobbled lanes that criss-cross from Plaza Colón to the 17th-century San Juan Gate – once the main entrance to the walled city. All along the water’s edge, fortresses stand watch from towering cliffs, their cannons still aiming out over the sea. Just outside the old town, the rocky shoreline gives way to the soft sand of El Escambrón Beach, a sheltered snorkeling and swimming spot.": "Worlds collide in San Juan, Puerto Rico’s vibrant capital, a simmering melting pot of indigenous, European, American, and Afro-Caribbean cultures with endless attractions to delight all types of travelers. In Old San Juan, time stands still. Candy-colored colonial houses line the cobbled lanes that criss-cross from Plaza Colón to the 17th-century San Juan Gate – once the main entrance to the walled city. All along the water’s edge, fortresses stand watch from towering cliffs, their cannons still aiming out over the sea. Just outside the old town, the rocky shoreline gives way to the soft sand of El Escambrón Beach, a sheltered snorkeling and swimming spot.",
+    "El Morro Fortress, Puerto Rico": "El Morro Fortress, Puerto Rico",
+    "San Juan’s cultural fusion is never more evident than in its food. In the city center, upscale European restaurants sit alongside street stalls and fast food joints, while home-grown chefs like José Enrique take traditional cooking to fine-dining heights. The stand-out local dish is “mofongo” – fried and mashed plantain stuffed with crispy bacon, chicken, or prawns. No matter the time, one thing’s for sure – the smell of freshly roasted Puerto Rican coffee is never far away. You’ll find it served milky at breakfast, or as an afternoon pick-me-up paired with pastries in Spanish-style cafés.": "San Juan’s cultural fusion is never more evident than in its food. In the city center, upscale European restaurants sit alongside street stalls and fast food joints, while home-grown chefs like José Enrique take traditional cooking to fine-dining heights. The stand-out local dish is “mofongo” – fried and mashed plantain stuffed with crispy bacon, chicken, or prawns. No matter the time, one thing’s for sure – the smell of freshly roasted Puerto Rican coffee is never far away. You’ll find it served milky at breakfast, or as an afternoon pick-me-up paired with pastries in Spanish-style cafés.",
+    "When to go?": "When to go?",
+    "A waterfront view of Old San Juan, Puerto Rico": "A waterfront view of Old San Juan, Puerto Rico",
+    "San Juan’s tropical climate makes for warm, humid weather all year round, with average temperatures rarely dipping below 77 degrees Fahrenheit. Bargain accommodation prices can often be found in September and October – but bear in mind that these months are the tail end of the Caribbean hurricane season.": "San Juan’s tropical climate makes for warm, humid weather all year round, with average temperatures rarely dipping below 77 degrees Fahrenheit. Bargain accommodation prices can often be found in September and October – but bear in mind that these months are the tail end of the Caribbean hurricane season.",
+    "Where to stay?": "Where to stay?",
+    "Best Western Plus Condado Palm Inn & Suites – San Juan, Puerto Rico": "Best Western Plus Condado Palm Inn & Suites – San Juan, Puerto Rico",
+    "The outdoor pool at the Best Western Plus": "The outdoor pool at the Best Western Plus",
+    "This modern hotel is just a short distance from the waterfront, in the upscale Condado neighborhood. Its beach club and outdoor pool score highly with Booking.com guests, who also sing the praises of the friendly staff. The bright rooms and suites – some with sea views and fully equipped kitchens – are another big plus.": "This modern hotel is just a short distance from the waterfront, in the upscale Condado neighborhood. Its beach club and outdoor pool score highly with Booking.com guests, who also sing the praises of the friendly staff. The bright rooms and suites – some with sea views and fully equipped kitchens – are another big plus.",
+    "Villa Herencia Hotel – San Juan, Puerto Rico": "Villa Herencia Hotel – San Juan, Puerto Rico",
+    "The restored Villa Herencia Hotel": "The restored Villa Herencia Hotel",
+    "This restored villa in Old San Juan is full of old-world charm. Booking.com guests rave about Villa Herencia’s eclectic design, which blends historic features and antique furniture with bold modern artwork. They also love the tropical feel of the roof terrace – complete with exotic flowers, sun loungers, and even roll-top baths!": "This restored villa in Old San Juan is full of old-world charm. Booking.com guests rave about Villa Herencia’s eclectic design, which blends historic features and antique furniture with bold modern artwork. They also love the tropical feel of the roof terrace – complete with exotic flowers, sun loungers, and even roll-top baths!",
+    "La Terraza de San Juan – San Juan, Puerto Rico": "La Terraza de San Juan – San Juan, Puerto Rico",
+    "Wonderful views from La Terraza's rooftop pool": "Wonderful views from La Terraza's rooftop pool",
+    "A roof terrace with a plunge pool and breathtaking sea views makes this boutique hotel a favorite with Booking.com guests. Set in a colonial house in Old San Juan, La Terraza de San Juan also wins rave reviews for its mix of traditional and modern design.": "A roof terrace with a plunge pool and breathtaking sea views makes this boutique hotel a favorite with Booking.com guests. Set in a colonial house in Old San Juan, La Terraza de San Juan also wins rave reviews for its mix of traditional and modern design.",
+    "How to get there?": "How to get there?",
+    "The easiest way to get to San Juan is to fly there. There are direct flights every day from the US and Canada, with most of the traffic coming through Miami and New York. Getting to San Juan from further will usually involve at least one layover. There are daily flights from Amsterdam and London with only one layover, whereas a trip from Sydney will involve two layovers. If you’re planning a trip from within the Caribbean and prefer a more scenic route, there’s a weekly ferry from Santo Domingo in the Dominican Republic, which takes around 13 hours.": "The easiest way to get to San Juan is to fly there. There are direct flights every day from the US and Canada, with most of the traffic coming through Miami and New York. Getting to San Juan from further will usually involve at least one layover. There are daily flights from Amsterdam and London with only one layover, whereas a trip from Sydney will involve two layovers. If you’re planning a trip from within the Caribbean and prefer a more scenic route, there’s a weekly ferry from Santo Domingo in the Dominican Republic, which takes around 13 hours."
+  },
+  "Unmissable": {
+    "7 unmissable hot air balloon rides": "7 unmissable hot air balloon rides",
+    "Peaceful yet full of adventure, experiencing a view by hot air balloon has to be the most scenic way to take it all in. Next time you take a trip, consider jumping in a basket and gazing at the horizon from hundreds of feet up. Whether you’re a rookie or regularly take to the skies, a trip in a balloon is an experience that's sure to make unforgettable memories. From soaring over green pastures to drifting across the Arctic, we found seven of the best locations to go up, up, and away.": "Peaceful yet full of adventure, experiencing a view by hot air balloon has to be the most scenic way to take it all in. Next time you take a trip, consider jumping in a basket and gazing at the horizon from hundreds of feet up. Whether you’re a rookie or regularly take to the skies, a trip in a balloon is an experience that's sure to make unforgettable memories. From soaring over green pastures to drifting across the Arctic, we found seven of the best locations to go up, up, and away.",
+    "Cappadocia, Turkey": "Cappadocia, Turkey",
+    "See Cappadocia's famous fairy chimneys from the sky": "See Cappadocia's famous fairy chimneys from the sky",
+    "Famous for its hoodoos—also known as fairy chimneys—Cappadocia’s natural wonders draw visitors from around the world. These tall, thin spires of rock were formed over millions of years by lava flows, and seeing them from above is incredible. On any given day, countless hot air balloons drift over the horizon in a kaleidoscope of colors. While May to September is peak season, rides are offered throughout the year, weather permitting. Stay in the heart of Cappadocia, in one of the cave rooms at the Mithra Cave Hotel. Wake up early to catch a balloon ride and enjoy the view of the region’s peaks and valleys as the sun rises.": "Famous for its hoodoos—also known as fairy chimneys—Cappadocia’s natural wonders draw visitors from around the world. These tall, thin spires of rock were formed over millions of years by lava flows, and seeing them from above is incredible. On any given day, countless hot air balloons drift over the horizon in a kaleidoscope of colors. While May to September is peak season, rides are offered throughout the year, weather permitting. Stay in the heart of Cappadocia, in one of the cave rooms at the Mithra Cave Hotel. Wake up early to catch a balloon ride and enjoy the view of the region’s peaks and valleys as the sun rises.",
+    "Loire Valley, France": "Loire Valley, France",
+    "Bask in the beauty of the Loire Valley by hot air balloon": "Bask in the beauty of the Loire Valley by hot air balloon",
+    "Offering a quintessentially French outlook by balloon, the Loire Valley has vineyards, rivers, and forests you can coast over in a matter of minutes. Try one of the most popular rides, which soars over the grand Château Chenonceau. Peek over the wicker basket at the grounds below. If you visit between April and October, this castle will be open to visit on land, too. Depending on weather conditions, departures typically start early in the morning or mid-afternoon. When you’re back on steady ground, rest your head at the luxurious Le Pavillon Des Lys, which is only a five-minute walk from the Château d’Amboise.": "Offering a quintessentially French outlook by balloon, the Loire Valley has vineyards, rivers, and forests you can coast over in a matter of minutes. Try one of the most popular rides, which soars over the grand Château Chenonceau. Peek over the wicker basket at the grounds below. If you visit between April and October, this castle will be open to visit on land, too. Depending on weather conditions, departures typically start early in the morning or mid-afternoon. When you’re back on steady ground, rest your head at the luxurious Le Pavillon Des Lys, which is only a five-minute walk from the Château d’Amboise.",
+    "Iqaluit, Nunavut, Canada": "Iqaluit, Nunavut, Canada",
+    "Balloon expeditions give you a once-in-a-lifetime view of the Canadian Arctic": "Balloon expeditions give you a once-in-a-lifetime view of the Canadian Arctic",
+    "The Canadian Arctic, particularly Iqaluit, is a coveted destination for hot air balloon enthusiasts. These awe-inspiring expeditions give you a once in a lifetime chance to fly between northern communities or even across the ice caps, from Nunavut’s Baffin Island to Greenland. Brace yourself for the elements. Ballooning here takes place in the winter, so you can enjoy the natural ice in all its wonder. When the day is over, warm up at The Frobisher Inn. With a fitness center and kitchenettes in some rooms, it’s conveniently located in the center of town.": "The Canadian Arctic, particularly Iqaluit, is a coveted destination for hot air balloon enthusiasts. These awe-inspiring expeditions give you a once in a lifetime chance to fly between northern communities or even across the ice caps, from Nunavut’s Baffin Island to Greenland. Brace yourself for the elements. Ballooning here takes place in the winter, so you can enjoy the natural ice in all its wonder. When the day is over, warm up at The Frobisher Inn. With a fitness center and kitchenettes in some rooms, it’s conveniently located in the center of town.",
+    "Serengeti National Park, Tanzania": "Serengeti National Park, Tanzania",
+    "Get a bird’s eye view of the Serengeti by balloon": "Get a bird’s eye view of the Serengeti by balloon",
+    "The Serengeti National Park is renown for its landscape and array of wildlife, from elephants to lions, and more. Get unbeatable bird’s eye views of Tanzania by taking a trip in a hot air balloon. Tours are available all year round, but can vary by location. The cruising altitude will change depending on the season and weather conditions, so no two rides are the same. With a decor based on Masaai ceremonies, Asanja Africa offers tented accommodations in the south-central region of the park.": "The Serengeti National Park is renown for its landscape and array of wildlife, from elephants to lions, and more. Get unbeatable bird’s eye views of Tanzania by taking a trip in a hot air balloon. Tours are available all year round, but can vary by location. The cruising altitude will change depending on the season and weather conditions, so no two rides are the same. With a decor based on Masaai ceremonies, Asanja Africa offers tented accommodations in the south-central region of the park.",
+    "Bagan, Myanmar": "Bagan, Myanmar",
+    "Check out Bagan’s sights from the sky": "Check out Bagan’s sights from the sky",
+    "Home to thousands of historic monuments, stupas, and pagodas, Bagan is one of Myanmar’s most visited cities. Take to the sky in a basket and revel in the sheer volume of the iconic architecture around you. The ballooning season runs from October to mid-March, when the winds are calm and the air is cool. The most favorable conditions are between December and February, when you’re bound to spot many other visitors enjoying the scenery. Come back down to earth at the Bagan View Hotel, where you’ll get a great outlook of balloons floating across the sky.": "Home to thousands of historic monuments, stupas, and pagodas, Bagan is one of Myanmar’s most visited cities. Take to the sky in a basket and revel in the sheer volume of the iconic architecture around you. The ballooning season runs from October to mid-March, when the winds are calm and the air is cool. The most favorable conditions are between December and February, when you’re bound to spot many other visitors enjoying the scenery. Come back down to earth at the Bagan View Hotel, where you’ll get a great outlook of balloons floating across the sky.",
+    "Albuquerque, New Mexico, USA": "Albuquerque, New Mexico, USA",
+    "More than 500 balloons take off during the Albuquerque International Balloon Fiesta": "More than 500 balloons take off during the Albuquerque International Balloon Fiesta",
+    "Balloon enthusiasts regularly travel to Albuquerque in the first week of October for the city’s annual International Balloon Fiesta. More than 500 colorful blimps take flight during the festival, which also includes a laser light show, flying competition, and fireworks. If you plan on heading to the festival, don’t miss out – make sure you book a ride in advance. If you want something a little more exclusive, book a private ride with champagne for views of New Mexico’s stunning high-desert landscape. At the end of a long day, kick back at El Vado Motel, a retro location that’s been fully refurbished to offer all the modern amenities you’ll need.": "Balloon enthusiasts regularly travel to Albuquerque in the first week of October for the city’s annual International Balloon Fiesta. More than 500 colorful blimps take flight during the festival, which also includes a laser light show, flying competition, and fireworks. If you plan on heading to the festival, don’t miss out – make sure you book a ride in advance. If you want something a little more exclusive, book a private ride with champagne for views of New Mexico’s stunning high-desert landscape. At the end of a long day, kick back at El Vado Motel, a retro location that’s been fully refurbished to offer all the modern amenities you’ll need.",
+    "Muelle, San Carlos, Costa Rica": "Muelle, San Carlos, Costa Rica",
+    "Muelle and its active volcano are best viewed from 1,000 feet above ground": "Muelle and its active volcano are best viewed from 1,000 feet above ground",
+    "Drift above the rainforests and—if you’re lucky—catch a glimpse of monkeys racing through canopies by taking a flight from Muelle. Best viewed from 1,000 feet in the sky, the natural beauty of northern Costa Rica offers an array of sights including the National Park and active Arenal volcano. For a more hands-on experience, you can learn how to prepare the balloon for flight in Muelle. You’ll even be able to choose where to land, all under the supervision of a pilot. Afterwards, relax at the Tilajari Hotel Resort, which is surrounded by rainforest and tropical gardens.": "Drift above the rainforests and—if you’re lucky—catch a glimpse of monkeys racing through canopies by taking a flight from Muelle. Best viewed from 1,000 feet in the sky, the natural beauty of northern Costa Rica offers an array of sights including the National Park and active Arenal volcano. For a more hands-on experience, you can learn how to prepare the balloon for flight in Muelle. You’ll even be able to choose where to land, all under the supervision of a pilot. Afterwards, relax at the Tilajari Hotel Resort, which is surrounded by rainforest and tropical gardens."
+  },
+  "CampgroundComponents": {
+    "All-Availability": {
+      "Beds Type":"Beds Type",
+      "When would you like to stay at":"When would you like to stay at",
+      "Availability": "Availability",
+      "Check In": "Check In",
+      "Check Out": "Check Out",
+      "Check Availability": "Check Availability",
+      
+      "Room name": "Room name:",
+      "Number of rooms": "Number of rooms:",
+      "Days": "Days:",
+      "Total price": "Total price:",
+      "Reserve": "Reserve",
+      "Room type": "Room type",
+    
+      "Sleep": "Sleeps",
+      "Price": "Price",
+      "Your choices": "Your choices",
+      "Select rooms": "Select rooms",
+      "per day": "per day",
+      "Coffee": "Coffee",
+      "Tea": "Tea",
+      "Milk": "Milk",
+      "Bunk bed": "bunk bed",
+      "Twin bed": "twin bed",
+      "Full bed": "full bed",
+      "Queen bed": "queen bed",
+      "king bed": "king bed",
+      "Sofa bed": "sofa bed",
+      "Futon bed": "futon bed",
+      "Livng room": "Livng room",
+      "Choose booking date": "Choose booking date",
+      "Sorry no available rooms for this date": "Sorry no available rooms for this date"
+    },
+    "BodyCom": {
+      "DescCom": {
+        "Missing some information?": "Missing some information?",
+        "Yes": "Yes",
+        "No": "No"
+      },
+      "reservation": {
+        "Free parking!": "Free parking!",
+        "Located in": "Located in",
+        "location score of": "location score of",
+        "Lunch": "Lunch",
+        "Dinner": "Dinner",
+        "Reserve": "Reserve",
+        "Food Include":"Food Include:",
+        "Breakfast":"Breakfast"
+      }
+    },
+    "Book-Banner": {
+      "Book an all-inclusive rate": "Book an all-inclusive rate",
+      "Find out": "Find out"
+    },
+    "CampgroundImg": {
+      "Campground": "Campground",
+      "New to Booking.com": "New to Booking.com",
+      "Extra health & safety measures": "Extra health & safety measures",
+      "This property has taken extra health and hygiene measures to ensure that your safety is their priority": "This property has taken extra health and hygiene measures to ensure that your safety is their priority",
+      "See health & safety details": "See health & safety details"
+    },
+    "Facilities": {
+      "Facilities of": "Facilities of",
+      "Food & Drink": "Food & Drink",
+      "Bathroom": "Bathroom",
+      "Media & Technology": "Media & Technology",
+      "Accessibility": "Accessibility",
+      "Services": "Services",
+      "Entertainment": "Entertainment",
+      "Missing some information?": "Missing some information?",
+      "Yes": "Yes",
+      "No": "No",
+      "Room":"Room",
+      "View":"View"
+    },
+    "Faqs": {
+      "FAQs": "FAQs",
+      "How do I get to know which facilities / services each Campground offers?": "How do I get to know which facilities / services each Campground offers?",
+      "Please, have a look at": "Please, have a look at",
+      "Facilities": "Facilities",
+      "In this section you will also find the Hotel facilities / services": "In this section you will also find the Hotel facilities / services",
+      "Do you charge any fees for your services?": "Do you charge any fees for your services?",
+      "No, Booking.com doesn’t charge any fees for its services. Our service is completely free of charge and we will not add to your accommodation any additional fee for our service.": "No, Booking.com doesn’t charge any fees for its services. Our service is completely free of charge and we will not add to your accommodation any additional fee for our service.",
+      "Are fees and taxes included in prices?": "Are fees and taxes included in prices?",
+      "This is different for each country and also any type of accommodation.": "This is different for each country and also any type of accommodation.",
+      "How do I know that my reservation is confirmed?": "How do I know that my reservation is confirmed?",
+      "After completing and sending us your order form, you will get an automatic receipt e-mail containing your order number. Within 30 minutes, you will receive Accommodation confirmation. The Accommodation confirmation serves you as a voucher so please do not forget to print it out and take it with you as it contains all the vital details (address of your hotel, contact phone numbers and other instructions). In case that you requested in your order form any special requests – ie. extra bed, non smoking room, parking etc, please always double check with the hotel directly that they noted your request and are able to arrange it for you.": "After completing and sending us your order form, you will get an automatic receipt e-mail containing your order number. Within 30 minutes, you will receive Accommodation confirmation. The Accommodation confirmation serves you as a voucher so please do not forget to print it out and take it with you as it contains all the vital details (address of your hotel, contact phone numbers and other instructions). In case that you requested in your order form any special requests – ie. extra bed, non smoking room, parking etc, please always double check with the hotel directly that they noted your request and are able to arrange it for you.",
+      "Can I book your services by telephone, e-mail or fax?": "Can I book your services by telephone, e-mail or fax?",
+       "Unfortunately not. If you wish to make a booking, please fill in the order form on our website.": "Unfortunately not. If you wish to make a booking, please fill in the order form on our website.",
+      "I made a reservation but did not receive any confirmation. What should I do?": "I made a reservation but did not receive any confirmation. What should I do?",
+      "Before finalizing your reservation please double check your e-mail address because a mistake in the e-mail address is the most common reason why our clients do not receive their confirmations. In some cases, our e-mails can also end up in the “spam folder” so please check it as well. In any case, please try to contact us by e-mail as we will be very happy to assist you and solve the problem as soon as possible.": "Before finalizing your reservation please double check your e-mail address because a mistake in the e-mail address is the most common reason why our clients do not receive their confirmations. In some cases, our e-mails can also end up in the “spam folder” so please check it as well. In any case, please try to contact us by e-mail as we will be very happy to assist you and solve the problem as soon as possible."
+    },
+    "GuestReviews": {
+      "Guest reviews": "Guest reviews",
+      "Reviews": "Reviews",
+      "Read all reviews": "Read all reviews"
+    },
+    "HouseRules": {
+      "House rules": "House rules",
+      "takes special requests - add in the next step!": "takes special requests - add in the next step!",
+      "Check in": "Check in :",
+      "Check out": "Check out :",
+      "Cancellation/ prepayment :": "Cancellation/ prepayment :",
+      "You can cancel your reservation and get your money back in": "You can cancel your reservation and get your money back in",
+      "days": "days",
+      "No age restriction": "No age restriction :",
+      "There is no age requirement for check-in": "There is no age requirement for check-in",
+      "Pets": "Pets :",
+      "Pets are allowed": "Pets are allowed",
+      "Pets are not allowed": "Pets are not allowed",
+      "Payments by Booking.com": "Payments by Booking.com :",
+      "Booking.com takes your payment on behalf of the property for this stay, but make sure you have cash for any extras once you get there.": "Booking.com takes your payment on behalf of the property for this stay, but make sure you have cash for any extras once you get there."
+    },
+    "MessageOffcanvas": {
+      "No answers yet": "No answers yet",
+      "Read More": "Read More"
+    },
+    "MostPopularFacilities": {
+      "Free Wifi": "Free Wifi",
+      "Fitness Center": "Fitness Center",
+      "Terrace": "Terrace",
+      "Restaurant": "Restaurant",
+      "Room service": "Room service",
+      "Family Rooms": "Family Rooms",
+      "Airport shuttle": "Airport shuttle",
+      "Sauna": "Sauna",
+      "Water Park": "Water Park",
+      "Swimming pool": "Swimming pool",
+      "Spa": "Spa",
+      "24-hour front desk": "24-hour front desk",
+      "Hot tub/Jacuzzi": "Hot tub/Jacuzzi",
+      "Garden": "Garden",
+      "Air conditioning": "Air conditioning",
+      "Most popular facilities": "Most popular facilities",
+      "No credit card needed to book.": "No credit card needed to book.",
+      "We'll send you an email confirming your reservation": "We'll send you an email confirming your reservation",
+      "Lock in a great price for your upcoming stay": "Lock in a great price for your upcoming stay",
+      "Prices may go up, so secure your reservation today": "Prices may go up, so secure your reservation today"
+    },
+    "QuestionAndAnswers": {
+      "Property questions and answers": "Property questions and answers",
+      "Looking for more info? Send a question to the property to find out more.": "Looking for more info? Send a question to the property to find out more.",
+      "Ask a question": "Ask a question",
+      "Didn't find the answer you were looking for? Ask a question about the property": "Didn't find the answer you were looking for? Ask a question about the property",
+      "Type your question here:": "Type your question here:",
+      "characters left": "characters left",
+      "Submit your question": "Submit your question",
+      "Your question will be published on Booking.com after it has been approved and answered.": "Your question will be published on Booking.com after it has been approved and answered.",
+      "Click here to read post guidelines.": "Click here to read post guidelines.",
+      "Read all questions": "Read all questions",
+      "Question & Answers": " Question & Answers",
+      "Got a question?": "Got a question?",
+      "Your question has been successfully posted": "Your question has been successfully posted",
+      "Leave Review": "Leave Review",
+      "Thank you for your review": "Thank you for your review",
+      "Please leave a review and say what your opinion about this hotel.": "Please leave a review and say what your opinion about this hotel.",
+      "Type your review here:": "Type your review here:",
+      "Rate by star": "Rate by star",
+      "Send your review": "Send your review"
+    },
+    "WhyChose": {
+      "5 Reasons to choose": "5 reasons to choose",
+      "Prices you can't beat!": "Prices you can't beat!",
+      "Booking is safe": "Booking is safe",
+      "Manage your bookings online": "Manage your bookings online",
+      "The staff speak English": "The staff speak English",
+      "Great location and facilities for couples": "Great location and facilities for couples"
+    },
+       "ReviewCanavas" : {
+        "Leave Review":"Leave Review",
+        "Thank you for your review":"Thank you for your review",
+        "Please leave a review and say what your opinion about this Campground.":"Please leave a review and say what your opinion about this Campground",
+        "Rate by star":"Rate by star",
+          "Send" :"Send"
+
+      }
+  },
+  "checkOut": {
+    "Booking": {
+      "Free Wifi": "Free Wifi",
+      "Fitness Center": "Fitness Center",
+      "Restaurant": "Restaurant",
+      "Room service": "Room service",
+      "Family Rooms": "Family Rooms",
+      "Airport shuttle": "Airport shuttle",
+      "Sauna": "Sauna",
+      "Water Park": "Water Park",
+      "Swimming pool": "Swimming pool",
+      "Spa": "Spa",
+      "Air conditioning": "Air conditioning",
+      "In response to the coronavirus (COVID-19), additional safety and sanitation measures are in effect at this property.": "In response to the coronavirus (COVID-19), additional safety and sanitation measures are in effect at this property.",
+      "Read more": "Read more",
+      "Parking": "Parking",
+      "reviews": "reviews",
+      "Show Details": "Show Details",
+      "Good to know": "Good to know:",
+      "You'll pay by paypal.": "You'll pay by paypal.",
+      "Enter your details": "Enter your details",
+      "Almost done! Just fill in the": "Almost done! Just fill in the",
+      "required info": "required info",
+      "Are you traveling for work?": "Are you traveling for work?",
+      "Yes": "Yes",
+      "No": "No",
+      "First name": "First name",
+      "Last name": "Last name",
+      "FREE cancellation": "FREE cancellation",
+      "until 11:59 PM on": "until 11:59 PM on",
+      "Guests": "Guests:",
+      "No smoking": "No smoking",
+      "Full Guest Name": "Full Guest Name",
+      "Guest email": "Guest email",
+      "Emails are only used for sending reservation info. No commercial messages – guaranteed.": "Emails are only used for sending reservation info. No commercial messages – guaranteed.",
+      "guaranteed":"guaranteed",
+      "Days": "Days",
+      "Special requests": "Special requests",
+      "Special requests can't be guaranteed, but the property will do its best to meet your needs. You can always make a special request after your booking is complete.": "Special requests can't be guaranteed, but the property will do its best to meet your needs. You can always make a special request after your booking is complete.",
+      "Please write your requests in English or Arabic.": "Please write your requests in English or Arabic.",
+      "(optional)": "(optional)",
+      "Request": "Request",
+        "messages":"messages",
+      "Your arrival time": "Your arrival time",
+      "Your property will be ready for check-in at": "Your property will be ready for check-in at",
+      "24-hour front desk – help whenever you need it!": "24-hour front desk – help whenever you need it!",
+      "Add your estimated arrival time": "Add your estimated arrival time",
+      "Please select": "Please select",
+      "I don't know": "I don't know",
+      "Time is for time zone": "Time is for time zone",
+      "Continue to check out": "Continue to check out",
+      "(the next day)": "(the next day)",
+      "Congratulations, your reservation has been successfully confirmed": "Congratulations, your reservation has been successfully confirmed"
+    },
+    "BookingDetails": {
+      "Your Booking Details": "Your Booking Details",
+      "Check-in": "Check-in",
+      "From": "From",
+      "Check-out": "Check-out",
+      "Until": "Until",
+      "Total length of stay": "Total length of stay:",
+      "Days": "Days",
+      "You selected": "You selected:",
+      "Your price summary": "Your price summary",
+      "rooms": "rooms",
+      "Price": "Price"
+    }
+  
+
+  },
+  "Footer": {
+    "Save time, save money!": "Save time, save money!",
+    "Sign up and we'll send the best deals to you": "Sign up and we'll send the best deals to you",
+    "Search": "Search",
+    "Send me a link to get the FREE Booking.com app!": "Send me a link to get the FREE Booking.com app!",
+    "List your property": "List your property",
+    "Mobile version": "Mobile version",
+    "Manage your booking": "Manage your booking",
+    "Contact Customer Service": "Contact Customer Service",
+    "Become an affiliate": "Become an affiliate",
+    "Booking.com for Business": "Booking.com for Business",
+    "Countries": "Countries",
+    "Homes": "Homes",
+    "Extranet login": "Extranet login",
+    "Your Email": "Your Email",
+    "Booking.com is part of Booking Holdings Inc., the world leader in online travel and related services.": "Booking.com is part of Booking Holdings Inc., the world leader in online travel and related services."
+  },
+  "Home": {
+    "Community": {
+      "Connect with other travelers": "Connect with other travelers",
+      "Egypt": "Egypt",
+      "Travel community": "Travel community",
+      "travelers": "travelers",
+      "More communities": "More communities",
+        "UAE":"UAE",
+        "France":"France"
+    },
+    "ExploreEgypt": {
+      "Explore Egypt": "Explore Egypt",
+      "hese popular destinations have a lot to offer": "hese popular destinations have a lot to offer",
+      "Ain Sokhna": "Ain Sokhna",
+      "hotels": "hotels",
+      "Dahab": "Dahab",
+      "Aswan": "Aswan",
+      "Port said": "Port said",
+      "Marsa alam": "Marsa alam"
+    },
+    "GetInspiration": {
+      "Best Coffee Cities in the US": "Best Coffee Cities in the US",
+      "Whether you like a basic brew or larger-than-life latte, here are five of the best.": "Whether you like a basic brew or larger-than-life latte, here are five of the best.",
+      "Las Vegas Beyond the Casinos": "Las Vegas Beyond the Casinos",
+      "In Las Vegas, gambling isn’t the only way to hit the jackpot.": "In Las Vegas, gambling isn’t the only way to hit the jackpot.",
+      "5 soulful yoga retreat destinations":"5 soulful yoga retreat destinations",
+      "ver the past year, many people have sought refuge in the peaceful practice of yoga.": "ver the past year, many people have sought refuge in the peaceful practice of yoga.",
+      "Destination Inspiration San Juan, Puerto Rico" :"Destination Inspiration: San Juan, Puerto Rico",
+      "Worlds collide in San Juan, Puerto Rico’s vibrant capital, a simmering melting pot of indigenous, European, American.":"Worlds collide in San Juan, Puerto Rico’s vibrant capital, a simmering melting pot of indigenous, European, American.",
+      "unmissable hot air balloon rides" :"unmissable hot air balloon rides",
+      "Peaceful yet full of adventure, experiencing a view by hot air balloon has to be the most scenic way to take it all in. Next time you take a trip.":"Peaceful yet full of adventure, experiencing a view by hot air balloon has to be the most scenic way to take it all in. Next time you take a trip."
+
+
+    },
+    "Grid-section": {
+      "Sharm El Shiekh": "Sharm El Shiekh",
+      "Hotels": "Hotels",
+      "Al almain": "Al almain",
+      "Hurghada": "Hurghada",
+      "Alexandria": "Alexandria",
+      "Cairo": "Cairo"
+    },
+    "Header": {
+      "Where to next,": "Where to next,",
+      "Find exclusive Genius rewards in every corner of the world!": "Find exclusive Genius rewards in every corner of the world!",
+      "Search": "Search",
+      "I'm looking for an entire home or apartment": "I'm looking for an entire home or apartment",
+      "I'm traveling for work": "I'm traveling for work"
+    },
+    "HomeGustesLove": {
+      "guests love": "guests love",
+      "reviews": "reviews"
+    }
+  },
+  "HotelPage": {
+    "All-Availability": {
+      "Bunk bed": "bunk bed",
+      "Twin bed": "twin bed",
+      "Full bed": "full bed",
+      "Queen bed": "queen bed",
+      "King bed": "king bed",
+      "Sofa bed": "sofa bed",
+      "Futon bed": "futon bed",
+      "Livng room": "Livng room",
+      "Availability": "Availability",
+      "Check In": "Check In",
+      "Check Out": "Check Out",
+      "Check Availability": "Check Availability",
+       "When would you like to stay at":"When would you like to stay at",
+      
+      "Room name": "Room name:",
+      "Number of rooms": "Number of rooms:",
+      "Days": "Days:",
+      "Total price": "Total price:",
+      "Reserve": "Reserve:",
+      "Room type": "Room type:",
+      
+      "Sleeps": "Sleeps",
+      "Price": "Price",
+      "Your choices": "Your choices",
+      "Select rooms": "Select rooms",
+      "per day": "per day",
+      "Coffee": "Coffee",
+      "Tea": "Tea",
+      "Milk": "Milk",
+      "Beds Type":"Beds Type",
+
+      "Choose booking date": "Choose booking date",
+      "Sorry no available rooms for this date": "Sorry no available rooms for this date"
+    },
+    "BodyCom": {
+      "DescCom": {
+        "Missing some information?": "Missing some information?",
+        "Yes": "Yes",
+        "No": "No"
+      },
+      "reservation": {
+        "City view": "City view",
+        "Garden view": "Garden view",
+        "Pool view": "Pool view",
+        "Landmark view": "Landmark view",
+        "Quiet street view": "Quiet street view",
+        "Sea view": "Sea view",
+        "Mountain view": "Mountain view",
+        "Terrace": "Terrace",
+        "Free parking!": "Free parking!",
+        "Perfect for a 1-night stay!": "Perfect for a 1-night stay!",
+        "Located in": "Located in",
+        "this": "this",
+        "has": "has",
+        "location score of": "location score of",
+        "Hotel with": "Hotel with:",
+        "Reserve": "Reserve"
+      }
+    },
+    "Book-Banner": {
+      "Book an all-inclusive rate": "Book an all-inclusive rate",
+      "Find out": "Find out"
+    },
+    "Covid": {
+      "Coronavirus (COVID-19) Support": "Coronavirus (COVID-19) Support",
+      "Get the travel advice you need Read more about possible travel restrictions before you go": "Get the travel advice you need Read more about possible travel restrictions before you go",
+      "Read More": "Read More"
+    },
+    "Facilities": {
+      "Facilities of": "Facilities of",
+      "Food & Drink": "Food & Drink",
+      "Bathroom": "Bathroom",
+      "Media & Technology": "Media & Technology",
+      "Accessibility": "Accessibility",
+      "Services": "Services",
+      "View": "View",
+      "Entertainment": "Entertainment",
+      "Room": "Room",
+      "Missing some information?": "Missing some information?",
+      "Yes": "Yes",
+      "No": "No"
+    },
+    "Faqs": {
+      "FAQs": "FAQs",
+      "No, Booking.com doesnt charge any fees for its services.Our service is completely free of charge and we will not add to your accommodation any additional fee for our service":"No, Booking.com doesnt charge any fees for its services.Our service is completely free of charge and we will not add to your accommodation any additional fee for our service",
+      "How do I get to know which facilities / services each Campground offers?": "How do I get to know which facilities / services each Campground offers?",
+      "Please, have a look at": "Please, have a look at",
+      "Facilities": "Facilities",
+      "HotelPage.Faqs.No, Booking.com doesnt charge any fees for its services.Our service is completely free of charge and we will not add to your accommodation any additional fee for our service.": "No, Booking.com doesn’t charge any fees for its services. Our service is completely free of charge and we will not add to your accommodation any additional fee for our service.",
+      "In this section you will also find the Hotel facilities / services": "In this section you will also find the Hotel facilities / services",
+      "Do you charge any fees for your services?": "Do you charge any fees for your services?",
+       "Are fees and taxes included in prices?": "Are fees and taxes included in prices?",
+      "This is different for each country and also any type of accommodation.": "This is different for each country and also any type of accommodation.",
+      "How do I know that my reservation is confirmed?": "How do I know that my reservation is confirmed?",
+      "After completing and sending us your order form, you will get an automatic receipt e-mail containing your order number. Within 30 minutes, you will receive Accommodation confirmation. The Accommodation confirmation serves you as a voucher so please do not forget to print it out and take it with you as it contains all the vital details (address of your hotel, contact phone numbers and other instructions). In case that you requested in your order form any special requests – ie. extra bed, non smoking room, parking etc, please always double check with the hotel directly that they noted your request and are able to arrange it for you.": "After completing and sending us your order form, you will get an automatic receipt e-mail containing your order number. Within 30 minutes, you will receive Accommodation confirmation. The Accommodation confirmation serves you as a voucher so please do not forget to print it out and take it with you as it contains all the vital details (address of your hotel, contact phone numbers and other instructions). In case that you requested in your order form any special requests – ie. extra bed, non smoking room, parking etc, please always double check with the hotel directly that they noted your request and are able to arrange it for you.",
+      "Can I book your services by telephone, e-mail or fax?": "Can I book your services by telephone, e-mail or fax?",
+      "Unfortunately not. If you wish to make a booking, please fill in the order form on our website.": "Unfortunately not. If you wish to make a booking, please fill in the order form on our website.",
+      "I made a reservation but did not receive any confirmation. What should I do?": "I made a reservation but did not receive any confirmation. What should I do?",
+      "Before finalizing your reservation please double check your e-mail address because a mistake in the e-mail address is the most common reason why our clients do not receive their confirmations. In some cases, our e-mails can also end up in the “spam folder” so please check it as well. In any case, please try to contact us by e-mail as we will be very happy to assist you and solve the problem as soon as possible.": "Before finalizing your reservation please double check your e-mail address because a mistake in the e-mail address is the most common reason why our clients do not receive their confirmations. In some cases, our e-mails can also end up in the “spam folder” so please check it as well. In any case, please try to contact us by e-mail as we will be very happy to assist you and solve the problem as soon as possible."
+    },
+    "GuestReviews": {
+      "Guest reviews": "Guest reviews",
+      "Reviews": "Reviews",
+      "Read all reviews": "Read all reviews"
+    },
+    "HotelImg": {
+      "Hotel": "Hotel",
+      "New to Booking.com": "New to Booking.com",
+      "Extra health & safety measures": "Extra health & safety measures",
+      "This property has taken extra health and hygiene measures to ensure that your safety is their priority": "This property has taken extra health and hygiene measures to ensure that your safety is their priority",
+      "See health & safety details": "See health & safety details"
+    },
+    "HouseRules": {
+      "House rules": "House rules",
+      "takes special requests - add in the next step!": "takes special requests - add in the next step!",
+      "Check in": "Check in :",
+      "Check out": "Check out :",
+      "Cancellation/ prepayment :": "Cancellation/ prepayment :",
+      "You can cancel your reservation and get your money back in": "You can cancel your reservation and get your money back in",
+      "days": "days",
+      "No age restriction :": "No age restriction :",
+      "There is no age requirement for check-in": "There is no age requirement for check-in",
+      "Pets :": "Pets :",
+      "Pets are allowed": "Pets are allowed",
+      "Pets are not allowed": "Pets are not allowed",
+      "Payments by Booking.com :": "Payments by Booking.com :",
+      "Booking.com takes your payment on behalf of the property for this stay, but make sure you have cash for any extras once you get there.": "Booking.com takes your payment on behalf of the property for this stay, but make sure you have cash for any extras once you get there."
+    },
+    "MessageOffcanvas": {
+      "No answers yet": "No answers yet",
+      "Read More": "Read More"
+    },
+    "MostPopularFacilities": {
+      "Free Wifi": "Free Wifi",
+      "Fitness Center": "Fitness Center",
+      "Terrace": "Terrace",
+      "Restaurant": "Restaurant",
+      "Room service": "Room service",
+      "Family Rooms": "Family Rooms",
+      "Airport shuttle": "Airport shuttle",
+      "Sauna": "Sauna",
+      "Water Park": "Water Park",
+      "Swimming pool": "Swimming pool",
+      "Spa": "Spa",
+      "24-hour front desk": "24-hour front desk",
+      "Hot tub/Jacuzzi": "Hot tub/Jacuzzi",
+      "Garden": "Garden",
+      "Air conditioning": "Air conditioning",
+      "Most popular facilities": "Most popular facilities",
+      "No credit card needed to book.": "No credit card needed to book.",
+      "We'll send you an email confirming your reservation": "We'll send you an email confirming your reservation",
+      "Lock in a great price for your upcoming stay": "Lock in a great price for your upcoming stay",
+      "Prices may go up, so secure your reservation today": "Prices may go up, so secure your reservation today"
+    },
+    "NavHotel": {
+      "Info & prices": "Info & prices",
+      "Facilities": "Facilities",
+      "Hous rules": "Hous rules",
+      "Guest review": "Guest review"
+    },
+    "QuestionAndAnswers": {
+      "Property questions and answers": "Property questions and answers",
+      "Looking for more info? Send a question to the property to find out more.": "Looking for more info? Send a question to the property to find out more.",
+      "Ask a question": "Ask a question",
+      "Didn't find the answer you were looking for? Ask a question about the property": "Didn't find the answer you were looking for? Ask a question about the property",
+      "Type your question here:": "Type your question here:",
+      "characters left": "characters left",
+      "Submit your question": "Submit your question",
+      "Your question will be published on Booking.com after it has been approved and answered.": "Your question will be published on Booking.com after it has been approved and answered.",
+      "Click here to read post guidelines.": "Click here to read post guidelines.",
+      "Read all questions": "Read all questions",
+      "Question & Answers": " Question & Answers",
+      "Got a question?":"Got a question?",
+      "Your question has been successfully posted": "Your question has been successfully posted"
+    },
+    "ReviewCanavas": {
+      "Leave Review": "Leave Review",
+      "Thank you for your review": "Thank you for your review",
+      "Please leave a review and say what your opinion about this hotel.": "Please leave a review and say what your opinion about this hotel.",
+      "Type your review here:": "Type your review here:",
+      "Rate by star": "Rate by star",
+      "Send your review": "Send your review"
+    },
+    "Search": {
+      "We Price Match": "We Price Match",
+      "Search": "Search",
+      "Destination/property name:": "Destination/property name:",
+      "Check-in date": "Check-in date",
+      "Check-out date": "Check-out date",
+      "7 nights stay": "7 nights stay",
+      "1 adult · 0 children ·1 room": "1 adult · 0 children ·1 room",
+      "Action": "Action",
+      "Another action": "Another action",
+      "Something else here": "Something else here",
+      "Separated link": "Separated link",
+      "Entire homes & apartments": "Entire homes & apartments",
+      "I'm traveling for work": "I'm traveling for work",
+      "Show on map": "Show on map",
+      "Map": "Map"
+    },
+    "WhyChose": {
+      "5 reasons to choose": "5 reasons to choose",
+      "Prices you can't beat!": "Prices you can't beat!",
+      "Booking is safe": "Booking is safe",
+      "Manage your bookings online": "Manage your bookings online",
+      "The staff speak English": "The staff speak English",
+      "Great location and facilities for couples": "Great location and facilities for couples"
+    }
+  },
+  "Navbar": {
+    "Select your language": "Select your language",
+    "Home": "Home",
+    "Hotels": "Hotels",
+    "Apartments": "Apartments",
+    "Campgrounds": "Campgrounds",
+    "Community": "Community"
+  },
+  "Posts": {
+    "Addpost": {
+      "Create a post": "Create a post",
+      "Give a tip": "Give a tip",
+      "Add Location": "Add Location",
+      "Title": "title",
+      "Your tip ?": "Your tip ?",
+      "Ask a Question": "Ask a Question",
+      "What kind of advice are you looking for ?": "What kind of advice are you looking for ?",
+      "Add Post": "Add Post",
+      "Search": "Search",
+      "Top places: London, Edinburgh, Manchester, Liverpool, Glasgow": "Top places: London, Edinburgh, Manchester, Liverpool, Glasgow",
+      "Filter by": "Filter by",
+      "All": "All",
+      "Unaswered": "Unaswered",
+      "Questions": "Questions",
+      "Tips": "Tips",
+      "Ambassador Program": "Ambassador Program",
+      "Terms & Conditions": "Terms & Conditions"
+    },
+    "Comment": {
+      "Delete comment": "Delete comment",
+      "Update comment": "Update comment",
+      "Leave Comment": "Leave Comment",
+      "Upload Image": "Upload Image",
+      "Update": "Update"
+    },
+    "Communities": {
+      "Coronavirus (COVID-19) Support": "Coronavirus (COVID-19) Support",
+      "Get the travel advice you need Read more about possible travel restrictions before you go": "Get the travel advice you need Read more about possible travel restrictions before you go",
+      "Read More": "Read More"
+    },
+    "PostStructure": {
+      "SinglePost": {
+        "Edit": "Edit",
+        "Delete": "Delete",
+        "Edit Post": "Edit Post",
+        "Add Location": "Add Location",
+        "Title": "Title",
+        "What kind of advice are you looking for ?": "What kind of advice are you looking for ?",
+        "Update Post": "Update Post",
+        "Read more": "Read more",
+        "Comments": "Comments",
+        "Leave Comment": "Leave Comment",
+        "Upload Image": "Upload Image"
+      }
+    }
+  },
+  "Properties": {
+    "PropertiesCom": {
+      "Property": {
+        "Hotel": {
+          "Show on map": "Show on map",
+          "reviews": "reviews",
+          "Show Details": "Show Details"
+        }
+      },
+      "ApartmentCom": {
+        "properties found": "Found",
+        "apart":"Apartments",
+        "Show on map": "Show on map",
+        "Latest Apartments": "Latest Apartments",
+        "Top Reviews": "Top Reviews"
+      },
+      "CampCom": {
+         "camP":"Campgrounds",
+        "properties found": "Found",
+        "Show on map": "Show on map",
+        "Latest Campgrounds": "Latest Campgrounds",
+        "Top Reviews": "Top Reviews"
+      },
+      "HotelCom": {
+        "hoteL":"hotels",
+        "properties found": "Found",
+        "Show on map": "Show on map",
+        "Latest Hotels": "Latest Hotels",
+        "Top Reviews": "Top Reviews",
+        "Stars (highest first)": "Stars (highest first)",
+        "Stars (Lowest first)": "Stars (Lowest first)"
+      },
+      "Search": {
+        "Search": "Search",
+        "Destination/property name:": "Destination/property name:",
+        "Check-in date": "Check-in date",
+        "Check-out date": "Check-out date",
+        "7 nights stay": "7 nights stay",
+        "1 adult · 0 children ·1 room": "1 adult · 0 children ·1 room",
+        "Entire homes & apartments": "Entire homes & apartments",
+        "I'm traveling for work": "I'm traveling for work"
+      }
+    }
+  },
+  "PropertyType": {
+    "Browse by property type": "Browse by property type",
+    "Hotels": "Hotels",
+    "Apartmetnts": "Apartmetnts",
+    "Campground": "Campground"
+  },
+  "Recent-searches": {
+    "Get the advice you need. Check the latest COVID-19 restrictions before you travel": "Get the advice you need. Check the latest COVID-19 restrictions before you travel",
+    "Learn more": "Learn more",
+    "Your Recent Searches": "Your Recent Searches",
+    "Card title": "Card title",
+    "Last updated 3 mins ago": "Last updated 3 mins ago"
+  },
+  "UserDashBoard": {
+    "Bookings": {
+      "Hotel Name": "Hotel Name",
+      "Room Name": "Room Name",
+      "Start At": "Start At",
+      "End At": "End At",
+      "Price": "Price",
+      "Cancel": "Cancel",
+      "You Can Cancel Before": "You Can Cancel Before",
+      "Days from the Start Day": "Days from the Start Day",
+      "Cancellation Not Available": "Cancellation Not Available",
+      "Campground Name": "Campground Name",
+      "ApartMent Name": "ApartMent Name",
+      "Enter Your Paypal Account":"Enter Your Paypal Account",
+      "Close":"Close",
+      "Send":"Send"
+    },
+    "Profile": {
+      "Edit Profile": "Edit Profile",
+      "Email address": "Email address",
+      "First Name": "First Name",
+      "Last Name": "Last Name",
+      "Password": "Password",
+      "City": "City",
+      "Country": "Country",
+      "Phone": "Phone",
+      "Update Profile": "Update Profile"
+    },
+    "Reviews": {
+      "Hotels Reviews": "Hotels Reviews",
+      "Apartments Reviews": "Apartments Reviews",
+      "Campgrounds Reviews": "Campgrounds Reviews",
+      "No Reviews":"No Reviews"
+    }
+  }
+}

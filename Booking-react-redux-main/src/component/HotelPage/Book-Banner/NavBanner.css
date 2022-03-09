@@ -1,0 +1,18 @@
+.Banner{
+    background-color: #fafcff;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 3px;
+    display: table;
+    width: 100%;
+    box-sizing: border-box;
+    font-weight: bold;
+    font-size: 15px;
+    }
+
+
+    .Fix{
+    height: 40px;
+    width: 120px;
+    }
+ 

@@ -1,0 +1,75 @@
+.container-lg li {
+  list-style: none;
+  display: inline-block;
+  margin: 5px 5px 5px 0px;
+  cursor: default;
+}
+
+.container ul li a {
+  text-decoration: none;
+}
+
+.container-lg ul li a:hover {
+  text-decoration: underline;
+}
+
+.inp {
+  position: relative;
+}
+
+.inp .inp-icon {
+  position: absolute;
+  top: 25%;
+  left: 2%;
+}
+
+.search {
+  background-color: #febb02;
+  overflow: hidden;
+  font-size: 0.8em;
+}
+
+.search button {
+  overflow: hidden;
+}
+
+.search .checkbox {
+  overflow: hidden;
+  position: relative;
+}
+
+.search .checkbox svg {
+  position: absolute;
+  right: 0%;
+}
+
+.price {
+  background-color: #ebf3ff;
+  text-align: center;
+  padding: 10px 5px;
+  margin-bottom: 10px;
+  width: 100%;
+}
+
+.imgDiv {
+  position: relative;
+  margin-top: 20px;
+  border: 1px solid rgba(0, 0, 0, 0.089);
+  cursor: pointer;
+}
+.imgDiv:hover {
+  background-color: #ebf3ff36;
+  border: 1px solid #febb02;
+}
+
+.btnDiv {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+ .MuiAutocomplete-hasPopupIcon.css-dd2h8b-MuiAutocomplete-root .MuiOutlinedInput-root, .MuiAutocomplete-hasClearIcon.css-dd2h8b-MuiAutocomplete-root .MuiOutlinedInput-root {
+     
+    background-color: white;
+}

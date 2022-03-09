@@ -1,0 +1,80 @@
+header {
+  background-color: #f5f5f5;
+}
+
+.search-group {
+  color: #333;
+  border: 0;
+  display: table;
+  background-color: #febb02;
+  padding: 10px;
+  border-radius: 4px;
+  margin: 24px 0 16px;
+  position: relative;
+}
+
+.search-group input:focus {
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  border: 1px solid black;
+}
+
+.search-group input {
+  height: 52px;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 500;
+  background: #fff;
+  color: #333;
+  height: 52px;
+  border-radius: 2px;
+  padding: 4px;
+}
+
+.search-group ::-webkit-input-placeholder {
+  color: red;
+}
+
+.search-group :-ms-input-placeholder {
+  color: red;
+}
+
+.search-group ::-ms-input-placeholder {
+  color: red;
+}
+
+.search-group ::placeholder {
+  color: red;
+}
+
+.search-group .city-search {
+  width: 12% !important;
+}
+
+.MuiAutocomplete-hasPopupIcon.css-viou3o-MuiAutocomplete-root
+  .MuiOutlinedInput-root,
+.MuiAutocomplete-hasClearIcon.css-viou3o-MuiAutocomplete-root
+  .MuiOutlinedInput-root {
+  height: 45px;
+}
+label[data-shrink="false"]
+  + .MuiInputBase-formControl
+  .css-nxo287-MuiInputBase-input-MuiOutlinedInput-input {
+  height: 14px;
+}
+.css-viou3o-MuiAutocomplete-root .MuiOutlinedInput-root .MuiAutocomplete-input {
+  height: 10px;
+}
+.css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root {
+  top: -4px !important;
+}
+.MuiAutocomplete-hasPopupIcon.css-viou3o-MuiAutocomplete-root
+  .MuiOutlinedInput-root,
+.MuiAutocomplete-hasClearIcon.css-viou3o-MuiAutocomplete-root
+  .MuiOutlinedInput-root {
+  background-color: white;
+}
+
+.css-viou3o-MuiAutocomplete-root .MuiOutlinedInput-root .MuiAutocomplete-input {
+  border: none;
+}

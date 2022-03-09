@@ -1,0 +1,39 @@
+.NAV {
+  width: 100%;
+  border-right: none;
+  background-color: #ebf3ff;
+  border-bottom: 1px solid #bad4f7;
+}
+
+.NAV ul {
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+.NAV ul li {
+  list-style: none;
+  float: left;
+  text-align: center;
+  border-left: 1px solid #fff;
+  border-right: 1px solid #ccc;
+  width: 16.6667%;
+  width: calc(100% / 4);
+  box-sizing: border-box;
+}
+
+.NAV ul li:first-child {
+  border-left: none;
+}
+
+.NAV ul li a {
+  display: block;
+  text-decoration: none;
+  color: #0071c2;
+  padding: 10px 0;
+}
+.NAV ul li a:hover {
+  color: #000000;
+}
+
+ 

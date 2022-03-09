@@ -1,0 +1,14 @@
+.breadcrumb{
+    list-style-type: none;
+}
+
+.cover{
+height: 380px;
+background-position: 50%,50%;
+background-size: cover;
+background-image: url('https://cf.bstatic.com/xdata/images/xphoto/2048x1536/138538043.webp?k=5b9fdad4f2c6a0cc7e4069c6d774d9887d7544107473254f441ca4d07206528d&o=');
+}
+.pic{
+    height: auto;
+    width: 100%;
+}

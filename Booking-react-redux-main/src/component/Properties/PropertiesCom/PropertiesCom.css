@@ -1,0 +1,23 @@
+.mapbtn {
+    background-image: url("../images/map.png"); 
+   padding: 15px;
+   border-radius: 4px;
+ }
+ 
+ .navtabs li {
+   font-size: .8em;
+ }
+ 
+ .navtabs li a {
+   text-decoration: none !important;
+   color: blue;
+ }
+ 
+ .navtabs li:hover {
+   background-color: #EBF3FF;
+ }
+ 
+ .navtabs .bg-primary {
+   margin: 0 !important;
+ }
+ 

@@ -1,0 +1,88 @@
+.bg-primary_color {
+	background-color: #003580 !important;
+}
+
+.bg-secoundry_color {
+	background-color: #febb02 !important;
+}
+
+.font-white {
+	color: white !important;
+}
+
+.font-secoundry_color {
+	color: #febb02;
+}
+
+.font-third_color {
+	color: #0071c2;
+}
+
+.bg-white {
+	background-color: white !important;
+}
+
+.nav-item a {
+	color: white;
+}
+
+.lang-img {
+	width: 30px;
+	height: 30px;
+}
+ 
+
+.list-property {
+	border: 1px solid #fff !important;
+	border-radius: 2px;
+}
+
+.nav-personal-img {
+	width: 37px;
+	height: 37px;
+	border: 2px solid #febb02;
+	background-size: cover;
+	-ms-flex-preferred-size: 50%;
+	flex-basis: 50%;
+}
+
+.person-name {
+	font-size: 14px;
+	margin-bottom: -1px;
+	font-weight: bold;
+}
+
+.membership {
+	font-size: 12px;
+	font-weight: 400;
+	margin-bottom: -1px;
+}
+ .NavStyle {
+	border-radius: 999px;
+} 
+ .NavStyle:hover {
+	background-color: hsla(0, 0%, 100%, 0.1);
+	border-radius: 999px;
+}  
+ .active {
+	font-weight: bold;
+	font-size: 17px;
+}  
+.btnBackground {
+	background-color: #003580 !important;
+}
+
+.secondNav {
+	margin-left: 44px !important;
+}
+.AlERT:hover{
+	box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+}
+ 
+
+.logOut{
+	transform: translateY(5px) rotate(180deg);
+}
+ .rtL{
+	 flex-grow: 0 !important;
+ }

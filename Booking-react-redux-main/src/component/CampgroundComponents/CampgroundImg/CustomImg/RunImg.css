@@ -1,0 +1,20 @@
+.Images {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 1px;
+  align-items: start;
+  justify-items: center;
+  cursor: pointer;
+  height: 500px;
+}
+.Images img,
+.Images div {
+  max-width: 100%;
+  min-height: 100%;
+}
+.Images img:nth-child(1) {
+  grid-column: span 2;
+  grid-row: span 2;
+  height: 100%;
+  width: 100%;
+}

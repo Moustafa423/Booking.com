@@ -1,0 +1,21 @@
+.profile-img{
+    width: 250px;
+    height: 250px;
+    margin: auto;
+    border: solid 4px #eee;
+}
+
+
+.rev-img{
+    width: 200px;
+    height: 120px;
+    border-radius: 8px;
+}
+.star{
+    color: #FEBB02;
+   
+}
+
+.FontSize{
+    font-size: 12px;
+}

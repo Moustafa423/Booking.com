@@ -1,0 +1,49 @@
+.footer-search {
+    background-color: #00224f;
+    color: white;
+    padding: 5% 0;
+}
+
+.footer-btn-search {
+    font-size: 20px !important;
+    line-height: 28px !important;
+    color: #6b6b6b !important;
+    border: 0 !important;
+    border-radius: 3px !important;
+    font-weight: 100 !important;
+    padding: 10px !important;
+    width: 430px !important;
+}
+
+@media only screen and (max-width: 425px) {
+    .footer-btn-search {
+        width: 100% !important;
+    }
+}
+
+.footer-ul {
+    list-style: none;
+}
+
+.footer-ul li a {
+    font-size: 14px;
+    color: white;
+}
+
+.footer-list ul {
+    list-style: none;
+}
+
+.footer-list ul li {
+    color: #0071c2;
+    font-size: 13px;
+}
+
+.copy-rights {
+    font-size: 12px;
+}
+
+.footer-images ul {
+    list-style: none;
+    width: 75%;
+}

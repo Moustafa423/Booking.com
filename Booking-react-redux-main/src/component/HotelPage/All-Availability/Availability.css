@@ -1,0 +1,43 @@
+#customers {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  border: 1px solid #5bbaff;
+}
+
+#customers td,
+#customers th {
+  border: 1px solid #5bbaff;
+  padding: 8px;
+}
+
+#customers tr:hover {
+  background-color: rgb(235, 235, 235);
+}
+.bedType {
+  font-size: 14px;
+  display: flex;
+  justify-content: space-around;
+}
+
+#customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #4c76b2;
+  color: white;
+}
+.roomType {
+  color: #4c76b2;
+  text-decoration: underline;
+}
+
+@media only screen and (max-width: 600px) {
+  .TableDev {
+    overflow-x: scroll;
+  }
+}
+.reserveCard {
+  box-shadow: rgb(204, 219, 232) 3px 3px 6px 0px inset,
+    rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
+}

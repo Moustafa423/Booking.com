@@ -1,0 +1,83 @@
+.unified-postcard__header {
+  padding: 21px 15px 25px;
+  margin-bottom: 12px;
+  position: absolute;
+  z-index: 2;
+  color: #fff !important;
+  text-shadow: 1px 1px 1px #000;
+  -webkit-filter: gradient(
+    startColorstr= "#00224F",
+    endColorstr= "#00001e47",
+    GradientType=0
+  );
+  filter: gradient(
+    startColorstr= "#00224F",
+    endColorstr= "#00001e47",
+    GradientType=0
+  );
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  cursor: pointer;
+  height: 100%;
+  background-size: cover;
+  width: 100%;
+}
+
+.unified-postcard__header a {
+  color: #fff !important;
+  text-decoration: none;
+}
+
+.first-img-row {
+  width: 96%;
+}
+
+.first-img-row.unified-postcard__header:hover {
+  -webkit-box-shadow: rgba(0, 0, 0, 0.35) 0px 50px 36px -28px inset;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 50px 36px -28px inset;
+  width: 96%;
+}
+.secound-img-row.unified-postcard__header:hover {
+  -webkit-box-shadow: rgba(0, 0, 0, 0.35) 0px 50px 36px -28px inset;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 50px 36px -28px inset;
+  width: 93.8%;
+}
+
+.inspiration-img {
+  height: 320px;
+  margin-bottom: 15px;
+  -webkit-box-shadow: rgba(194, 193, 193, 0.25) 0px 6px 12px -2px,
+    rgba(182, 182, 182, 0.3) 0px 3px 7px -3px;
+  box-shadow: rgba(194, 193, 193, 0.25) 0px 6px 12px -2px,
+    rgba(182, 182, 182, 0.3) 0px 3px 7px -3px;
+}
+
+.badge-rating {
+  border-radius: 5.09091px 5.09091px 5.09091px 0;
+  width: 28px;
+  height: 28px;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 500;
+  color: white;
+  background-color: #003580;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.number-reviews {
+  font-size: 12px;
+}
+.grid-country-img {
+  height: 300px;
+}
+.grid-country-img2 {
+  height: 250px;
+}

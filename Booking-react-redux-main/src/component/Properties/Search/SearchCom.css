@@ -1,0 +1,45 @@
+.container-lg li {
+    list-style: none;
+    display: inline-block;
+    margin: 5px 5px 5px 0px;
+    cursor: default;
+  }
+  
+  .container ul li a {
+    text-decoration: none;
+  }
+  
+  .container-lg ul li a:hover {
+    text-decoration: underline;
+  }
+  
+  .inp {
+    position: relative;
+  }
+  
+  .inp .inp-icon {
+    position: absolute;
+    top: 25%;
+    left: 2%;
+  }
+  
+  .search {
+    background-color: #FEBB02;
+    overflow: hidden;
+    font-size: .8em;
+  }
+  
+  .search button {
+    overflow: hidden;
+  }
+  
+  .search .checkbox {
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .search .checkbox svg {
+    position: absolute;
+    right: 0%;
+  }
+  

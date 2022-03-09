@@ -1,0 +1,46 @@
+.covid {
+    border-radius: 8px !important;
+}
+
+.coronavirus-banner__icon {
+    fill: #923e01;
+    color: #923e01;
+    background: #fff0e0;
+    height: 40px;
+    width: 40px;
+    border-radius: 8px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    margin-right: 16px;
+}
+
+.recent-section ul {
+    margin-left: -3%;
+}
+
+.recent-section li {
+    list-style: none;
+    min-width: 32%;
+}
+
+.recent-section .card-div {
+    -webkit-box-shadow: rgba(114, 114, 114, 0.25) 0px 6px 12px -2px, rgba(117, 117, 117, 0.3) 0px 3px 7px -3px;
+    box-shadow: rgba(114, 114, 114, 0.25) 0px 6px 12px -2px, rgba(117, 117, 117, 0.3) 0px 3px 7px -3px;
+}
+
+.recent-section .recent-title {
+    font-weight: bold;
+}
+
+@media only screen and (max-width: 772px) {
+    .recent-section ul {
+        margin-left: -6%;
+    }
+}

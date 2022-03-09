@@ -1,0 +1,74 @@
+.stars {
+  color: #febb02;
+}
+
+.stars .like {
+  font-size: 0.7em;
+  padding: 2px;
+  display: inline-block;
+  color: #fff;
+  background-color: #febb02;
+}
+
+.dotspan {
+  display: inline-block;
+  background-color: #cecaca;
+  width: 4px;
+  height: 4px;
+  border-radius: 30%;
+}
+
+.p-desc {
+  font-size: 0.8em;
+  margin: 0;
+}
+
+.reviews a {
+  text-decoration: none;
+}
+
+.reviews .text-muted {
+  font-size: 0.7em;
+}
+
+.img {
+  position: relative;
+}
+.propImg {
+  height: 300px;
+}
+.img i {
+  position: absolute;
+  top: 5%;
+  right: 5%;
+  font-size: 1.5em;
+  color: #fff;
+}
+
+.row .rate {
+  margin-left: -15px;
+}
+
+.row .rate a {
+  background-color: #003580;
+  color: #fff;
+  padding: 7px;
+  border-radius: 4px 4px 4px 0;
+  font-weight: bold;
+}
+
+.img i:hover {
+  color: gray;
+  font-weight: bold;
+}
+.propImg {
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+  height: 210px;
+}
+.card-body h5:hover {
+  color: #bc5b01;
+}
+
+/* button:hover {
+  background-color: #0071c2 !important;
+} */

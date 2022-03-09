@@ -1,0 +1,942 @@
+{
+  "ApartmentComponents": {
+    "All-Availability": {
+      "Bed room": "غرفة نوم",
+      "bunk bed": "سرير مكون من طابقين علوي و سفلي",
+      "twin bed": "سرير مزدوج",
+      "full bed": "سرير كامل",
+      "queen bed": "سرير الملكة",
+      "king bed": "سرير الملك",
+      "sofa bed": "سرير اريكة",
+      "futon bed": "سرير فوتون",
+      "Livng room": "غرفة المعيشة",
+      "Availability": "متاحة",
+      "Apartment name": "اسم الشقة:",
+      "Country": "دولة:",
+      "City": "مدينة:",
+      "Check in": "ميعاد الرخول:",
+      "Check out": "ميعاد الخروج:",
+      "Days": "ايام:",
+      "Total price": "السعر الكلى:",
+      "Reserve": "حجز",
+      "Sorry this date is already booked": "آسف هذا التاريخ محجوزة بالفعل",
+      "Check In": "ميعاد الدخول",
+      "Check Out": "ميعاد الخروج",
+      "Check Availability": " التحقق ان كان متاح",
+      "Sleeps": "ينام",
+      "Accommodation Type": "نوع الإقامة",
+      "Price": "السعر",
+      "per day": "في اليوم",
+       "When would you like to stay at":"اين تحب البقاء في "
+
+    },
+    "ApartmentImg": {
+      "Apartment": "شقة",
+      "New to Booking.com": "New to Booking.com",
+      "Extra health & safety measures": " إجراءات الصحة والسلامة الإضافية ",
+      "This property has taken extra health and hygiene measures to ensure that your safety is their priority": "اتخذت هذه المنشأة تدابير إضافية للصحة والنظافة لضمان أن سلامتك هي أولويتهم",
+      "See health & safety details":  " إطلع علي تفاصيل الصحة والسلامة "
+    },
+    "BodyCom": {
+      "DescCom": {
+        "Missing some information?": "هل تفتقد بعض المعلومات؟",
+        "Yes": " نعم ",
+        "No": "لا"
+      },
+      "reservation": {
+        "Garden view": "إطلالة على الحديقة",
+        "Balcony": "شرفة",
+        "Terrace": "مصطبة",
+        "Mountain view": "إطلالة على الجبل",
+        "Perfect for a 1-night stay": "مثالي لإقامة ليلة واحدة!",
+        "Located in": "يقع في",
+        "location score of": "نتيجة الموقع",
+        "Apartment with": "شقة مع:",
+        "Reserve": "حجز"
+      }
+    },
+    "Facilities": {
+      "Facilities of": " خدمات يوفرها ",
+      "General": "عام",
+      "Entertainment": "وسائل الترفيه",
+      "Outdoor & View": "المنظر الخارجي",
+      "Cooking & Cleaening": "الطبخ والتنظيف",
+      "Missing some information?": "هل تفتقد بعض المعلومات؟",
+      "Yes": "نعم",
+      "No": "لا"
+    },
+    "Faqs": {
+      "FAQs": "اسئلة واجابات",
+      "How do I get to know which facilities / services each Apartment offers?": "كيف يمكنني التعرف على المرافق / الخدمات التي تقدمها كل شقة؟",
+      "Please, have a look at": "Please, have a look at",
+      "Facilities": "Facilities",
+      "In this section you will also find the Hotel facilities / services": "ستجد في هذا القسم أيضًا مرافق / خدمات الفندق",
+      "Do you charge any fees for your services?": "هل تتقاضى أي رسوم مقابل خدماتك؟",
+      "No, Booking.com doesn’t charge any fees for its services. Our service is completely free of charge and we will not add to your accommodation any additional fee for our service": "لا ، لا تفرض Booking.com أي رسوم على خدماتها. خدمتنا مجانية تمامًا ولن نضيف إلى مكان إقامتك أي رسوم إضافية لخدمتنا.",
+      "Are fees and taxes included in prices?": "هل الرسوم والضرائب مشمولة ف الاسعار",
+      "This is different for each country and also any type of accommodation": "هذا يختلف لكل بلد وأي نوع من الإقامة.",
+      "How do I know that my reservation is confirmed?": "كيف أعرف أن حجزي مؤكد؟",
+      "After completing and sending us your order form, you will get an automatic receipt e-mail containing your order number. Within 30 minutes, you will receive Accommodation confirmation. The Accommodation confirmation serves you as a voucher so please do not forget to print it out and take it with you as it contains all the vital details (address of your hotel, contact phone numbers and other instructions). In case that you requested in your order form any special requests – ie. extra bed, non smoking room, parking etc, please always double check with the hotel directly that they noted your request and are able to arrange it for you.": "بعد إكمال نموذج الطلب وإرساله إلينا ، ستتلقى إيصال استلام تلقائي عبر البريد الإلكتروني يحتوي على رقم طلبك. في غضون 30 دقيقة ، ستتلقى تأكيدًا للإقامة. يخدمك تأكيد الإقامة كإيصال ، لذا لا تنسى طباعته واصطحابه معك لأنه يحتوي على جميع التفاصيل الحيوية (عنوان فندقك وأرقام هواتف الاتصال وإرشادات أخرى). في حال طلبت في طلبك شكل أي طلبات خاصة - أي. سرير إضافي ، وغرفة لغير المدخنين ، وموقف سيارات ، وما إلى ذلك ، يرجى دائمًا التحقق مرتين مع الفندق مباشرة من أنهم سجلوا طلبك ويمكنهم ترتيب ذلك لك.",
+      "Can I book your services by telephone, e-mail or fax?": "هل يمكنني حجز خدماتك عبر الهاتف أو البريد الإلكتروني أو الفاكس؟",
+      "Unfortunately not. If you wish to make a booking, please fill in the order form on our website": "للأسف لا. إذا كنت ترغب في إجراء حجز ، يرجى ملء نموذج الطلب على موقعنا على الإنترنت.",
+      "I made a reservation but did not receive any confirmation. What should I do?": "لقد قمت بالحجز ولكن لم أتلق أي تأكيد. ماذا علي أن أفعل؟",
+      "Before finalizing your reservation please double check your e-mail address because a mistake in the e-mail address is the most common reason why our clients do not receive their confirmations. In some cases, our e-mails can also end up in the “spam folder” so please check it as well. In any case, please try to contact us by e-mail as we will be very happy to assist you and solve the problem as soon as possible": "قبل إنهاء الحجز ، يرجى التحقق مرة أخرى من عنوان بريدك الإلكتروني لأن الخطأ في عنوان البريد الإلكتروني هو السبب الأكثر شيوعًا لعدم تلقي عملائنا تأكيداتهم. في بعض الحالات ، يمكن أن تنتهي رسائل البريد الإلكتروني الخاصة بنا أيضًا في مجلد البريد العشوائي ، لذا يرجى التحقق منه أيضًا. على أي حال ، يرجى محاولة الاتصال بنا عبر البريد الإلكتروني حيث سنكون سعداء جدًا بمساعدتك وحل المشكلة في أسرع وقت ممكن."
+    },
+    "GuestReviews": {
+      "Guest reviews": "اراء المستخدمين",
+      "Reviews": "التقييمات",
+      "Read all reviews": "قراءة جميع التقييمات",
+      "ReviewCanavas": {
+        "Leave Review": "اترك تقييم",
+        "Thank you for your review": "شكرا لك على تقييم",
+        "Please leave a review and say what your opinion about this apartment": "من فضلك اترك تقييم",
+        "Type your review here": " اكتب رأيك هنا:",
+        "Rate by star": " التقييم بالنجوم",
+        "Send your review": "ارسل تقييمك"
+      }
+    },
+    "HouseRules": {
+      "House rules": " قواعد المنزل",
+      "takes special requests - add in the next step!": "يأخذ طلبات خاصة - أضف في الخطوة التالية!",
+      "Check in": "ميعاد الدخول :",
+      "Check out": "ميعاد الخروج :",
+      "Cancellation/ prepayment": "الإلغاء / الدفع المسبق :",
+      "You can cancel your reservation and get your money back in": "يمكنك إلغاء الحجز الخاص بك واستعادة أموالك",
+      "days": "ايام",
+      "No age restriction": "لا قيود عمرية :",
+      "There is no age requirement for check-in": "لا يوجد عمر محدد لتسجيل الوصول",
+      "Pets": "حيوانات أليفة :",
+      "Pets are allowed": "مسموح بالحيوانات الأليفة",
+      "Pets are not allowed": "غير مسموح بالحيوانات الاليفة",
+      "Payments by Booking.com": "المدفوعات عن طريق Booking.com :",
+      "Booking.com takes your payment on behalf of the property for this stay, but make sure you have cash for any extras once you get there": "تقوم Booking.com بتحصيل مدفوعاتك لهذه الإقامة نيابة عن مكان الإقامة ، ولكن تأكد من أن لديك نقودًا مقابل أي إضافات بمجرد وصولك إلى هناك."
+    },
+    "MostPopularfacilitites": {
+      "Air conditioning": "تكيف",
+      "Heating": "مدفأة",
+      "Free Wifi 5G": "واي فاي مجاني 5G",
+      "Electric vehicle charging station": "محطة شحن السيارات الكهربائية",
+      "Most popular facilities": "أشهر المرافق",
+      "We'll send you an email confirming your reservation": "سنرسل لك بريدًا إلكترونيًا لتأكيد حجزك",
+      "No credit card needed to book": "لا حاجة لبطاقة ائتمان للحجز.",
+      "Lock in a great price for your upcoming stay": "ثبّت سعرًا رائعًا لإقامتك القادمة",
+      "Prices may go up, so secure your reservation today": "قد ترتفع الأسعار ، لذا قم بتأمين حجزك اليوم"
+    },
+    "QuestionsAnd Answers": {
+      "Got a question?": "لديك سؤال?",
+      "Property questions and answers": "أسئلة وأجوبة الملكية",
+      "Looking for more info? Send a question to the property to find out more.": "تبحث عن مزيد من المعلومات؟ أرسل سؤالاً إلى العقار لمعرفة المزيد.",
+      "Ask a question": "إطرح سؤال",
+      "Didn't find the answer you were looking for? Ask a question about the property": "لم تجد الإجابة التي كنت تبحث عنها؟ اطرح سؤالا عن العقار",
+      "Type your question here": "اكتب سؤالك هنا:",
+      "characters left": "اقصي عدد حروف مسموح به",
+      "Submit your question": "أرسل سؤالك",
+      "Your question will be published on Booking.com after it has been approved and answered.": "سيتم نشر سؤالك على Booking.com بعد الموافقة عليه والإجابة عليه.",
+      "Click here to read post guidelines.": "انقر هنا لقراءة إرشادات النشر.",
+      "Read all questions": "اقرأ جميع الأسئلة",
+      "Question & Answers": "أسئلة وإجابات",
+      "Your question has been successfully posted": "وقد تم نشر سؤالك بنجاح",
+      "No answers yet": "لا إجابات حتى الآن",
+      "Read More": "اقرأ أكثر"
+    },
+    "WhyChose": {
+      "5 reasons to choose": "خمس أسباب للاختيار ",
+      "Prices you can't beat!": "أسعار لا تضاهى!",
+      "Booking is safe": "الحجز آمن",
+      "Manage your bookings online": "إدارة الحجوزات الخاصة بك على الإنترنت",
+      "The staff speak English": "يتحدث الموظفون الإنجليزية",
+      "Great location and facilities for couples": "موقع رائع ومرافق للأزواج"
+    }
+  },
+  "articles": {
+    "BestCoffee": {
+      "Best Coffee Cities in the US": "أفضل مدن القهوة في الولايات المتحدة",
+      "Eat & Drink": "كل واشرب",
+      "Whether you like a basic brew or larger-than-life latte, here are five of the best US cities for coffee-lovers to visit for the ultimate caffeine fix.": " سواء كنت تحب مشروبًا أساسيًا أو لاتيه أكبر من الحياة ، فإليك خمس من أفضل المدن الأمريكية التي يمكن لعشاق القهوة زيارتها للحصول على أفضل حل للكافيين.",
+      "Portland, OR": "بورتلاند ، أو",
+      "Try out independent roasters in Portland, Oregon": "جرب المحامص المستقلة في بورتلاند ، أوريغون",
+      "Portland is a city synonymous with coffee. Known for their independent roasteries, cozy cafés, and experimental espressos, the relaxed river city is packed with local coffee charm. After waking up in the laid-back downtown Society Hotel, check out local roasteries like Portland Roasting Company for their variety and local charm, Heart Coffee for their famous fruity flavors (and amazing mochas), or Stumptown Coffee Roasters for unique seasonal coffees like the piña colada cold brew.": "بورتلاند هي مدينة مرادفة للقهوة. تشتهر المدينة النهرية الهادئة بالمحمصات المستقلة والمقاهي المريحة والإسبريسو التجريبية ، وهي مليئة بسحر القهوة المحلي. بعد الاستيقاظ في فندق Downtown Society الهادئ ، تحقق من المحمصات المحلية مثل Portland Roasting Company لتنوعها وسحرها المحلي ، أو Heart Coffee لنكهات الفواكه الشهيرة (والموشا الرائعة) ، أو Stumptown Coffee Roasters للقهوة الموسمية الفريدة مثل بينيا كولادا المشروب البارد.",
+      "Seattle, WA": "سياتل ، واشنطن",
+      "Visit the coffee epicenter of the US in Seattle": "قم بزيارة مركز القهوة في الولايات المتحدة في سياتل",
+      "As the birthplace of Starbucks, the rainy city of Seattle is a major US hub for all things coffee. Visit the first ever Starbucks at 1st and Pike before heading just nine blocks away to the 15,000-square-foot Starbucks Roastery – a self-proclaimed Willy Wonka’s Chocolate Factory for coffee-lovers. For a more local experience, visit coffeehouses like Café Allegro which claims to be “Seattle’s oldest espresso bar.” Switch over to decaf before heading to sleep at the Mayflower Park Hotel built in 1927 and located downtown.": "باعتبارها مسقط رأس ستاربكس ، تعد مدينة سياتل الممطرة مركزًا رئيسيًا في الولايات المتحدة لجميع أنواع القهوة. قم بزيارة أول ستاربكس على الإطلاق في 1st و Pike قبل أن تتوجه على بعد تسعة بنايات فقط إلى Starbucks Roastery الذي تبلغ مساحته 15000 قدم مربع - مصنع شوكولاتة ويلي ونكا لعشاق القهوة. للحصول على تجربة محلية أكثر ، تفضل بزيارة المقاهي مثل Café Allegro التي تدعي أنها أقدم بار إسبرسو في سياتل. انتقل إلى تناول القهوة منزوعة الكافيين قبل التوجه للنوم في فندق Mayflower Park Hotel الذي تم بناؤه عام 1927 ويقع في وسط المدينة.",
+      "San Francisco, CA": "سان فرانسيسكو، كاليفورنيا",
+      "Innovation is the key to coffee in San Francisco": "الابتكار هو مفتاح القهوة في سان فرانسيسكو",
+      "San Francisco's coffee scene has been around since the California Gold Rush brought names like Folger Coffee Company to the forefront (do check out the historic, Renaissance revival Folgers Coffee Company Building if you venture into the city's Financial District). They have a strong love for their old-school coffee, but you’ll see innovation mixing the old and new coffee techniques in the Bay Area. Places like Contraband Coffee Bar, Wrecking Ball Roasting Company, or the popular Blue Bottle Coffee are great spots to see what California coffee has to offer. Spend the night at Chancellor Hotel on Union Square which offers a menu of 12 specialty pillows to choose from – so you’ll definitely sleep comfortably even after all that caffeine.": "كان مشهد القهوة في سان فرانسيسكو موجودًا منذ أن جلبت California Gold Rush أسماء مثل Folger Coffee Company إلى الواجهة (تحقق من مبنى شركة Folgers Coffee التاريخي الذي تم إحياؤه في عصر النهضة إذا كنت تغامر بالدخول إلى الحي المالي بالمدينة). لديهم حب قوي لقهوة المدرسة القديمة ، لكنك سترى الابتكار يمزج بين تقنيات القهوة القديمة والجديدة في منطقة الخليج. أماكن مثل Contraband Coffee Bar أو Wrecking Ball Roasting Company أو Blue Bottle Coffee الشهيرة هي أماكن رائعة لمشاهدة ما تقدمه قهوة كاليفورنيا. اقض الليلة في فندق Chancellor Hotel on Union Square الذي يقدم قائمة من 12 وسادة متخصصة للاختيار من بينها - لذلك ستنام بشكل مريح حتى بعد كل هذا الكافيين.",
+      "Brooklyn, NY": "بروكلين ، نيويورك",
+      "Keep up with the hustle and bustle with a coffee in Brooklyn, NY": "مواكبة الصخب والضجيج مع القهوة في بروكلين ، نيويورك",
+      " New York City probably would be sleeping by now if not for their love of coffee. For the best coffee experiences this city has to offer, head over to some of the more hipster spots in Brooklyn. Williamsburg is the ideal place for an espresso at places like Hungry Ghost, Brooklyn Roasting Company, or Devoción where you can get the perfect new-age Brooklyn mix of sophisticated hangout and urban ambiance. Stay overnight in Williamsburg at the Pod Brooklyn, which has a nearby campus featuring rooms, amenities and outdoor space.": " ربما كانت مدينة نيويورك تنام الآن لولا حبهم للقهوة. للحصول على أفضل تجارب القهوة التي تقدمها هذه المدينة ، توجه إلى بعض المواقع الأكثر شهرة في بروكلين. يعد Williamsburg المكان المثالي لتناول قهوة الإسبريسو في أماكن مثل Hungry Ghost أو Brooklyn Roasting Company أو Devoción حيث يمكنك الحصول على مزيج Brooklyn المثالي من أماكن الاستراحة المتطورة والأجواء الحضرية. يمكنك الإقامة طوال الليل في Williamsburg في Pod Brooklyn ، الذي يضم حرمًا جامعيًا قريبًا يضم غرفًا ووسائل راحة ومساحة خارجية.",
+      "Minneapolis, MN": "Minneapolis, MN",
+      "Enjoy the best kept secret in the coffee community – Minneapolis": "استمتع بأفضل سر محتفظ به في مجتمع القهوة - مينيابوليس",
+      "Minneapolis is the place to go for a rustic and relaxed coffee scene. The state of Minnesota has long been at the forefront of the national speciality coffee scene thanks to progressive roasting styles and locally grown, high-quality select beans. Coffee spots like Spyhouse, Dogwood, Duluth Coffee Company and UP focus on quality and ethics in their roasting – and make a pretty mean cup of joe. Stay downtown at the Millennium Minneapolis, which is connected to the skyway so you won't even have to step outside before your morning brew.": "مينيابوليس هو المكان المناسب للذهاب لمشاهدة قهوة ريفية ومريحة. لطالما كانت ولاية مينيسوتا في طليعة مشهد القهوة المتخصصة على المستوى الوطني بفضل أساليب التحميص التقدمية وحبوب القهوة المختارة عالية الجودة والمزروعة محليًا. تركز مواقع القهوة مثل Spyhouse و Dogwood و Duluth Coffee Company و UP على الجودة والأخلاق في تحميصها - وتصنع فنجانًا رائعًا من جو. ابق في وسط المدينة في Millennium Minneapolis ، المتصل بالطريق الجوي حتى لا تضطر إلى الخروج قبل تناول مشروب الصباح."
+    },
+    "LasVegas": {
+      "Las Vegas Beyond the Casinos": "لاس فيغاس ما وراء الكازينوهات",
+      "Destinations": "الأماكن",
+      "In Las Vegas, gambling isn’t the only way to hit the jackpot. Nowadays the city promises an array of alternative entertainment, from world-className concerts and blockbuster shows, to adrenaline-pumping roller coasters and Michelin-starred cuisine. For a sure-bet on a good time, we’ve gathered Sin City’s top attractions beyond the blackjack tables and slot machines.": "في لاس فيغاس ، المقامرة ليست الطريقة الوحيدة للفوز بالجائزة الكبرى. في الوقت الحاضر ، تعد المدينة بمجموعة من وسائل الترفيه البديلة ، من الحفلات الموسيقية ذات الأسماء العالمية والعروض الرائجة ، إلى الأفعوانية التي تضخ الأدرينالين والمأكولات الحائزة على نجمة ميشلان. للحصول على رهان أكيد على قضاء وقت ممتع ، قمنا بتجميع أفضل مناطق الجذب في Sin City خارج طاولات البلاك جاك وماكينات القمار.",
+      "Explore the Strip & Fremont Street": "استكشف شارع Strip & Fremont",
+      "One of the world’s most recognizable streets": "أحد أكثر الشوارع شهرة في العالم",
+      "Las Vegas Boulevard—more commonly known as the Strip—is one of the world’s most recognizable streets. Walking down this 4-mile stretch, you’ll pass the city’s best shopping and most famous sights, from the neon Welcome to Las Vegas sign to the Bellagio’s fountain show. Then there’s Fremont Street, which is sort of like the Strip’s quirky older brother. It was the first paved road in downtown Las Vegas, and to this day promises neon signs flashing above and musicians performing on the sidewalks below. Want to stay close to (but out of earshot from) the action? Check out the Desert Rose Resort, whose spacious condo suites come with fully equipped kitchens, all without the commotion of a connected casino.": "شارع لاس فيغاس - المعروف أكثر باسم الشريط - هو أحد أكثر الشوارع شهرة في العالم. عند السير في هذا الامتداد البالغ طوله 4 أميال ، ستمر بأفضل أماكن التسوق وأشهر المعالم السياحية في المدينة ، من علامة النيون مرحبًا بك في لاس فيغاس إلى عرض نافورة بيلاجيو. ثم هناك شارع Fremont ، الذي يشبه إلى حد ما الأخ الأكبر الملتوي لـ Strip. كان هذا أول طريق مرصوف في وسط مدينة لاس فيغاس ، وحتى يومنا هذا تعد بعلامات النيون التي تومض أعلاه والموسيقيون الذين يؤدون عروضهم على الأرصفة أدناه. هل تريد البقاء على مقربة من الحدث (لكن بعيدًا عن مرمى السمع منه)؟ تحقق من منتجع ديزرت روز ، حيث تحتوي أجنحته الواسعة على مطابخ مجهزة بالكامل ، وكل ذلك بدون ضجة كازينو متصل.",
+      "Vintage lights & Vegas history": "أضواء قديمة وتاريخ فيغاس",
+      "The Neon Museum is a technicolor graveyard": "متحف النيون هو مقبرة تكنيكولور",
+      "If Fremont Street doesn’t satisfy your classic-Vegas itch, head to the Neon Museum. Its collection is as immense as it is impressive, with two outdoor “boneyards” and a visitor’s center housed in the former La Concha Motel lobby. The artifacts are like a walk through history, tracking the trends of design and technology from the 1930s to present-day Las Vegas. For a glimpse into the city’s grimmer past, The Mob Museum is only five minutes away. After a day of history, settle back into modern-day luxury at the Marriott’s Grand Chateau, one of the highest-rated hotels in Vegas.": "إذا كان Fremont Street لا يرضي حكة فيغاس الكلاسيكية ، فتوجه إلى متحف نيون. مجموعته هائلة بقدر ما هي مثيرة للإعجاب ، مع اثنين من boneyards في الهواء الطلق ومركز للزوار يقع في بهو موتيل La Concha السابق. تعتبر القطع الأثرية بمثابة نزهة عبر التاريخ ، حيث تتبع اتجاهات التصميم والتكنولوجيا من الثلاثينيات إلى لاس فيغاس الحالية. لإلقاء نظرة على ماضي المدينة الأكثر كآبة ، يقع متحف Mob على بعد خمس دقائق فقط. بعد يوم من التاريخ ، استعد للرفاهية العصرية في فندق ماريوت جراند شاتو ، أحد الفنادق الأعلى تقييمًا في فيغاس.",
+      "A taste of Europe in the desert": "طعم أوروبا في الصحراء",
+      "Float down Venetian canals in the middle of the desert": "تعويم أسفل قنوات البندقية في وسط الصحراء",
+      "You don’t need to take a transatlantic flight to experience Europe. The Paris Hotel not only offers fine French cuisine in an authentic brasserie ambiance, but even has a half-scale replica of the Eiffel Tower, which stands forty-six stories tall and offers incredible views down the Strip. Or you could take a step back in time to Ancient Rome at Casesar’s Palace, where the Colosseum hosts in the world’s most exciting performers – though no gladiators. For a modern-day Italian experience, you can go on a gondola ride down the canals that run along restaurant terraces and shopping arcades modeled after Venice. The Palazzo at The Venetian® has a 9.1 rating, promising both comfort and fun.": "لست بحاجة إلى أخذ رحلة عبر المحيط الأطلسي لتجربة أوروبا. لا يقدم فندق Paris Hotel المأكولات الفرنسية الفاخرة في أجواء براسيري أصلية فحسب ، بل يحتوي أيضًا على نسخة طبق الأصل بنصف مقياس لبرج إيفل ، الذي يبلغ ارتفاعه ستة وأربعين طابقًا ويوفر إطلالات رائعة على القطاع. أو يمكنك العودة بالزمن إلى روما القديمة في قصر كيسار ، حيث يستضيف الكولوسيوم أكثر الفنانين إثارة في العالم - على الرغم من عدم وجود المصارعين. للاستمتاع بتجربة إيطالية حديثة ، يمكنك الذهاب في جولة بالجندول أسفل القنوات الممتدة على طول تراسات المطاعم وأروقة التسوق المصممة على غرار البندقية. حصل فندق Palazzo at The Venetian® على تصنيف 9.1 ، ويعد بالراحة والمتعة.",
+      "Mile-high thrills": "الإثارة على ارتفاع أميال",
+      "An amusement park not for the faint of heart": "متنزه ليس لضعاف القلوب",
+      "The Stratosphere Tower is a key fixture in the Vegas skyline and claims to be the country’s “tallest freestanding observation tower” at a staggering 1,150 feet. The top level doesn’t just offer incredible city views, but is also home to the highest thrill rides in the country. Even the boldest daredevils break a sweat free-falling at 40 mph doing a Sky Jump or getting spun at 3 Gs over the edge of the 900-foot-high balcony. Once everyone’s pulse has settled, the M Resort Spa & Casino is the perfect place to unwind for the night.": "يعد برج ستراتوسفير من المعالم الرئيسية في أفق فيغاس ويدعي أنه أطول برج مراقبة قائم بذاته في البلاد على ارتفاع مذهل يبلغ 1150 قدمًا. لا يوفر المستوى الأعلى مناظر رائعة للمدينة فحسب ، بل هو أيضًا موطن لأعلى جولات التشويق في البلاد. حتى أكثر الجرأة جرأة كسر عرق السقوط الحر بسرعة 40 ميلاً في الساعة أثناء القفز في السماء أو التدوير بسرعة 3 جيغا فوق حافة الشرفة التي يبلغ ارتفاعها 900 قدم. بمجرد أن يهدأ نبض الجميع ، يعد M Resort Spa & Casino المكان المثالي للاسترخاء طوال الليل.",
+      "Catch a world-className performance": "احصل على أداء من الطراز العالمي",
+      "Every Cirque du Soleil show promises jaw-dropping acts": "يعد كل عرض من عروض Cirque du Soleil بأفعال مذهلة",
+      "Every evening hosts incredible shows that give Broadway a run for its money, making Las Vegas one of the world’s entertainment capitals. On top of visiting acts from international stars, there are dozens of shows that run 365 days a year, from various Cirque du Soleil performances to the Blue Man Group and Jabbawockeez dance crew. Situated halfway between the Strip and McCarran International Airport, the Home2 Suites by Hilton Las Vegas City Center also offers a free shuttle service for travelers arriving by plane.": "تستضيف كل مساء عروضًا مذهلة تمنح برودواي فرصة للحصول على أموالها ، مما يجعل من لاس فيجاس إحدى عواصم الترفيه في العالم. على رأس الأعمال الزائرة من النجوم العالميين ، هناك العشرات من العروض التي تستمر 365 يومًا في السنة ، من مختلف عروض Cirque du Soleil إلى Blue Man Group وطاقم رقص Jabbawockeez. يقع Home2 Suites by Hilton Las Vegas City Centre في منتصف الطريق بين Strip ومطار McCarran الدولي ، ويوفر أيضًا خدمة نقل مكوكية مجانية للمسافرين الذين يصلون بالطائرة.",
+      "Airborne adventures": "مغامرات محمولة جوا",
+      "What’s better than a bird’s-eye view of the Grand Canyon?": "ما هو أفضل من نظرة شاملة لغراند كانيون؟",
+      "The Grand Canyon is too close—not to mention breathtaking—to pass up. There’s no better way to fully appreciate this natural wonder than by helicopter. Numerous companies offer packages that will take you from Vegas to Boulder City, before hopping a chopper and soaring over and through the Grand Canyon. If time is tight for a day trip, you can still get airborne at Vegas Indoor Skydiving, where vertical wind tunnels let visitors experience the phenomena of flight. Treat yourself to a stay at Bally's Las Vegas Hotel & Casino, one of the city’s most highly rated hotels.": "جراند كانيون قريب جدا - ناهيك عن أنه يخطف الأنفاس - ليضيع. لا توجد طريقة أفضل لتقدير هذه الأعجوبة الطبيعية بشكل كامل من الهليكوبتر. تقدم العديد من الشركات حزمًا ستأخذك من فيجاس إلى مدينة بولدر ، قبل القفز فوق المروحية والتحليق فوق جراند كانيون وعبرها. إذا كان الوقت ضيقًا لرحلة ليوم واحد ، فلا يزال بإمكانك الطيران في Vegas Indoor Skydiving ، حيث تتيح أنفاق الرياح العمودية للزوار تجربة ظاهرة الطيران. دلل نفسك بإقامة في فندق وكازينو Bally's Las Vegas ، أحد الفنادق الأعلى تقييمًا في المدينة."
+    },
+    "Yoga": {
+      "5 soulful yoga retreat destinations": "5 وجهات لليوغا مليئة بالحيوية",
+      "Destinations": "الأماكن",
+      "Over the past year, many people have sought refuge in the peaceful practice of yoga. Now that travel is on the rise again, we discovered that one in four travelers will be prioritizing relaxation on their next trip. If you’re also looking to unite mind, body, and wanderlust, check out our selection of the world’s most rejuvenating yoga retreats.": "خلال العام الماضي ، لجأ الكثير من الناس إلى ممارسة اليوجا السلمية. الآن بعد أن بدأ السفر في الارتفاع مرة أخرى ، اكتشفنا أن واحدًا من كل أربعة مسافرين سيعطي الأولوية للاسترخاء في رحلتهم القادمة. إذا كنت تتطلع أيضًا إلى توحيد العقل والجسد وحب التجوال ، فقم بإلقاء نظرة على مجموعتنا المختارة من أكثر ملاذات اليوجا تجديدًا للحيوية في العالم.",
+      "COMO Shambhala Estate, Bali, Indonesia": "كومو شامبالا إستيت ، بالي ، إندونيسيا",
+      "Infinity pool and outdoor showers in lush green surroundings at COMO Shambhala Estate": "مسبح لا متناهي ودش في الهواء الطلق في محيط أخضر مورق في COMO Shambhala Estate",
+      "Nestled in a lush tropical enclave, Shambhala Estate is the ideal place to relax in Bali. At this luxury yoga retreat, stone steps paved along meandering waterways lead to private residences, and infinity pools overlook the dense jungle canopy. A stay here is guaranteed to cleanse your body of the stresses of daily life – even without a round of yoga. But if mindfulness is on your mind, Shambhala Estate has a full menu of holistic health offerings, ranging from meditation, Pilates, yoga, hydrotherapy, and more. Want a more personal experience? The estate’s internationally accredited teachers will happily craft an individualized wellness plan for you.": "يقع Shambhala Estate في منطقة استوائية خصبة ، وهو المكان المثالي للاسترخاء في بالي. في هذا الملاذ الفاخر لليوغا ، تؤدي الخطوات الحجرية المرصوفة على طول الممرات المائية المتعرجة إلى مساكن خاصة ، وتطل أحواض السباحة اللامتناهية على مظلة الغابة الكثيفة. الإقامة هنا مضمونة لتطهير جسمك من ضغوط الحياة اليومية - حتى بدون جولة اليوجا. ولكن إذا كان اليقظة في ذهنك ، فإن Shambhala Estate لديها قائمة كاملة من العروض الصحية الشاملة ، بدءًا من التأمل ، والبيلاتس ، واليوجا ، والعلاج المائي ، والمزيد. هل تريد تجربة شخصية أكثر؟ سيسعد معلمو العقار المعتمدون دوليًا بصياغة خطة عافية فردية لك.",
+      "Paradis Plage Surf Yoga & Spa, Taghazout, Morocco": "باراديس بلاج سيرف يوغا آند سبا ، تغازوت ، المغرب",
+      "Yoga className on the beach at Paradis Plage Surf Yoga & Spa": "صف اليوغا الاسم على الشاطئ في باراديس بلاج سيرف يوجا آند سبا",
+      "Situated in the rustic fishing village of Taghazout, Paradis Plage Surf Yoga & Spa is a 300-acre oasis of calm and fun. From focusing on your breathwork at seaside yoga workshops to losing said breath in an intense surf lesson, there’s no shortage of enjoyment here. After a sun-kissed yoga session, tuck into healthy organic food at the resort’s restaurant and savor a selection of fresh food and juices to refuel after practice. End your day with a massage or treat yourself to a cocktail while gazing out at the sun as it sinks into the Atlantic.": "Situated in the rustic fishing village of Taghazout, Paradis Plage Surf Yoga & Spa is a 300-acre oasis of calm and fun. From focusing on your breathwork at seaside yoga workshops to losing said breath in an intense surf lesson, there’s no shortage of enjoyment here. After a sun-kissed yoga session, tuck into healthy organic food at the resort’s restaurant and savor a selection of fresh food and juices to refuel after practice. End your day with a massage or treat yourself to a cocktail while gazing out at the sun as it sinks into the Atlantic.",
+      "Tri, Koggala Lake, Sri Lanka": "تري ، بحيرة كوجالا ، سريلانكا",
+      "Disappear into the natural surroundings at Tri": "تختفي في المحيط الطبيعي في Tri",
+      "Tri sits on the shores of the tranquil Lake Koggala, enclosed on all sides by sweet-scented cinnamon plantations. The resorts blend into its natural surroundings, thanks to its walls which are made out of wood from the local plantations. Only the occasional peek of a thatched roof or glimmer from the infinity pools give away its location. The resort is the brainchild of Rob Drummond, who’s big on sustainability. Nature seeps into every space here, with geckos scuttling about and kingfishers perched by earth-tone pools. It’ll be tempting to simply kick back and enjoy the natural beauty,with a green juice in hand, but there’s also an array of wellness services to try. Rob's wife, Lara, conducts yoga sessions in a treetop sala (hall) hidden among the bamboo groves, and her client lists includes Gerard Butler and Sienna Miller. Thanks to Tri’s proximity to the coast, you can soak away any lingering stresses in the roaring Indian Ocean.": "يقع Tri على ضفاف بحيرة Koggala الهادئة ، ومحاطة من جميع الجوانب بمزارع القرفة ذات الرائحة الحلوة. تمتزج المنتجعات مع محيطها الطبيعي ، بفضل جدرانها المصنوعة من الخشب من المزارع المحلية. فقط النظرة الخاطفة العرضية لسقف من القش أو وميض من حمامات السباحة اللامتناهية يكشف عن موقعه. المنتجع من بنات أفكار روب دروموند ، صاحب الاستدامة. تتسرب الطبيعة إلى كل فضاء هنا ، حيث تتجول الأبراص في الأنحاء ويطفو صائدو الأسماك على حمامات السباحة ذات الألوان الترابية. سيكون من المغري ببساطة الاسترخاء والاستمتاع بالجمال الطبيعي ، مع وجود عصير أخضر في متناول اليد ، ولكن هناك أيضًا مجموعة من خدمات الصحة التي يمكنك تجربتها. تجري زوجة روب ، لارا ، جلسات يوغا في صالة (قاعة) أعلى الشجرة مخبأة بين بساتين الخيزران ، وتشمل قوائم عملائها جيرارد بتلر وسيينا ميلر. بفضل قرب Tri من الساحل ، يمكنك امتصاص أي ضغوط عالقة في المحيط الهندي الصاخب.",
+      "Zenses Wellness and Yoga Resort, Tulum, Mexico": "منتجع Zenses Wellness and Yoga ، تولوم ، المكسيك",
+      "Zenses Wellness and Yoga Resort in Tulum is a sanctuary for those who love sun, sand, and soulful reflection. It's a bohemian-chic yogi abode designed to cater to every taste while bringing you closer to nature. Situated 1.5 miles inland from Paraíso Beach, this adults-only wellness retreat has poolside hammocks, refreshing outdoor showers, hidden reading nooks, and, of course, yoga. The best part? All sessions and equipment are free, but you’re welcome to tip the instructor. Once you’re done putting yourself in posture-aligning poses, it’s time to unfold into Savasana next to the pool.": "يعتبر Zenses Wellness and Yoga Resort في تولوم ملاذًا لأولئك الذين يحبون الشمس والرمال والانعكاسات العاطفية. إنه دار يوغي بوهيمية أنيقة مصممة لتلبية جميع الأذواق مع تقريبك من الطبيعة. يقع هذا الملاذ الصحي المخصص للبالغين فقط على بعد 1.5 ميل داخليًا من شاطئ بارايسو ، ويحتوي على أراجيح شبكية بجانب المسبح ودشات منعشة في الهواء الطلق وزوايا قراءة مخفية واليوغا بالطبع. أفضل جزء؟ جميع الجلسات والمعدات مجانية ، ولكن يمكنك توجيه إكرامية للمدرب. بمجرد الانتهاء من وضع نفسك في وضعيات محاذاة الموقف ، فقد حان الوقت للانفتاح في Savasana بجوار حمام السباحة.",
+      "Six Senses, Douro Valley, Portugal": "سيكس سينسز ، وادي دورو ، البرتغال",
+      "Retreat to the mountains at this oasis of peace amid northern Portugal’s vineyards and sunbaked canyons. Vaulted ceilings reach down to meet your mountain pose at this 19th-century mansion-turned-hotel by the edge of the Douro River. The surrounding landscape is spectacular all year, with rolling hills awash with the rugged farmland colors and ancient manor homes. The resort’s three-day Discover Yoga program aims to improve your mind-body balance, suitable for novices and advanced yogis alike. If you prefer to practice solo, focus on your breath while sitting in a bird’s nest swing or dive into a refreshing moment of poolside meditation. Top it all off with a dining experience at the on-site restaurant, accompanied by a glass of local wine.": "انطلق إلى الجبال في واحة السلام هذه وسط مزارع الكروم والأودية التي تغمرها أشعة الشمس في شمال البرتغال. تمتد الأسقف المقببة إلى الأسفل لتلتقي بجبلك في هذا القصر الذي يعود إلى القرن التاسع عشر والذي تحول إلى فندق على حافة نهر دورو. المناظر الطبيعية المحيطة مذهلة طوال العام ، مع التلال المنحدرة التي تغمرها ألوان الأراضي الزراعية الوعرة ومنازل العزبة القديمة. يهدف برنامج Discover Yoga الذي يمتد لثلاثة أيام في المنتجع إلى تحسين التوازن بين العقل والجسم ، وهو مناسب للمبتدئين وممارسي اليوغا المتقدمين على حدٍ سواء. إذا كنت تفضل التدرب بمفردك ، فركز على أنفاسك أثناء الجلوس في أرجوحة عش الطائر أو الغوص في لحظة منعشة من التأمل بجانب المسبح. قم بتجربة كل ذلك مع تجربة تناول الطعام في المطعم في الموقع ، مصحوبة بكأس من النبيذ المحلي."
+    }
+  },
+  "Destination": {
+    "Destination Inspiration: San Juan, Puerto Rico": "إلهام الوجهة: سان خوان ، بورتوريكو",
+    "Worlds collide in San Juan, Puerto Rico’s vibrant capital, a simmering melting pot of indigenous, European, American, and Afro-Caribbean cultures with endless attractions to delight all types of travelers. In Old San Juan, time stands still. Candy-colored colonial houses line the cobbled lanes that criss-cross from Plaza Colón to the 17th-century San Juan Gate – once the main entrance to the walled city. All along the water’s edge, fortresses stand watch from towering cliffs, their cannons still aiming out over the sea. Just outside the old town, the rocky shoreline gives way to the soft sand of El Escambrón Beach, a sheltered snorkeling and swimming spot.": "تتصادم العوالم في سان خوان ، عاصمة بورتوريكو النابضة بالحياة ، وهي بوتقة تنصهر فيها الثقافات الأصلية والأوروبية والأمريكية والأفرو-كاريبية مع أماكن جذب لا نهاية لها لإسعاد جميع أنواع المسافرين. في Old San Juan ، لا يزال الوقت ثابتًا. تصطف المنازل الاستعمارية ذات اللون الحلوى في الممرات المرصوفة بالحصى التي تتقاطع من بلازا كولون إلى بوابة سان خوان التي تعود إلى القرن السابع عشر - والتي كانت ذات يوم المدخل الرئيسي للمدينة المسورة. على طول حافة المياه ، تقف الحصون متوقفة من المنحدرات الشاهقة ، ولا تزال مدافعها تصوب فوق البحر. خارج البلدة القديمة مباشرة ، يفسح الخط الساحلي الصخري الطريق إلى الرمال الناعمة لشاطئ El Escambrón ، وهو مكان محمي للغطس والسباحة.",
+    "El Morro Fortress, Puerto Rico": "قلعة المورو ، بورتوريكو",
+    "San Juan’s cultural fusion is never more evident than in its food. In the city center, upscale European restaurants sit alongside street stalls and fast food joints, while home-grown chefs like José Enrique take traditional cooking to fine-dining heights. The stand-out local dish is “mofongo” – fried and mashed plantain stuffed with crispy bacon, chicken, or prawns. No matter the time, one thing’s for sure – the smell of freshly roasted Puerto Rican coffee is never far away. You’ll find it served milky at breakfast, or as an afternoon pick-me-up paired with pastries in Spanish-style cafés.": "لم يكن الانصهار الثقافي لسان خوان أكثر وضوحًا من طعامه. في وسط المدينة ، توجد مطاعم أوروبية راقية جنبًا إلى جنب مع أكشاك الشوارع ومفاصل الوجبات السريعة ، بينما يأخذ الطهاة المحليون مثل خوسيه إنريكي الطبخ التقليدي إلى مرتفعات تناول الطعام الفاخر. الطبق المحلي المميز هو الموفونجو - لسان الحمل المقلي والمهروس المحشو بلحم الخنزير المقدد المقرمش أو الدجاج أو القريدس. بغض النظر عن الوقت ، هناك شيء واحد مؤكد - رائحة قهوة بورتوريكو المحمصة حديثًا لن تكون بعيدة أبدًا. ستجده يقدم حليبيًا في وجبة الإفطار ، أو في فترة ما بعد الظهيرة مع المعجنات في المقاهي ذات الطراز الإسباني.",
+    "When to go?": "متى تذهب؟",
+    "A waterfront view of Old San Juan, Puerto Rico": "إطلالة على الواجهة البحرية لسان خوان القديمة ، بورتوريكو",
+    "San Juan’s tropical climate makes for warm, humid weather all year round, with average temperatures rarely dipping below 77 degrees Fahrenheit. Bargain accommodation prices can often be found in September and October – but bear in mind that these months are the tail end of the Caribbean hurricane season.": "يجعل المناخ الاستوائي في سان خوان طقسًا دافئًا ورطبًا على مدار السنة ، ونادرًا ما ينخفض ​​متوسط ​​درجات الحرارة إلى أقل من 77 درجة فهرنهايت. غالبًا ما يمكن العثور على أسعار المساكن في شهري سبتمبر وأكتوبر - ولكن ضع في اعتبارك أن هذه الأشهر هي نهاية موسم الأعاصير في منطقة البحر الكاريبي.",
+    "Where to stay?": "حيث البقاء؟",
+    "Best Western Plus Condado Palm Inn & Suites – San Juan, Puerto Rico": "Best Western Plus Condado Palm Inn & Suites - سان خوان ، بورتوريكو",
+    "The outdoor pool at the Best Western Plus": "المسبح الخارجي في فندق Best Western Plus",
+    "This modern hotel is just a short distance from the waterfront, in the upscale Condado neighborhood. Its beach club and outdoor pool score highly with Booking.com guests, who also sing the praises of the friendly staff. The bright rooms and suites – some with sea views and fully equipped kitchens – are another big plus.": "يقع هذا الفندق الحديث على مسافة قصيرة من الواجهة البحرية في حي Condado الراقي. يحظى نادي الشاطئ والمسبح الخارجي التابعان له بتقدير عالٍ مع ضيوف Booking.com ، الذين يغنون أيضًا بطاقم العمل الودود. تعد الغرف والأجنحة المشرقة - بعضها يطل على البحر والمطابخ المجهزة بالكامل - ميزة كبيرة أخرى.",
+    "Villa Herencia Hotel – San Juan, Puerto Rico": "فندق فيلا هيرينسيا - سان خوان ، بورتوريكو",
+    "The restored Villa Herencia Hotel": "فندق Villa Herencia المرمم",
+    "This restored villa in Old San Juan is full of old-world charm. Booking.com guests rave about Villa Herencia’s eclectic design, which blends historic features and antique furniture with bold modern artwork. They also love the tropical feel of the roof terrace – complete with exotic flowers, sun loungers, and even roll-top baths!": "هذه الفيلا التي تم تجديدها في Old San Juan مليئة بسحر العالم القديم. يهتم ضيوف Booking.com بالتصميم الانتقائي لفيلا هيرينسيا ، الذي يمزج بين السمات التاريخية والأثاث العتيق والأعمال الفنية الجريئة العصرية. كما أنهم يحبون الشعور الاستوائي لشرفة السطح - المكملة بالزهور الغريبة وكراسي التشمس وحتى الحمامات ذات الأسطح المستديرة!",
+    "La Terraza de San Juan – San Juan, Puerto Rico": "لا تيرازا دي سان خوان - سان خوان ، بورتوريكو",
+    "Wonderful views from La Terraza's rooftop pool": "مناظر رائعة من حمام السباحة على السطح في La Terraza",
+    "A roof terrace with a plunge pool and breathtaking sea views makes this boutique hotel a favorite with Booking.com guests. Set in a colonial house in Old San Juan, La Terraza de San Juan also wins rave reviews for its mix of traditional and modern design.": "شرفة على السطح مع مغطس وإطلالات خلابة على البحر تجعل هذا الفندق البوتيكي المفضل لدى ضيوف Booking.com. يقع La Terraza de San Juan في منزل استعماري في Old San Juan ، ويفوز أيضًا بتعليقات الهذيان لمزيج من التصميم التقليدي والحديث.",
+    "How to get there?": "كيفية الوصول الى هناك؟",
+    "The easiest way to get to San Juan is to fly there. There are direct flights every day from the US and Canada, with most of the traffic coming through Miami and New York. Getting to San Juan from further will usually involve at least one layover. There are daily flights from Amsterdam and London with only one layover, whereas a trip from Sydney will involve two layovers. If you’re planning a trip from within the Caribbean and prefer a more scenic route, there’s a weekly ferry from Santo Domingo in the Dominican Republic, which takes around 13 hours.": "أسهل طريقة للوصول إلى سان خوان هي السفر إلى هناك. هناك رحلات جوية مباشرة كل يوم من الولايات المتحدة وكندا ، وتأتي معظم حركة المرور عبر ميامي ونيويورك. عادةً ما يتضمن الوصول إلى سان خوان توقفًا واحدًا على الأقل. هناك رحلات جوية يومية من أمستردام ولندن مع توقف واحد فقط ، في حين أن الرحلة من سيدني ستشمل محطتي توقف. إذا كنت تخطط لرحلة من داخل منطقة البحر الكاريبي وتفضل طريقًا أكثر جمالًا ، فهناك عبارة أسبوعية من سانتو دومينغو في جمهورية الدومينيكان ، والتي تستغرق حوالي 13 ساعة."
+  },
+  "Unmissable": {
+    "7 unmissable hot air balloon rides": "7 جولات لمنطاد الهواء الساخن لا تُفوَّت",
+    "Peaceful yet full of adventure, experiencing a view by hot air balloon has to be the most scenic way to take it all in. Next time you take a trip, consider jumping in a basket and gazing at the horizon from hundreds of feet up. Whether you’re a rookie or regularly take to the skies, a trip in a balloon is an experience that's sure to make unforgettable memories. From soaring over green pastures to drifting across the Arctic, we found seven of the best locations to go up, up, and away.": "هادئة ومليئة بالمغامرة ، يجب أن تكون تجربة منظر بمنطاد الهواء الساخن هي الطريقة الأكثر جمالًا لاستيعاب كل ذلك. في المرة القادمة التي تقوم فيها برحلة ، فكر في القفز في سلة والتحديق في الأفق من ارتفاع مئات الأقدام. سواء كنت مبتدئًا أو تسافر بانتظام إلى السماء ، فإن الرحلة في منطاد هي تجربة من المؤكد أنها ستصنع ذكريات لا تُنسى. من التحليق فوق المراعي الخضراء إلى الانجراف عبر القطب الشمالي ، وجدنا سبعة من أفضل المواقع للصعود والصعود والبعيد.",
+    "Cappadocia, Turkey": "كابادوكيا ، تركيا",
+    "See Cappadocia's famous fairy chimneys from the sky": "شاهد مداخن الجنيات الشهيرة في كابادوكيا من السماء",
+    "Famous for its hoodoos—also known as fairy chimneys—Cappadocia’s natural wonders draw visitors from around the world. These tall, thin spires of rock were formed over millions of years by lava flows, and seeing them from above is incredible. On any given day, countless hot air balloons drift over the horizon in a kaleidoscope of colors. While May to September is peak season, rides are offered throughout the year, weather permitting. Stay in the heart of Cappadocia, in one of the cave rooms at the Mithra Cave Hotel. Wake up early to catch a balloon ride and enjoy the view of the region’s peaks and valleys as the sun rises.": "تشتهر بغطاء رأسها — المعروف أيضًا باسم المداخن الخيالية — تجذب عجائب كابادوكيا الطبيعية الزوار من جميع أنحاء العالم. تشكلت هذه الأبراج الصخرية الطويلة الرفيعة على مدى ملايين السنين بتدفقات الحمم البركانية ، ورؤيتها من الأعلى أمر لا يصدق. في أي يوم من الأيام ، تنجرف عدد لا يحصى من بالونات الهواء الساخن في الأفق في مشهد من الألوان. في حين أن شهر مايو إلى سبتمبر هو موسم الذروة ، يتم تقديم الألعاب على مدار العام ، إذا سمح الطقس بذلك. تمتع بالإقامة في قلب كابادوكيا ، في إحدى غرف الكهف في فندق Mithra Cave. استيقظ مبكرًا واستمتع بجولة بالمنطاد واستمتع بإطلالة على قمم ووديان المنطقة مع شروق الشمس.",
+    "Loire Valley, France": "وادي لوار ، فرنسا",
+    "Bask in the beauty of the Loire Valley by hot air balloon": "تمتع بجمال وادي لوار بواسطة منطاد الهواء الساخن",
+    "Offering a quintessentially French outlook by balloon, the Loire Valley has vineyards, rivers, and forests you can coast over in a matter of minutes. Try one of the most popular rides, which soars over the grand Château Chenonceau. Peek over the wicker basket at the grounds below. If you visit between April and October, this castle will be open to visit on land, too. Depending on weather conditions, departures typically start early in the morning or mid-afternoon. When you’re back on steady ground, rest your head at the luxurious Le Pavillon Des Lys, which is only a five-minute walk from the Château d’Amboise.": "يتميز وادي لوار بإطلالة فرنسية مثالية عن طريق البالون ، ويضم مزارع الكروم والأنهار والغابات التي يمكنك أن تتجول فيها في غضون دقائق. جرب واحدة من أكثر الألعاب شعبية ، والتي تحلق فوق Château Chenonceau الكبير. ألق نظرة خاطفة على سلة الخوص في الأرض أدناه. إذا قمت بزيارة بين أبريل وأكتوبر ، فستكون هذه القلعة مفتوحة للزيارة على الأرض أيضًا. اعتمادًا على الظروف الجوية ، تبدأ المغادرين عادةً في الصباح الباكر أو في منتصف بعد الظهر. عندما تعود إلى أرض ثابتة ، أرح رأسك في فندق Le Pavillon Des Lys الفاخر ، الذي لا يبعد سوى خمس دقائق سيرًا على الأقدام عن Château d’Amboise.",
+    "Iqaluit, Nunavut, Canada": "إكالويت ، نونافوت ، كندا",
+    "Balloon expeditions give you a once-in-a-lifetime view of the Canadian Arctic": "تمنحك رحلات البالون عرضًا لمرة واحدة في العمر للقطب الشمالي الكندي",
+    "The Canadian Arctic, particularly Iqaluit, is a coveted destination for hot air balloon enthusiasts. These awe-inspiring expeditions give you a once in a lifetime chance to fly between northern communities or even across the ice caps, from Nunavut’s Baffin Island to Greenland. Brace yourself for the elements. Ballooning here takes place in the winter, so you can enjoy the natural ice in all its wonder. When the day is over, warm up at The Frobisher Inn. With a fitness center and kitchenettes in some rooms, it’s conveniently located in the center of town.": "يعد القطب الشمالي الكندي ، ولا سيما إيكالويت ، وجهة مرغوبة لعشاق منطاد الهواء الساخن. تمنحك هذه الرحلات الاستكشافية المذهلة فرصة مرة واحدة في العمر للسفر بين المجتمعات الشمالية أو حتى عبر القمم الجليدية ، من جزيرة بافين في نونافوت إلى جرينلاند. جهز نفسك للعناصر. يحدث التنطيد هنا في الشتاء ، لذا يمكنك الاستمتاع بالجليد الطبيعي بكل عجائبه. عندما ينتهي اليوم ، قم بالإحماء في The Frobisher Inn. مع وجود مركز للياقة البدنية ومطابخ صغيرة في بعض الغرف ، فإنه يقع في مكان مناسب في وسط المدينة.",
+    "Serengeti National Park, Tanzania": "منتزه سيرينجيتي الوطني ، تنزانيا",
+    "Get a bird’s eye view of the Serengeti by balloon": "احصل على نظرة عامة على نهر سيرينجيتي بالبالون",
+    "The Serengeti National Park is renown for its landscape and array of wildlife, from elephants to lions, and more. Get unbeatable bird’s eye views of Tanzania by taking a trip in a hot air balloon. Tours are available all year round, but can vary by location. The cruising altitude will change depending on the season and weather conditions, so no two rides are the same. With a decor based on Masaai ceremonies, Asanja Africa offers tented accommodations in the south-central region of the park.": "تشتهر حديقة Serengeti الوطنية بمناظرها الطبيعية ومجموعة الحياة البرية ، من الفيلة إلى الأسود ، وأكثر من ذلك. احصل على مناظر منقطعة النظير لتنزانيا من خلال القيام برحلة في منطاد الهواء الساخن. تتوفر الجولات على مدار السنة ، ولكن يمكن أن تختلف حسب الموقع. سيتغير ارتفاع الإبحار تبعًا للموسم والظروف الجوية ، لذلك لا تتشابه رحلتان. يتميز Asanja Africa بديكور على أساس احتفالات Masaai ، ويوفر أماكن إقامة في الخيام في المنطقة الجنوبية الوسطى من المنتزه.",
+    "Bagan, Myanmar": "باغان ، ميانمار",
+    "Check out Bagan’s sights from the sky": "تحقق من معالم باغان من السماء",
+    "Home to thousands of historic monuments, stupas, and pagodas, Bagan is one of Myanmar’s most visited cities. Take to the sky in a basket and revel in the sheer volume of the iconic architecture around you. The ballooning season runs from October to mid-March, when the winds are calm and the air is cool. The most favorable conditions are between December and February, when you’re bound to spot many other visitors enjoying the scenery. Come back down to earth at the Bagan View Hotel, where you’ll get a great outlook of balloons floating across the sky.": "تعد مدينة باغان موطنًا لآلاف المعالم التاريخية والأبراج البوذية والمعابد الباغودة ، وهي واحدة من أكثر مدن ميانمار زيارة. انطلق إلى السماء في سلة واستمتع بالحجم الهائل للهندسة المعمارية الشهيرة من حولك. يمتد موسم المنطاد من أكتوبر إلى منتصف مارس ، حيث تكون الرياح هادئة والهواء باردًا. أفضل الظروف هي بين كانون الأول (ديسمبر) وشباط (فبراير) ، عندما تكون ملزمًا برصد العديد من الزوار الآخرين الذين يستمتعون بالمناظر الطبيعية. عد إلى الأرض في فندق Bagan View ، حيث ستتمتع بإطلالة رائعة على البالونات التي تطفو في السماء.",
+    "Albuquerque, New Mexico, USA": "البوكيرك ، نيو مكسيكو ، الولايات المتحدة الأمريكية",
+    "More than 500 balloons take off during the Albuquerque International Balloon Fiesta": "أكثر من 500 بالون تقلع خلال مهرجان البوكيرك الدولي للمناطيد",
+    "Balloon enthusiasts regularly travel to Albuquerque in the first week of October for the city’s annual International Balloon Fiesta. More than 500 colorful blimps take flight during the festival, which also includes a laser light show, flying competition, and fireworks. If you plan on heading to the festival, don’t miss out – make sure you book a ride in advance. If you want something a little more exclusive, book a private ride with champagne for views of New Mexico’s stunning high-desert landscape. At the end of a long day, kick back at El Vado Motel, a retro location that’s been fully refurbished to offer all the modern amenities you’ll need.": "يسافر عشاق البالون بانتظام إلى البوكيرك في الأسبوع الأول من أكتوبر لحضور مهرجان البالون الدولي السنوي في المدينة. تحلق أكثر من 500 منطاد ملون خلال المهرجان ، والذي يتضمن أيضًا عرض ضوء الليزر ومسابقة طيران وألعاب نارية. إذا كنت تخطط للتوجه إلى المهرجان ، فلا تفوت الفرصة - تأكد من حجز رحلة مسبقًا. إذا كنت تريد شيئًا أكثر حصرية ، احجز رحلة خاصة مع الشمبانيا لمشاهدة المناظر الطبيعية الخلابة للصحراء في نيو مكسيكو. في نهاية يوم طويل ، استرخ في El Vado Motel ، وهو موقع قديم تم تجديده بالكامل ليقدم جميع وسائل الراحة الحديثة التي ستحتاج إليها.",
+    "Muelle, San Carlos, Costa Rica": "مويل ، سان كارلوس ، كوستاريكا",
+    "Muelle and its active volcano are best viewed from 1,000 feet above ground": "من الأفضل مشاهدة Muelle وبركانها النشط من ارتفاع 1000 قدم فوق سطح الأرض",
+    "Drift above the rainforests and—if you’re lucky—catch a glimpse of monkeys racing through canopies by taking a flight from Muelle. Best viewed from 1,000 feet in the sky, the natural beauty of northern Costa Rica offers an array of sights including the National Park and active Arenal volcano. For a more hands-on experience, you can learn how to prepare the balloon for flight in Muelle. You’ll even be able to choose where to land, all under the supervision of a pilot. Afterwards, relax at the Tilajari Hotel Resort, which is surrounded by rainforest and tropical gardens.": "انجرف فوق الغابات المطيرة ، وإذا كنت محظوظًا ، فقم بإلقاء نظرة على القرود التي تتسابق عبر الستائر عن طريق أخذ رحلة من Muelle. أفضل منظر من على ارتفاع 1000 قدم في السماء ، يوفر الجمال الطبيعي لشمال كوستاريكا مجموعة من المعالم بما في ذلك الحديقة الوطنية وبركان أرينال النشط. لمزيد من الخبرة العملية ، يمكنك تعلم كيفية تحضير المنطاد للطيران في Muelle. ستتمكن حتى من اختيار مكان الهبوط ، كل ذلك تحت إشراف الطيار. بعد ذلك ، يمكنك الاسترخاء في Tilajari Hotel Resort المحاط بالغابات المطيرة والحدائق الاستوائية."
+  },
+  "CampgroundComponents": {
+    "All-Availability": {
+      "Beds Type":"نوع السرير",
+      "Availability": "متاحة",
+      "Check In": "موعد الدخول",
+      "Check Out": "موعد الخروج",
+      "Check Availability": "التحقق انه متاح",
+      "When would you like to stay at":"اين تحب البقاء في ",
+       
+      "Room name": "اسم الغرفة:",
+      "Number of rooms": "عدد الغرف:",
+      "Days": "ايام:",
+      "Total price": "السعر الاجمالى:",
+      "Reserve": "حجز",
+      "Room type": "نوع الغرفة",
+       
+      "Sleep": "عدد الاماكن المتاحه للنوم",
+      "Price": "السعر",
+      "Your choices": "اختياراتك",
+      "Select rooms": "اختر الغرف",
+      "per day": "في اليوم",
+      "Coffee": "قهوة",
+      "Tea": "شاى",
+      "Milk": "حليب",
+      "Bunk bed": "سرير مكون من طابقين علوي و سفلي",
+      "Twin bed": "سرير مزدوج",
+      "Full bed": "سرير كامل",
+      "Queen bed": "سرير الملكة",
+      "king bed": "سرير الملك",
+      "Sofa bed": "سرير اريكة",
+      "Futon bed": "سرير فوتون",
+      "Livng room": "غرفة المعيشة",
+      "Choose booking date": "اختر تاريخ الحجز",
+      "Sorry no available rooms for this date": "عذرا لا توجد غرف متاحة لهذا التاريخ"
+    },
+    "BodyCom": {
+      "DescCom": {
+        "Missing some information?": "هل تفتقد بعض المعلومات؟",
+        "Yes": "نعم",
+        "No": "لا"
+      },
+      "reservation": {
+        "Free parking!": "موقف سيارات مجاني!",
+        "Located in": "يقع في",
+        "location score of": "نتيجة الموقع",
+        "Lunch": "غداء",
+        "Dinner": "العشاء",
+        "Reserve": "حجز",
+        
+        "Food Include":"يشمل الطعام:",
+        "Breakfast":"الفطار"
+        
+      }
+    },
+    "Book-Banner": {
+      "Book an all-inclusive rate": "احجز بسعر شامل",
+      "Find out": "اكتشف"
+    },
+    "CampgroundImg": {
+      "Campground": "المخيم",
+      "New to Booking.com": "New to Booking.com",
+      "Extra health & safety measures": "إجراءات الصحة والسلامة الإضافية",
+      "This property has taken extra health and hygiene measures to ensure that your safety is their priority": "اتخذت هذه المنشأة تدابير إضافية للصحة والنظافة لضمان أن سلامتك هي أولويتهم",
+      "See health & safety details": "انظر تفاصيل الصحة والسلامة"
+    },
+    "Facilities": {
+      "Facilities of": "خدمات يقدمها",
+      "Food & Drink": "طعام و شراب",
+      "Bathroom": "مرحاض",
+      "Media & Technology": "وسائل الإعلام والتكنولوجيا",
+      "Accessibility": "إمكانية الوصول",
+      "Services": "خدمات",
+      "Entertainment": "وسائل الترفيه",
+      "Missing some information?": "هل تفتقد بعض المعلومات؟",
+      "Yes": "نعم",
+      "No": "لا",
+      "Room":"تحتوي الغرف علي",
+      "View":"منظر"
+    },
+    "Faqs": {
+      "FAQs": "اسئلة واجابات",
+      "How do I get to know which facilities / services each Campground offers?": "كيف يمكنني التعرف على المرافق / الخدمات التي يقدمها كل مخيم؟",
+      "Please, have a look at": "من فضلك ، الق نظرة على",
+      "Facilities": "خدمات",
+      "In this section you will also find the Hotel facilities / services": "ستجد في هذا القسم أيضًا مرافق / خدمات الفندق",
+      "Do you charge any fees for your services?": "هل تتقاضى أي رسوم مقابل خدماتك؟",
+      "No, Booking.com doesn’t charge any fees for its services. Our service is completely free of charge and we will not add to your accommodation any additional fee for our service.": "لا ، لا تفرض Booking.com أي رسوم على خدماتها. خدمتنا مجانية تمامًا ولن نضيف إلى مكان إقامتك أي رسوم إضافية لخدمتنا.",
+      "Are fees and taxes included in prices?": "هل الرسوم والضرائب مشمولة في الأسعار؟",
+      "This is different for each country and also any type of accommodation.": "هذا يختلف لكل بلد وأي نوع من الإقامة.",
+      "How do I know that my reservation is confirmed?": "كيف أعرف أن حجزي مؤكد؟",
+      "After completing and sending us your order form, you will get an automatic receipt e-mail containing your order number. Within 30 minutes, you will receive Accommodation confirmation. The Accommodation confirmation serves you as a voucher so please do not forget to print it out and take it with you as it contains all the vital details (address of your hotel, contact phone numbers and other instructions). In case that you requested in your order form any special requests – ie. extra bed, non smoking room, parking etc, please always double check with the hotel directly that they noted your request and are able to arrange it for you.": "بعد إكمال نموذج الطلب وإرساله إلينا ، ستتلقى إيصال استلام تلقائي عبر البريد الإلكتروني يحتوي على رقم طلبك. في غضون 30 دقيقة ، ستتلقى تأكيدًا للإقامة. يخدمك تأكيد الإقامة كإيصال ، لذا لا تنسى طباعته واصطحابه معك لأنه يحتوي على جميع التفاصيل الحيوية (عنوان فندقك وأرقام هواتف الاتصال وإرشادات أخرى). في حال طلبت في طلبك شكل أي طلبات خاصة - أي. سرير إضافي ، وغرفة لغير المدخنين ، وموقف سيارات ، وما إلى ذلك ، يرجى دائمًا التحقق مرتين مع الفندق مباشرة من أنهم سجلوا طلبك ويمكنهم ترتيب ذلك لك.",
+      "Can I book your services by telephone, e-mail or fax?": "هل يمكنني حجز خدماتك عبر الهاتف أو البريد الإلكتروني أو الفاكس؟",
+      "I made a reservation but did not receive any confirmation. What should I do?": "لقد قمت بالحجز ولكن لم أتلق أي تأكيد. ماذا علي أن أفعل؟",
+      "Before finalizing your reservation please double check your e-mail address because a mistake in the e-mail address is the most common reason why our clients do not receive their confirmations. In some cases, our e-mails can also end up in the “spam folder” so please check it as well. In any case, please try to contact us by e-mail as we will be very happy to assist you and solve the problem as soon as possible.": "قبل إنهاء الحجز ، يرجى التحقق مرة أخرى من عنوان بريدك الإلكتروني لأن الخطأ في عنوان البريد الإلكتروني هو السبب الأكثر شيوعًا لعدم تلقي عملائنا تأكيداتهم. في بعض الحالات ، يمكن أن تنتهي رسائل البريد الإلكتروني الخاصة بنا أيضًا في مجلد البريد العشوائي ، لذا يرجى التحقق منه أيضًا. على أي حال ، يرجى محاولة الاتصال بنا عبر البريد الإلكتروني حيث سنكون سعداء جدًا بمساعدتك وحل المشكلة في أسرع وقت ممكن.",
+      "Unfortunately not. If you wish to make a booking, please fill in the order form on our website.": "للأسف لا. إذا كنت ترغب في إجراء حجز ، يرجى ملء نموذج الطلب على موقعنا على الإنترنت."
+    },
+    "GuestReviews": {
+      "Guest reviews": "اراء المستخدمين",
+      "Reviews": "تعليقات",
+      "Read all reviews": "قراءة جميع التعليقات"
+ 
+    },
+   
+    "HouseRules": {
+      "House rules": "قواعد المنزل",
+      "takes special requests - add in the next step!": "يأخذ طلبات خاصة - أضف في الخطوة التالية!",
+      "Check in": "ميعاد الدخول :",
+      "Check out": "ميعاد الخروج :",
+      "Cancellation/ prepayment": "الإلغاء / الدفع المسبق :",
+      "You can cancel your reservation and get your money back in": "يمكنك إلغاء الحجز الخاص بك واستعادة أموالك",
+      "days": "ايام",
+      "No age restriction": "لا يوجد قيود على العمر :",
+      "There is no age requirement for check-in": "لا يوجد وقت محدد لتسجيل الوصول",
+      "Pets": " حيوانات أليفة : ",
+      "Pets are allowed": "مسموح بالحيوانات الأليفة",
+      "Pets are not allowed": "غير مسموح بالحيوانات الاليفة",
+      "Payments by Booking.com": "المدفوعات عن طريق Booking.com:",
+      "Booking.com takes your payment on behalf of the property for this stay, but make sure you have cash for any extras once you get there.": "تقوم Booking.com بتحصيل مدفوعاتك لهذه الإقامة نيابة عن مكان الإقامة ، ولكن تأكد من أن لديك نقودًا مقابل أي إضافات بمجرد وصولك إلى هناك."
+    },
+    "MessageOffcanvas": {
+      "No answers yet": "لا إجابات حتى الآن",
+      "Read More": "اقرأ أكثر"
+    },
+    "MostPopularFacilities": {
+      "Free Wifi": "واى فاى مجانى",
+      "Fitness Center": "مركز اللياقة البدنية",
+      "Terrace": "مصطبة",
+      "Restaurant": "مطعم",
+      "Room service": "خدمة الغرف",
+      "Family Rooms": "غرف عائلية",
+      "Airport shuttle": "مطار النقل",
+      "Sauna": "حمام بخار",
+      "Water Park": "ملاهي مائية",
+      "Swimming pool": "حمام السباحة",
+      "Spa": "منتجع صحي",
+      "24-hour front desk": "مكتب استقبال يعمل على مدار 24 ساعة",
+      "Hot tub/Jacuzzi": "حوض استحمام ساخن / جاكوزي",
+      "Garden": "حديقة",
+      "Air conditioning": "تكيف",
+      "Most popular facilities": "أشهر المرافق",
+      "No credit card needed to book.": "لا حاجة لبطاقة ائتمان للحجز.",
+      "We'll send you an email confirming your reservation": "سنرسل لك بريدًا إلكترونيًا لتأكيد حجزك",
+      "Lock in a great price for your upcoming stay": "ثبّت سعرًا رائعًا لإقامتك القادمة",
+      "Prices may go up, so secure your reservation today": "قد ترتفع الأسعار ، لذا قم بتأمين حجزك اليوم"
+    },
+    "QuestionAndAnswers": {
+      "Property questions and answers": "أسئلة وأجوبة الملكية",
+      "Got a question?" :"لديك سؤال?",
+      "Looking for more info? Send a question to the property to find out more.": "تبحث عن مزيد من المعلومات؟ أرسل سؤالاً إلى العقار لمعرفة المزيد.",
+      "Ask a question": "طرح سؤال",
+      "Didn't find the answer you were looking for? Ask a question about the property": "لم تجد الإجابة التي كنت تبحث عنها؟ اطرح سؤالا عن العقار",
+      "Type your question here:": "اكتب سؤالك هنا:",
+      "characters left": "اقصي عدد حروف مسموح به",
+      "Submit your question": "أرسل سؤالك",
+      "Your question will be published on Booking.com after it has been approved and answered.": "سيتم نشر سؤالك على Booking.com بعد الموافقة عليه والإجابة عليه.",
+      "Click here to read post guidelines.": "انقر هنا لقراءة إرشادات النشر.",
+      "Read all questions": "اقرأ جميع الأسئلة",
+      "Question & Answers": " أسئلة وإجابات",
+      "Your question has been successfully posted": "وقد تم نشر سؤالك بنجاح",
+      "Leave Review": "اترك تعليق",
+      "Thank you for your review": "شكرا لك لتعليقك",
+      "Please leave a review and say what your opinion about this hotel.": "يرجى ترك تعليق وبيان رأيك في هذا الفندق.",
+      "Type your review here:": "اكتب رأيك هنا:",
+      "Rate by star": "التقييم بالنجوم",
+      "Send your review": "أرسل رأيك"
+    },
+    "WhyChose": {
+      "5 Reasons to choose": "5 أسباب للاختيار",
+      "Prices you can't beat!": "أسعار لا تضاهى!",
+      "Booking is safe": "الحجز آمن",
+      "Manage your bookings online": "إدارة الحجوزات الخاصة بك على الإنترنت",
+      "The staff speak English": "يتحدث الموظفون الإنجليزية",
+      "Great location and facilities for couples": "موقع رائع ومرافق للأزواج"
+    },
+       "ReviewCanavas" : {
+        "Leave Review":"اترك تعليق",
+        "Thank you for your review":"شكرا لك على تقييم",
+        "Please leave a review and say what your opinion about this Campground.":"من فضلك اترك تقييم وقل رايك في الشقة",
+        "Rate by star":" التقييم بالنجوم",
+         "Send" :"أرسل"
+      }
+
+  },
+  "checkOut": {
+    "Booking": {
+      "Free Wifi": "واى فاى مجانى",
+      "Fitness Center": "مركز اللياقة البدنية",
+      "Restaurant": "مطعم",
+      "Room service": "خدمة الغرف",
+      "Family Rooms": "غرف عائلية",
+      "Airport shuttle": "مطار النقل",
+      "Sauna": "حمام بخار",
+      "Water Park": "ملاهي مائية",
+      "Swimming pool": "حمام سباحة",
+      "Spa": "منتجع صحى",
+      "Air conditioning": "تكيف",
+      "In response to the coronavirus (COVID-19), additional safety and sanitation measures are in effect at this property.": "استجابةً لفيروس كورونا (COVID-19) ، يتم تطبيق تدابير إضافية للسلامة والصرف الصحي في هذه المنشأة.",
+      "Read more": "اقراء اكثر",
+      "Parking": "موقف سيارات",
+      "reviews": " التقييمات ",
+       "guaranteed":"مضمون",
+       "messages":"رسائل",
+      "Show Details": "اظهر التفاصيل",
+      "Good to know": "جيد ان تعلم:",
+      "You'll pay by paypal.": "ستدفع عن طريق paypal.",
+      "Enter your details": "أدخل التفاصيل الخاصة بك",
+      "Almost done! Just fill in the": "يكاد ينتهي! فقط قم بملء ملف",
+      "required info": "المعلومات المطلوبة",
+      "Are you traveling for work?": "هل انت مسافر للعمل؟",
+      "Yes": "نعم",
+      "No": "لا",
+      "First name": "الاسم الاول",
+      "Last name": "الاسم الثانى",
+      "FREE cancellation": "إلغاء مجاني",
+      "until 11:59 PM on": "حتى 11:59 مساءً يوم",
+      "Guests": "ضيوف:",
+      "No smoking": "ممنوع التدخين",
+      "Full Guest Name": "اسم الضيف الكامل",
+      "Guest email": "البريد الإلكتروني للضيف",
+      "Emails are only used for sending reservation info. No commercial messages – guaranteed.": "تستخدم رسائل البريد الإلكتروني فقط لإرسال معلومات الحجز. لا توجد رسائل تجارية - مضمونة.",
+      "Days": "ايام",
+      "Special requests": "طلبات خاصة",
+      "Special requests can't be guaranteed, but the property will do its best to meet your needs. You can always make a special request after your booking is complete.": "لا يمكن ضمان الطلبات الخاصة ، ولكن مكان الإقامة سيبذل قصارى جهده لتلبية احتياجاتك. يمكنك دائمًا تقديم طلب خاص بعد اكتمال الحجز.",
+      "Please write your requests in English or Arabic.": "يرجى كتابة طلباتك باللغة الإنجليزية أو العربية.",
+      "(optional)": "(اختياري)",
+      "Request": "طلب",
+      "Your arrival time": "وقت وصولك",
+      "Your property will be ready for check-in at": "سيكون مكان الإقامة الخاص بك جاهزًا لتسجيل الوصول في",
+      "24-hour front desk – help whenever you need it!": "مكتب استقبال يعمل على مدار 24 ساعة - ساعدك متى احتجت إليها!",
+      "Add your estimated arrival time": "أضف وقت وصولك المقدر",
+      "Please select": "الرجاء التحديد",
+      "I don't know": "انا لا اعرف",
+      "Time is for time zone": "الوقت هو للمنطقة الزمنية",
+      "Continue to check out": "الاستمرار في الخروج",
+      "(the next day)":"(اليوم التالي)",
+      "Congratulations, your reservation has been successfully confirmed": "تهانينا ، لقد تم تأكيد حجزك بنجاح"
+    },
+    "BookingDetails": {
+      "Your Booking Details": "تفاصيل حجزك",
+      "Check-in": "ميعاد التسجيل",
+      "From": "من",
+      "Check-out": "ميعاد الخروج",
+      "Until": "حتى",
+      "Total length of stay": "إجمالي مدة الإقامة:",
+      "Days": "ايام",
+      "You selected": "لقد حددت:",
+      "Your price summary": "ملخص السعر الخاص بك",
+      "rooms": "غرف",
+      "Price": "السعر"
+    }
+   
+  },
+  "Footer": {
+    "Save time, save money!": "وفر الوقت ، وفر المال!",
+    "Sign up and we'll send the best deals to you": "اشترك وسنرسل لك أفضل العروض",
+    "Search": "بحث",
+    "Send me a link to get the FREE Booking.com app!": "أرسل لي رابطًا للحصول على تطبيق Booking.com المجاني!",
+    "List your property": "قائمة الممتلكات الخاصة بك",
+    "Mobile version": "اصدار المحمول",
+    "Manage your booking": "إدارة الحجز",
+    "Contact Customer Service": "اتصل بخدمة العملاء",
+    "Become an affiliate": "كن حليفا",
+    "Booking.com for Business": "Booking.com للأعمال",
+    "Countries": "بلدان",
+    "Homes": "بيوت",
+    "Your Email": "بريدك الإلكتروني",
+    "Extranet login": "تسجيل الدخول إلى الإكسترانت",
+    "Copyright ©️ 1996–2021 Booking.com™️. All rights reserved" : "جميع الحقوق محفوظة ل Booking.com",
+    "Booking.com is part of Booking Holdings Inc., the world leader in online travel and related services.": "Booking.com هي جزء من Booking Holdings Inc. ، الشركة الرائدة عالمياً في مجال السفر عبر الإنترنت والخدمات ذات الصلة."
+  },
+  "Home": {
+    "Community": {
+      "Connect with other travelers": "تواصل مع المسافرين الآخرين",
+      "Egypt": "مصر",
+      "Travel community": "مجتمع السفر",
+      "travelers": "مسافرين",
+      "More communities": "المزيد من المجتمعات",
+       "UAE":"الإمارات العربية المتحدة",
+      "France":"فرنسا"
+
+ 
+    },
+    "ExploreEgypt": {
+      "Explore Egypt": "اكتشف مصر",
+      "hese popular destinations have a lot to offer": "هذه الوجهات الشعبية لديها الكثير لتقدمه",
+      "Ain Sokhna": "العين السخنة",
+      "hotels": "الفنادق",
+      "Dahab": "دهب",
+      "Aswan": "اسوان",
+      "Port said": "بورسعيد",
+      "Marsa alam": "مرسى علم"
+    },
+    "GetInspiration": {
+      "Best Coffee Cities in the US": "أفضل مدن القهوة في الولايات المتحدة",
+      "Whether you like a basic brew or larger-than-life latte, here are five of the best.": "سواء كنت تحب مشروبًا عاديًا أو لاتيه أكبر من الحياة ، فإليك خمسة من أفضلها.",
+      "Las Vegas Beyond the Casinos": "لاس فيغاس ما وراء الكازينوهات",
+      "In Las Vegas, gambling isn’t the only way to hit the jackpot.": "في لاس فيغاس ، المقامرة ليست الطريقة الوحيدة للفوز بالجائزة الكبرى.",
+      "5 soulful yoga retreat destinations":"5 وجهات لليوغا مليئة بالحيوية",
+      "ver the past year, many people have sought refuge in the peaceful practice of yoga.": "في العام الماضي ، لجأ الكثير من الناس إلى ممارسة اليوجا السلمية.",
+      "Destination Inspiration San Juan, Puerto Rico" :"إلهام الوجهة: سان خوان ، بورتوريكو",
+      "Worlds collide in San Juan, Puerto Rico’s vibrant capital, a simmering melting pot of indigenous, European, American.":"تصطدم العوالم في سان خوان ، عاصمة بورتوريكو النابضة بالحياة ، وهي بوتقة تنصهر فيها الشعوب الأصلية والأوروبية والأمريكية.",
+      "unmissable hot air balloon rides" :"ركوب منطاد الهواء الساخن",
+      "Peaceful yet full of adventure, experiencing a view by hot air balloon has to be the most scenic way to take it all in. Next time you take a trip.":"هادئة ومليئة بالمغامرة ، يجب أن تكون تجربة منظر بمنطاد الهواء الساخن هي الطريقة الأكثر جمالًا للاستمتاع بكل ذلك. في المرة القادمة التي تقوم فيها برحلة."
+
+    },
+    "Grid-section": {
+      "Sharm El Shiekh": "شرم الشيخ",
+      "Hotels": "الفنادق",
+      "Al almain": "العلمين",
+      "Hurghada": "الغردقة",
+      "Alexandria": "الاسكندرية",
+      "Cairo": "القاهرة"
+    },
+    "Header": {
+      "Where to next,": "ما هي وجهتك التالية",
+      "Find exclusive Genius rewards in every corner of the world!": "اعثر على مكافآت Genius الحصرية في كل ركن من أركان العالم!",
+      "Search": "بحث",
+      "I'm looking for an entire home or apartment": "أبحث عن منزل كامل أو شقة",
+      "I'm traveling for work": "انا مسافر للعمل"
+    },
+    "HomeGustesLove": {
+      "guests love": "المفضلة لدي المستخدمين",
+      "reviews": "تقييمات"
+    }
+  },
+  "HotelPage": {
+    "All-Availability": {
+      "Bunk bed": "سرير مكون من طابقين علوي و سفلي",
+      "Twin bed": "سرير مزدوج",
+      "Full bed": "سرير كامل",
+      "Queen bed": "سرير الملكة",
+      "King bed": "سرير الملك",
+      "Sofa bed": "سرير اريكة",
+      "Futon bed": "سرير فوتون",
+      "Livng room": "غرفة المعيشة",
+      "Availability": "متاحة",
+      "Check In": "ميعاد الدخول",
+      "Check Out": "ميعاد الخروج",
+      "Check Availability": "التحقق من انه متاح",
+       "When would you like to stay at":"اين تحب البقاء في ",
+ 
+      "Room name": "اسم الغرفة:",
+      "Number of rooms": "عدد من الغرف:",
+      "Days": "ايام:",
+      "Total price": "السعر الاجمالى:",
+      "Reserve": "حجز",
+      "Room type": "نوع الغرفة",
+      
+      "Sleeps": "عدد السراير المتاحة",
+      "Price": "السعر",
+      "Your choices": "اختياراتك",
+      "Select rooms": "اختر الغرف",
+      "per day": "في اليوم",
+      "Coffee": "القهوة",
+      "Tea": "الشاى",
+      "Milk": "حليب",
+      "Beds Type":"نوع السرير",
+      "Choose booking date": "اختر تاريخ الحجز",
+      "Sorry no available rooms for this date": "عذرا لا توجد غرف متاحة لهذا التاريخ"
+    },
+    "BodyCom": {
+      "DescCom": {
+        "Missing some information?": "هل تفتقد بعض المعلومات؟",
+        "Yes": "نعم",
+        "No": "لا"
+      },
+      "reservation": {
+        "City view": "اطلالة المدينة",
+        "Garden view": "اطلاله الحديقة",
+        "Pool view": "أطلالة على بركة السباحة",
+        "Landmark view": "Landmark view",
+        "Quiet street view": "إطلالة هادئة على الشارع",
+        "Sea view": "اطلالة البحر",
+        "Mountain view": "إطلالة على الجبل",
+        "Terrace": "Terrace",
+        "Free parking!": "موقف سيارات مجاني!",
+        "Perfect for a 1-night stay!": "مثالي لإقامة ليلة واحدة!",
+        "Located in": "يقع في",
+        "this": "هذه",
+        "has": "لديه",
+        "location score of": "نتيجة الموقع",
+        "Hotel with": "فندق مع:",
+        "Reserve": "حجز"
+      }
+    },
+    "Book-Banner": {
+      "Book an all-inclusive rate": "احجز بسعر شامل",
+      "Find out": "اكتشف"
+    },
+    "Covid": {
+      "Coronavirus (COVID-19) Support": "دعم فيروس كورونا (كوفيد -19)",
+      "Get the travel advice you need Read more about possible travel restrictions before you go": "احصل على نصائح السفر التي تحتاجها اقرأ المزيد عن قيود السفر المحتملة قبل أن تسافر",
+      "Read More": "اقراء اكثر"
+    },
+    "Facilities": {
+      "Facilities of": "خدمات يقدمها",
+      "Food & Drink": "طعام و شراب",
+      "Bathroom": "مرحاض",
+      "Media & Technology": "وسائل الإعلام والتكنولوجيا",
+      "Accessibility": "إمكانية الوصول",
+      "Services": "خدمات",
+      "View": "منظر",
+      "Entertainment": "وسائل الترفيه",
+      "Room": "غرفة",
+      "Missing some information?": "هل تفتقد بعض المعلومات؟",
+      "Yes": "نعم",
+      "No": "لا"
+    },
+    "Faqs": {
+      "FAQs": "اسئلة و اجابات",
+      "How do I get to know which facilities / services each Campground offers?": "كيف يمكنني التعرف على المرافق / الخدمات التي يقدمها كل مخيم؟",
+      "Please, have a look at": "من فضلك ، الق نظرة على",
+      "Facilities": "خدمات",
+      "In this section you will also find the Hotel facilities / services": "ستجد في هذا القسم أيضًا مرافق / خدمات الفندق",
+      "Do you charge any fees for your services?": "هل تتقاضى أي رسوم مقابل خدماتك؟",
+      "No, Booking.com doesnt charge any fees for its services.Our service is completely free of charge and we will not add to your accommodation any additional fee for our service": "لا ، لا تفرض Booking.com أي رسوم على خدماتها. خدمتنا مجانية تمامًا ولن نضيف إلى مكان إقامتك أي رسوم إضافية لخدمتنا.",
+      "Are fees and taxes included in prices?": "هل الرسوم والضرائب مشمولة في الأسعار؟",
+      "This is different for each country and also any type of accommodation.": "هذا يختلف لكل بلد وأي نوع من الإقامة.",
+      "How do I know that my reservation is confirmed?": "كيف أعرف أن حجزي مؤكد؟",
+      "After completing and sending us your order form, you will get an automatic receipt e-mail containing your order number. Within 30 minutes, you will receive Accommodation confirmation. The Accommodation confirmation serves you as a voucher so please do not forget to print it out and take it with you as it contains all the vital details (address of your hotel, contact phone numbers and other instructions). In case that you requested in your order form any special requests – ie. extra bed, non smoking room, parking etc, please always double check with the hotel directly that they noted your request and are able to arrange it for you.": "بعد إكمال نموذج الطلب وإرساله إلينا ، ستتلقى إيصال استلام تلقائي عبر البريد الإلكتروني يحتوي على رقم طلبك. في غضون 30 دقيقة ، ستتلقى تأكيدًا للإقامة. يخدمك تأكيد الإقامة كإيصال ، لذا لا تنسى طباعته واصطحابه معك لأنه يحتوي على جميع التفاصيل الحيوية (عنوان فندقك وأرقام هواتف الاتصال وإرشادات أخرى). في حال طلبت في طلبك شكل أي طلبات خاصة - أي. سرير إضافي ، وغرفة لغير المدخنين ، وموقف سيارات ، وما إلى ذلك ، يرجى دائمًا التحقق مرتين مع الفندق مباشرة من أنهم سجلوا طلبك ويمكنهم ترتيب ذلك لك.",
+      "Can I book your services by telephone, e-mail or fax?": "هل يمكنني حجز خدماتك عبر الهاتف أو البريد الإلكتروني أو الفاكس؟",
+      "Unfortunately not. If you wish to make a booking, please fill in the order form on our website.": "للأسف لا. إذا كنت ترغب في إجراء حجز ، يرجى ملء نموذج الطلب على موقعنا على الإنترنت.",
+      "I made a reservation but did not receive any confirmation. What should I do?": "لقد قمت بالحجز ولكن لم أتلق أي تأكيد. ماذا علي أن أفعل؟",
+      "Before finalizing your reservation please double check your e-mail address because a mistake in the e-mail address is the most common reason why our clients do not receive their confirmations. In some cases, our e-mails can also end up in the “spam folder” so please check it as well. In any case, please try to contact us by e-mail as we will be very happy to assist you and solve the problem as soon as possible.": "قبل إنهاء الحجز ، يرجى التحقق مرة أخرى من عنوان بريدك الإلكتروني لأن الخطأ في عنوان البريد الإلكتروني هو السبب الأكثر شيوعًا لعدم تلقي عملائنا تأكيداتهم. في بعض الحالات ، يمكن أن تنتهي رسائل البريد الإلكتروني الخاصة بنا أيضًا في مجلد البريد العشوائي ، لذا يرجى التحقق منه أيضًا. على أي حال ، يرجى محاولة الاتصال بنا عبر البريد الإلكتروني حيث سنكون سعداء جدًا بمساعدتك وحل المشكلة في أسرع وقت ممكن."
+    },
+    "GuestReviews": {
+      "Guest reviews": "تقييمات المستخدمين",
+      "Reviews": "تعليقات",
+      "Read all reviews": "قراءة جميع التعليقات"
+    },
+    "HotelImg": {
+      "Hotel": "الفندق",
+      "New to Booking.com": "جديد على Booking.com",
+      "Extra health & safety measures": "إجراءات الصحة والسلامة الإضافية",
+      "This property has taken extra health and hygiene measures to ensure that your safety is their priority": "اتخذت ممتلكاته تدابير إضافية للصحة والنظافة لضمان أن سلامتك هي أولويتهم",
+      "See health & safety details": "انظر تفاصيل الصحة والسلامة"
+    },
+    "HouseRules": {
+      "House rules": "قواعد المنزل",
+      "takes special requests - add in the next step!": "يأخذ طلبات خاصة - أضف في الخطوة التالية!",
+      "Check in": "ميعاد التسجيل :",
+      "Check out": "ميعاد الخروج :",
+      "Cancellation/ prepayment :": "الإلغاء / الدفع المسبق :",
+      "You can cancel your reservation and get your money back in": "يمكنك إلغاء الحجز الخاص بك واستعادة أموالك",
+      "days": "ايام",
+      "No age restriction :": "No age restriction :",
+      "There is no age requirement for check-in": "لا يوجد وقت محدد لتسجيل الوصول",
+      "Pets :": "حيوانات أليفة :",
+      "Pets are allowed": "مسموح بالحيوانات الأليفة",
+      "Pets are not allowed": "غير مسموح بالحيوانات الاليفة",
+      "Payments by Booking.com :": "المدفوعات عن طريق Booking.com :",
+      "Booking.com takes your payment on behalf of the property for this stay, but make sure you have cash for any extras once you get there.": "تقوم Booking.com بتحصيل مدفوعاتك لهذه الإقامة نيابة عن مكان الإقامة ، ولكن تأكد من أن لديك نقودًا مقابل أي إضافات بمجرد وصولك إلى هناك."
+    },
+    "MessageOffcanvas": {
+      "No answers yet": "لا إجابات حتى الآن",
+      "Read More": "اقرأ اكثر"
+    },
+    "MostPopularFacilities": {
+      "Free Wifi": "واى فاى مجانى",
+      "Fitness Center": "مركز اللياقة البدنية",
+      "Terrace": "Terrace",
+      "Restaurant": "مطعم",
+      "Room service": "خدمة الغرف",
+      "Family Rooms": "غرف عائلية",
+      "Airport shuttle": "مطار النقل",
+      "Sauna": "حمام بخار",
+      "Water Park": "ملاهي مائية",
+      "Swimming pool": "حمام السباحة",
+      "Spa": "منتجع صحى",
+      "24-hour front desk": "مكتب استقبال يعمل على مدار 24 ساعة",
+      "Hot tub/Jacuzzi": "حوض استحمام ساخن / جاكوزي",
+      "Garden": "حديقة",
+      "Air conditioning": "تكيف",
+      "Most popular facilities": "أشهر المرافق",
+      "No credit card needed to book.": "لا حاجة لبطاقة ائتمان للحجز.",
+      "We'll send you an email confirming your reservation": "سنرسل لك بريدًا إلكترونيًا لتأكيد حجزك",
+      "Lock in a great price for your upcoming stay": "ثبّت سعرًا رائعًا لإقامتك القادمة",
+      "Prices may go up, so secure your reservation today": "قد ترتفع الأسعار ، لذا قم بتأمين حجزك اليوم"
+    },
+    "NavHotel": {
+      "Info & prices": "المعلومات والأسعار",
+      "Facilities": "خدمات",
+      "Hous rules": "قواعد المنزل",
+      "Guest review": "تعليق الضيف"
+    },
+    "QuestionAndAnswers": {
+      "Property questions and answers": "أسئلة وأجوبة الملكية",
+      "Looking for more info? Send a question to the property to find out more.": "تبحث عن مزيد من المعلومات؟ أرسل سؤالاً إلى العقار لمعرفة المزيد.",
+      "Ask a question": "طرح سؤال",
+      "Didn't find the answer you were looking for? Ask a question about the property": "لم تجد الإجابة التي كنت تبحث عنها؟ اطرح سؤالا عن العقار",
+      "Type your question here:": "اكتب سؤالك هنا:",
+      "characters left": "اقصي عدد حروف مسموح به",
+      "Submit your question": "أرسل سؤالك",
+      "Your question will be published on Booking.com after it has been approved and answered.": "سيتم نشر سؤالك على Booking.com بعد الموافقة عليه والإجابة عليه.",
+      "Click here to read post guidelines.": "انقر هنا لقراءة إرشادات النشر.",
+      "Read all questions": "اقرأ جميع الأسئلة",
+      "Question & Answers": " أسئلة وإجابات",
+      "Got a question?":"لديك سؤال؟",
+      "Your question has been successfully posted": "وقد تم نشر سؤالك بنجاح"
+    },
+    "ReviewCanavas": {
+      "Leave Review": "اترك تعليق",
+      "Thank you for your review": "شكرا لك لتعليقك",
+      "Please leave a review and say what your opinion about this hotel.": "يرجى ترك تعليق وبيان رأيك في هذا الفندق.",
+      "Type your review here:": "اكتب رأيك هنا:",
+      "Rate by star": "التقييم بالنجوم",
+      "Send your review": "أرسل رأيك"
+    },
+    "Search": {
+      "We Price Match": "نحن مطابقة السعر",
+      "Search": "بحث",
+      "Destination/property name:": "اسم الوجهة / الخاصية:",
+      "Check-in date": "تاريخ الوصول",
+      "Check-out date": "موعد انتهاء الأقامة",
+      "7 nights stay": "إقامة 7 ليالٍ",
+      "1 adult · 0 children ·1 room": "1 adult · 0 children ·1 room",
+      "Action": "Action",
+      "Another action": "Another action",
+      "Something else here": "Something else here",
+      "Separated link": "Separated link",
+      "Entire homes & apartments": "منازل وشقق كاملة",
+      "I'm traveling for work": "انا مسافر للعمل",
+      "Show on map": "عرض على الخريطة",
+      "Map": "خريطة"
+    },
+    "WhyChose": {
+      "5 reasons to choose": "خمس أسباب لإختيار",
+      "Prices you can't beat!": "أسعار لا تضاهى!",
+      "Booking is safe": "الحجز آمن",
+      "Manage your bookings online": "إدارة الحجوزات الخاصة بك على الإنترنت",
+      "The staff speak English": "يتحدث الموظفون الإنجليزية",
+      "Great location and facilities for couples": "موقع رائع ومرافق للأزواج"
+    }
+  },
+  "Navbar": {
+    "Select your language": "اختر لغتك",
+    "Home": "الصفحه الرئيسية",
+    "Hotels": "الفنادق",
+    "Apartments": "شقق سكنية",
+    "Campgrounds": "المخيم",
+    "Community": "تواصل اجتماعي"
+  },
+  "Posts": {
+    "Addpost": {
+      "Create a post": "أنشئ منشورًا",
+      "Give a tip": "قدم نصيحة",
+      "Add Location": "أضف الموقع",
+      "Title": "لقب",
+      "Your tip ?": "نصيحتك؟",
+      "Ask a Question": "طرح سؤال",
+      "What kind of advice are you looking for ?": "ما نوع النصيحة التي تبحث عنها؟",
+      "Add Post": "أضف منشورا",
+      "Search": "بحث",
+      "Top places: London, Edinburgh, Manchester, Liverpool, Glasgow": "أفضل الأماكن: لندن ، إدنبرة ، مانشستر ، ليفربول ، غلاسكو",
+      "Filter by": "مصنف بواسطة",
+      "All": "الكل",
+      "Unaswered": "لم يتم الرد عليها",
+      "Questions": "اسئلة",
+      "Tips": "نصائح",
+      "Ambassador Program": "برنامج السفير",
+      "Terms & Conditions": "البنود و الشروط"
+    },
+    "Comment": {
+      "Delete comment": "حذف تعليق",
+      "Update comment": "تحديث التعليق",
+      "Leave Comment": "اترك تعليقا",
+      "Upload Image": "تحميل الصور",
+      "Update": "تحميل"
+    },
+    "Communities": {
+      "Coronavirus (COVID-19) Support": "دعم فيروس كورونا (كوفيد -19)",
+      "Get the travel advice you need Read more about possible travel restrictions before you go": "احصل على نصائح السفر التي تحتاجها اقرأ المزيد عن قيود السفر المحتملة قبل أن تسافر",
+      "Read More": "اقرأ أكثر"
+    },
+    "PostStructure": {
+      "SinglePost": {
+        "Edit": "تعديل",
+        "Delete": "حذف",
+        "Edit Post": "تعديل المنشور",
+        "Add Location": "أضف الموقع",
+        "Title": "لقب",
+        "What kind of advice are you looking for ?": "ما نوع النصيحة التي تبحث عنها؟",
+        "Update Post": "تحديث المنشور",
+        "Read more": "اقرأ أكثر",
+        "Comments": "تعليقات",
+        "Leave Comment": "اترك تعليقا",
+        "Upload Image": "تحميل الصور"
+      }
+    }
+  },
+  "Properties": {
+    "PropertiesCom": {
+      "Property": {
+        "Hotel": {
+          "Show on map": "عرض على الخريطة",
+          "reviews": "التعليقات",
+          "Show Details": " التفاصيل"
+        }
+      },
+      "ApartmentCom": {
+        "properties found": "يوجد ",
+        "apart":"عقارات",
+        "Show on map": "عرض على الخريطة",
+        "Latest Apartments": "أحدث الشقق",
+        "Top Reviews": "اعلى الاراء"
+      },
+      "CampCom": {
+        "camP":"مخيمات",
+        "properties found": "يوجد",
+        "Show on map": "عرض على الخريطة",
+        "Latest Campgrounds": "أحدث المخيمات",
+        "Top Reviews": "اعلى الاراء"
+      },
+      "HotelCom": {
+        "hoteL":"فنادق",
+        "properties found": "يوجد",
+        "Show on map": "عرض على الخريطة",
+        "Latest Hotels": "أحدث الفنادق",
+        "Top Reviews": "اعلى الاراء",
+        "Stars (highest first)": "النجوم (الأعلى أولاً)",
+        "Stars (Lowest first)": "النجوم (الأدنى أولاً)"
+      },
+      "Search": {
+        "Search": "بحث",
+        "Destination/property name:": "اسم الوجهة / الخاصية:",
+        "Check-in date": "بداية الاقامة",
+        "Check-out date": " انتهاء الأقامة",
+        "7 nights stay": "إقامة 7 ليالٍ",
+        "1 adult · 0 children ·1 room": "1 adult · 0 children ·1 room",
+        "Entire homes & apartments": "منازل وشقق كاملة",
+        "I'm traveling for work": "انا مسافر للعمل"
+      }
+    }
+  },
+  "PropertyType": {
+    "Browse by property type": "ابحث حسب نوع مكان الإقامة",
+    "Hotels": "الفنادق",
+    "Apartmetnts": "شقق سكنية",
+    "Campground": "المخيم"
+  },
+  "Recent-searches": {
+    "Get the advice you need. Check the latest COVID-19 restrictions before you travel": "احصل على النصيحة التي تحتاجها. تحقق من أحدث قيود COVID-19 قبل السفر",
+    "Learn more": "يتعلم أكثر",
+    "Your Recent Searches": "عمليات البحث الأخيرة الخاصة بك",
+    "Card title": "عنوان البطاقة",
+    "Last updated 3 mins ago": "آخر تحديث منذ 3 دقائق"
+  },
+  "UserDashBoard": {
+    "Bookings": {
+      "Hotel Name": "اسم الفندق",
+      "Room Name": "اسم الغرفة",
+      "Start At": "تبدأ في",
+      "End At": "ينتهى فى",
+      "Price": "السعر",
+      "Cancel": "إلغاء",
+      "You Can Cancel Before": "يمكنك الإلغاء من قبل",
+      "Days from the Start Day": "أيام من يوم البدء",
+      "Cancellation Not Available": "الإلغاء غير متوفر",
+      "Campground Name": "اسم المخيم",
+      "ApartMent Name": "اسم الشقة",
+      "Enter Your Paypal Account": "أدخل حسابك علي البايبال",
+      "Close":"إغلق",
+      "Send":"أرسل"
+    },
+    "Profile": {
+      "Edit Profile": "تعديل الملف الشخصي",
+      "Email address": "عنوان البريد الالكترونى",
+      "First Name": "الاسم الاول",
+      "Last Name": "الاسم الاخير",
+      "Password": "كلمة السر",
+      "City": "مدينة",
+      "Country": "دولة",
+      "Phone": "الهاتف",
+      "Update Profile": "تحديث الملف"
+    },
+    "Reviews": {
+      "Hotels Reviews": "تقييمات الفنادق",
+      "Apartments Reviews": "تقييمات الشقق",
+      "Campgrounds Reviews": "تقييمات المخيمات",
+      "No Reviews":"لا تعليق"
+    }
+  }
+}
