@@ -1,0 +1,126 @@
+<div *ngIf="isLoading" class="d-flex justify-content-center align-items-center spinner">
+  <mat-spinner></mat-spinner>
+</div>
+<div *ngIf="!isLoading" class="container my-5 bg-white  p-3 rounded-3">
+  <div class="d-flex my-3 flex-wrap">
+    <h1 class="flex-grow-1">Group homepage</h1>
+    <button class="btn btn-primary" routerLink="/add-property-home">Add New Property</button>
+  </div>
+
+  <div *ngIf="apartments.length<=0&&campgroundAny.length<=0&&hotelAny.length<=0 &&!isLoading">
+    <div class="d-flex py-5 my-5 justify-content-lg-center align-items-center flex-column">
+      <svg data-test-id="default-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="70px"
+        fill="#888888" height="70px" class="bui-empty-state__icon">
+        <path
+          d="M13.629 22.5H2.25a.75.75 0 0 1-.75-.75V2.25a.75.75 0 0 1 .75-.75h19.5a.75.75 0 0 1 .75.75v11.379a.75.75 0 0 1-.22.53L14.16 22.28a.75.75 0 0 1-.53.219zm0 1.5a2.25 2.25 0 0 0 1.59-.659l8.122-8.122A2.25 2.25 0 0 0 24 13.63V2.25A2.25 2.25 0 0 0 21.75 0H2.25A2.25 2.25 0 0 0 0 2.25v19.5A2.25 2.25 0 0 0 2.25 24h11.379zM15 23.115V15.75a.75.75 0 0 1 .75-.75h7.365a.75.75 0 0 0 0-1.5H15.75a2.25 2.25 0 0 0-2.25 2.25v7.365a.75.75 0 0 0 1.5 0z">
+        </path>
+      </svg>
+      <h4 class="my-4" style="color:#888888">No properties yet</h4>
+    </div>
+  </div>
+
+  <div class="row ">
+    <div class="col">
+      <ng-container *ngIf="apartments.length!=0&&!isLoading">
+        <h1>Apartments</h1>
+        <mat-card class="my-4 bg-light">
+          <div class="d-flex ">
+            <h3 class="col-1 fw-bold">#</h3>
+            <h3 class="col-3 fw-bold">Name</h3>
+            <h3 class="col-3 fw-bold">Location</h3>
+            <h3 class="col-2 fw-bold">Status</h3>
+            <h3 class="col-2 fw-bold">Messages</h3>
+            <h3 class="col-1 fw-bold">Bookings</h3>
+          </div>
+          <hr>
+          <ng-container class="overflow-scroll" *ngFor="let apartment of apartments; let i = index">
+            <mat-card class="my-2 p-0 matCard">
+              <div class="d-flex pt-4 align-items-center">
+                <h4 class="col-1"><img class="propImage" [src]="apartment.images[0]" alt=""></h4>
+                <h4 class="col-3" (click)="apartmentRedirect(apartment)">{{apartment.apartmentName }}</h4>
+                <h4 class="col-3">{{apartment.country}}/{{apartment.city}}</h4>
+                <h4 class="col-2">{{apartment.status}}</h4>
+                <h4 class="col-2">
+                  <span class="badge-rating">{{
+                    apartment.messages.length
+                    }}</span>
+                </h4>
+                <h4 class="col-1">
+                  <span class="badge-rating">{{
+                    apartment.bookings.length
+                    }}</span>
+                </h4>
+              </div>
+            </mat-card>
+          </ng-container>
+        </mat-card>
+      </ng-container>
+
+      <ng-container *ngIf="hotelAny.length!=0&&!isLoading">
+        <h1>Hotels</h1>
+        <mat-card class="my-4 bg-light">
+          <div class="d-flex ">
+            <h3 class="col-1 fw-bold">#</h3>
+            <h3 class="col-3 fw-bold">Name</h3>
+            <h3 class="col-3 fw-bold">Location</h3>
+            <h3 class="col-2 fw-bold">Status</h3>
+            <h3 class="col-2 fw-bold">Messages</h3>
+            <h3 class="col-1 fw-bold">Bookings</h3>
+          </div>
+          <hr>
+          <ng-container *ngFor="let hotel of hotelAny; let i = index">
+            <mat-card class="my-2 p-0 matCard">
+              <div class="d-flex pt-4 align-items-center">
+                <h4 class="col-1"><img class="propImage" [src]="hotel.images[0]" alt=""></h4>
+                <h4 class="col-3" (click)="hotelRedirect(hotel)">{{hotel.hotelName }}</h4>
+                <h4 class="col-3">{{hotel.country}}/{{hotel.city}}</h4>
+                <h4 class="col-2">{{hotel.status}}</h4>
+                <h4 class="col-2">
+                  <span class="badge-rating">{{
+                    hotel.messages.length
+                    }}</span>
+                </h4>
+                <h4 class="col-1">
+                  <span class="badge-rating"> {{hotelBooking[i]}}</span>
+                </h4>
+              </div>
+            </mat-card>
+          </ng-container>
+        </mat-card>
+      </ng-container>
+
+      <ng-container *ngIf="campgroundAny.length!=0&&!isLoading">
+        <h1>Campgrounds</h1>
+        <mat-card class="my-4 bg-light">
+          <div class="d-flex align-items-center">
+            <h3 class="col-1 fw-bold">#</h3>
+            <h3 class="col-3 fw-bold">Name</h3>
+            <h3 class="col-3 fw-bold">Location</h3>
+            <h3 class="col-2 fw-bold">Status</h3>
+            <h3 class="col-2 fw-bold">Messages</h3>
+            <h3 class="col-1 fw-bold">Bookings</h3>
+          </div>
+          <hr>
+          <ng-container *ngFor="let camp of campgroundAny; let i = index">
+            <mat-card class="my-2 p-0 matCard">
+              <div class="d-flex pt-4 align-items-center">
+                <h4 class="col-1"><img class="propImage" [src]="camp.images[0]" alt=""></h4>
+                <h4 class="col-3" (click)="campRedirect(camp)">{{camp.campgroundName }}</h4>
+                <h4 class="col-3">{{camp.country}}/{{camp.city}}</h4>
+                <h4 class="col-2">{{camp.status}}</h4>
+                <h4 class="col-2">
+                  <span class="badge-rating">{{
+                    camp.messages.length
+                    }}</span>
+                </h4>
+                <h4 class="col-1">
+                  <span class="badge-rating"> {{campid[i]}}</span>
+                </h4>
+              </div>
+            </mat-card>
+          </ng-container>
+        </mat-card>
+      </ng-container>
+    </div>
+  </div>
+</div>

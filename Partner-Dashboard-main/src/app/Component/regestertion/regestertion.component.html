@@ -1,0 +1,189 @@
+<header>
+  <div class="container pt-2  d-flex align-items-center">
+    <h1>Booking.com</h1>
+  </div>
+</header>
+<div class="my-login-page">
+  <section class="h-100">
+    <div class="container h-100">
+      <div class="row justify-content-md-center h-100">
+        <div class="card-wrapper">
+          <div class="brand">
+            <img src="assets/booking-logo-504475D532-seeklogo.com.png" alt="bootstrap 4 login page">
+          </div>
+          <div class="card fat">
+            <div class="card-body">
+              <h2 class="card-title text-center">Registeration</h2>
+
+              <mat-stepper orientation="vertical">
+                <form class="my-login-validation" novalidate="" #ngForm="ngForm">
+                  <mat-step>
+                    <ng-template matStepLabel>Main information</ng-template>
+
+                    <div class="my-1">
+                      <mat-form-field class="w-100" appearance="outline">
+                        <mat-label>Username</mat-label>
+                        <input type="text" name="username" required autofocus #username="ngModel"
+                          [(ngModel)]="UserData.username" matInput>
+                      </mat-form-field>
+                    </div>
+                    <div class="my-1">
+                      <mat-form-field class="w-100" appearance="outline">
+                        <mat-label>Email</mat-label>
+                        <input type="email" name="email" required #email="ngModel" [(ngModel)]="UserData.email"
+                          matInput>
+                      </mat-form-field>
+                    </div>
+                    <div class="my-1">
+                      <mat-form-field class="w-100" appearance="outline">
+                        <mat-label>Password</mat-label>
+                        <input name="password" type="password" required #password="ngModel"
+                          [(ngModel)]="UserData.password" matInput>
+                      </mat-form-field>
+                    </div>
+
+
+                    <div>
+
+                      <button mat-button matStepperNext
+                        [disabled]="username.invalid||password.invalid||email.invalid">Next</button>
+                    </div>
+                  </mat-step>
+                  <mat-step>
+                    <ng-template matStepLabel>Personal informations</ng-template>
+                    <div class="w-100">
+                      <div class="my-1">
+                        <mat-form-field class="w-100" appearance="outline">
+                          <mat-label>First name</mat-label>
+                          <input required name="firstName" #firstName="ngModel" matInput
+                            [(ngModel)]="UserData.firstName">
+                        </mat-form-field>
+                      </div>
+                      <div class="my-1">
+                        <mat-form-field class="w-100" appearance="outline">
+                          <mat-label>Last name</mat-label>
+                          <input required name="lastName" #lastName="ngModel" matInput [(ngModel)]="UserData.lastName">
+                        </mat-form-field>
+                      </div>
+                      <div class="my-1">
+                        <mat-form-field appearance="outline" class="w-100">
+                          <mat-label>Gender</mat-label>
+                          <mat-select name="gender" #gender="ngModel" [(ngModel)]="UserData.gender">
+                            <mat-option value=male>Male</mat-option>
+                            <mat-option value=female>Female</mat-option>
+                          </mat-select>
+                        </mat-form-field>
+
+                      </div>
+
+                      <div class="my-1">
+                        <mat-form-field class="w-100" appearance="outline">
+                          <mat-label>Country</mat-label>
+                          <input required #country="ngModel" name="country" matInput placeholder="Ex. Egypt"
+                            [(ngModel)]="UserData.country">
+                        </mat-form-field>
+                      </div>
+                      <div class="my-1">
+                        <mat-form-field class="w-100" appearance="outline">
+                          <mat-label>City</mat-label>
+                          <input required #city="ngModel" name="city" matInput placeholder="Ex. Egypt"
+                            [(ngModel)]="UserData.city">
+                        </mat-form-field>
+                      </div>
+
+
+                      <div class="my-1">
+                        <mat-form-field class="w-100" appearance="outline">
+                          <mat-label>Phone</mat-label>
+                          <input required #phone="ngModel" name="phone" matInput placeholder="Ex. 010"
+                            [(ngModel)]="UserData.phone">
+                        </mat-form-field>
+                      </div>
+
+
+                      <div class="my-1">
+
+                        <mat-form-field appearance="outline">
+                          <mat-label>Birthday</mat-label>
+                          <input required #birthday="ngModel" name="birthday" matInput [matDatepicker]="picker"
+                            [(ngModel)]="UserData.birthday">
+                          <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
+                          <mat-datepicker #picker></mat-datepicker>
+                        </mat-form-field>
+                      </div>
+                    </div>
+
+
+                    <div>
+                      <button mat-button matStepperPrevious>Back</button>
+                      <button mat-button matStepperNext
+                        [disabled]="birthday.invalid||phone.invalid||firstName.invalid||lastName.invalid||city.invalid||country.invalid||birthday.invalid">Next</button>
+                    </div>
+                  </mat-step>
+                  <mat-step>
+                    <ng-template matStepLabel>Profile picture</ng-template>
+                    <div class="col-8 my-3">
+                      <label class="btn btn-default p-0">
+                        <input required type="file" name="multiple_images" accept="image/*"
+                          (change)="selectFiles($event)" />
+                      </label>
+                    </div>
+
+                    <div class="mt-1">
+                      <img *ngFor='let preview of previews' [src]="preview" class="preview">
+                    </div>
+
+                    <div>
+                      <button mat-button matStepperPrevious>Back</button>
+                      <button mat-button matStepperNext>Next</button>
+                    </div>
+                  </mat-step>
+                  <mat-step>
+                    <ng-template matStepLabel>Done</ng-template>
+
+                    <h3 class="my-3">Select role</h3><br>
+                    <mat-radio-group class="my-3" aria-label="Select rule" name="type">
+                      <mat-radio-button color="primary" class="me-5 my-1" (click)="partnerCheck()" value="partner">
+                        Partner
+                      </mat-radio-button>
+                      <mat-radio-button color="primary" class="my-1 ms-2" (click)="userCheck()" checked value="user">
+                        Guest
+                      </mat-radio-button>
+                    </mat-radio-group>
+                    <div>
+                      <div class="form-group m-0">
+                        <button type="submit" class="submit w-100 my-4">
+                          <button class="btn btn-primary btn-block" [disabled]="!ngForm.valid" (click)="uploadFiles()">
+                            Register
+                          </button>
+                        </button>
+                        <button mat-button matStepperPrevious>Back</button>
+                      </div>
+                    </div>
+                  </mat-step>
+
+                </form>
+              </mat-stepper>
+              <div class="alert-success p-2 mt-2 rounded-2 my-2" *ngIf="success">
+                {{success}}
+              </div>
+
+              <div class="alert-danger p-2 mt-2 rounded-2 my-2" *ngIf="wrong">
+                {{wrong}}
+              </div>
+              <div class="mt-4 text-center">
+                Already have an account? <a routerLink="/login">Login</a>
+              </div>
+
+            </div>
+          </div>
+          <div class="footer">
+            Copyright &copy; 2021 &mdash; Booking.com
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+  </section>
+</div>
